@@ -1,0 +1,1001 @@
+flight_number,departure_airport,arrival_airport,departure_date,arrival_date,departure_time,arrival_time,airline,flight_duration,passenger_count,ticket_price,cabin_class,flight_status,aircraft_type,pilot_name,co_pilot_name
+7206,FSN,POR,2/28/2022,7/11/2022,5:17 PM,11:27 PM,United,1.71,70,58.63,First,Cancelled,Airbus A320,Kirby Najera,Kippie Mixer
+9472,AIF,SGA,5/25/2022,4/2/2022,5:42 PM,3:38 AM,Delta,5.53,423,695.36,Business,Cancelled,Boeing 737,Samuel Troyes,Haley Colvine
+1757,NSI,DIN,3/8/2022,12/15/2022,5:26 PM,6:00 PM,United,5.8,350,699.51,First,On Time,Airbus A320,Hana Castiglio,Erinn Adamik
+9944,PYA,LFB,5/21/2022,10/31/2022,3:29 PM,9:11 PM,American,5.35,31,397.78,First,Cancelled,Airbus A320,Raynell Raylton,Rudd Mulvin
+3973,BNQ,TAX,1/9/2022,11/30/2022,5:23 AM,3:12 PM,Delta,3.68,350,573.51,First,On Time,Boeing 787,Alwyn Whittuck,Amandie Wilmington
+3303,AHC,LBA,12/7/2022,3/8/2022,11:52 AM,9:34 PM,United,3.93,37,287.41,First,Cancelled,Airbus A320,Aharon Medling,Hakim Curling
+3003,RDM,QSR,3/21/2022,11/8/2022,2:12 PM,7:18 AM,American,1.74,81,688.69,Business,On Time,Boeing 737,Aimee Milton,Brant Gilffillan
+1360,ARI,UAE,1/17/2022,6/20/2022,6:27 PM,11:00 AM,Delta,5.75,199,149.27,First,On Time,Airbus A320,Valerie Siggins,Morie Bartelot
+6407,SRN,CEZ,1/20/2022,6/7/2022,6:29 AM,2:30 PM,United,3.76,289,646.31,First,Delayed,Boeing 787,Billie Raymond,Virginie Hamberstone
+1841,KEZ,RAQ,11/18/2022,6/23/2022,7:37 AM,2:30 AM,American,6.6,417,525.82,Economy,On Time,Boeing 737,Shirline Charlet,Noelani Vanelli
+7922,TLW,CIQ,4/23/2022,12/16/2022,4:52 AM,7:11 PM,United,8.72,279,240.49,Business,Delayed,Airbus A320,Stearn Eayres,Sibel Stanlock
+1669,HAE,ZHY,3/29/2022,8/18/2022,9:33 PM,8:47 AM,American,6.84,367,126.41,Economy,Cancelled,Boeing 737,Maximilian Epdell,Minnnie Frays
+5545,NBH,ZMD,5/21/2022,6/26/2022,1:57 AM,8:43 PM,American,3.08,265,765.38,Economy,Cancelled,Airbus A320,Dougy Freshwater,Ethelind Sollime
+8327,CSN,LAM,5/28/2022,1/12/2022,8:28 AM,7:13 AM,Delta,1.44,49,936.83,Economy,Cancelled,Boeing 787,Bobby Figgess,Clerkclaude Locket
+7042,QSF,SHY,10/5/2022,2/22/2022,3:35 AM,10:33 AM,American,5.27,342,673.01,Economy,On Time,Airbus A320,Caren Tue,Enrico O'Hallagan
+3724,CIA,TBM,8/5/2022,5/3/2022,7:37 PM,1:12 AM,American,4.01,389,173.69,First,On Time,Boeing 737,Elisabeth Jakoub,Sashenka Ferentz
+9063,MOE,PDD,7/1/2022,9/12/2022,9:41 AM,5:25 AM,United,5.28,374,64.26,Economy,On Time,Boeing 787,Wernher Francino,Jereme Paur
+7342,YYZ,DNH,6/18/2022,3/29/2022,2:41 PM,11:16 PM,United,8.49,266,776.49,Business,On Time,Airbus A320,Isaak Lacknor,Carmine Godding
+2303,BRP,ZHP,5/15/2022,8/13/2022,12:14 AM,4:05 AM,United,5.06,153,508.09,Business,On Time,Airbus A320,Felita Bulford,Delores Wark
+9851,CCB,BHR,1/20/2022,9/28/2022,5:57 PM,10:55 AM,Delta,1.34,389,268.06,Economy,Delayed,Airbus A320,Neil Bilborough,Dolley Mars
+8677,NLK,KRE,11/3/2022,11/10/2022,9:01 AM,3:39 AM,American,8.7,175,632.59,Economy,On Time,Boeing 737,Carmine Shallcroff,Hardy Morewood
+4298,PGO,CZN,10/16/2022,4/4/2022,12:52 PM,12:40 PM,Delta,1.02,105,848.31,First,Delayed,Airbus A320,Lissa Atwell,Northrop Haldene
+8204,IAA,ASU,8/17/2022,8/10/2022,1:36 AM,8:34 AM,Delta,2.42,361,639.08,Business,On Time,Boeing 737,Ashleigh Devote,Rodd Ceschini
+1140,TPU,BHJ,11/23/2022,8/22/2022,11:16 PM,10:14 AM,United,1.33,249,187.81,Economy,Delayed,Airbus A320,Gabbi Querrard,Jaquenette Denge
+1840,LME,SDF,3/28/2022,9/8/2022,7:07 PM,5:38 PM,United,6.95,227,876.25,Business,On Time,Boeing 787,Petronella Dudleston,Shea Van Weedenburg
+1243,RDU,TSW,5/22/2022,3/18/2022,12:36 AM,12:16 AM,American,4.67,142,443.03,Business,On Time,Boeing 737,Cami De Moreno,Faustine Singh
+6984,HYR,SHC,9/1/2022,3/30/2022,11:02 AM,8:26 PM,Delta,3.87,87,213.18,First,Delayed,Boeing 737,Noel Wimes,Verile Freen
+8693,OVB,EUA,5/12/2022,12/12/2022,11:26 PM,8:48 PM,American,8.23,384,330.52,Business,Delayed,Boeing 737,Ronnica Kear,Siana Choldcroft
+2635,BHL,WIO,9/25/2022,1/18/2022,10:48 PM,10:38 AM,United,8.66,469,137.63,First,On Time,Airbus A320,Shalom Ferreiro,Gannie Hatliff
+6911,FDU,KTM,4/27/2022,4/19/2022,3:40 AM,7:17 PM,United,1.5,133,198.9,Business,On Time,Airbus A320,Lev Jannings,Chrissie Bellson
+478,EVA,THN,9/8/2022,10/24/2022,5:45 AM,1:10 PM,Delta,5.54,137,601.32,First,Cancelled,Boeing 737,Lonnie Yewdale,Sallee Powner
+7405,YMS,YDU,6/6/2022,12/22/2022,6:36 AM,2:06 AM,Delta,4.4,103,234.92,Business,Cancelled,Airbus A320,Ewen Corzor,Diahann Hexum
+1039,MPA,PHT,10/17/2022,2/22/2022,11:41 AM,9:09 PM,Delta,6.91,285,951.17,Business,Delayed,Boeing 737,Dwain Thomason,Ashli Hanney
+1016,DBT,RRG,2/24/2022,2/15/2022,10:39 AM,2:12 PM,American,4.55,98,818.2,Economy,Cancelled,Airbus A320,Sheryl Rotherham,Hughie Baldinotti
+7941,KUC,PEV,6/2/2022,6/25/2022,11:02 AM,6:20 AM,American,9.51,422,341.37,Economy,Cancelled,Boeing 787,Imogen Baine,Barris Hartzenberg
+141,CTH,MLR,11/13/2022,8/13/2022,10:19 AM,1:45 PM,American,4.49,270,550.16,First,Cancelled,Airbus A320,Camey Ipwell,Rozele Bourthoumieux
+9424,OUZ,BRA,8/30/2022,6/11/2022,2:19 PM,11:29 AM,American,2.57,298,496.42,First,On Time,Boeing 737,Faulkner Tomlinson,Egbert Curthoys
+8165,XUZ,PTZ,7/3/2022,8/14/2022,8:13 PM,11:41 AM,United,1.82,496,644.31,Economy,Delayed,Boeing 787,Regan Portch,Mahala Chappell
+4595,ZTA,OLR,9/10/2022,12/10/2022,3:27 PM,2:48 AM,United,8.45,235,870.07,First,Delayed,Airbus A320,Ashlan Fransman,Fifi Robet
+2794,FUE,OHB,5/14/2022,4/22/2022,7:06 PM,10:07 PM,American,2.59,487,134.04,First,Delayed,Boeing 737,Berrie Lansdale,Celina Beecroft
+8360,FOT,HKP,9/24/2022,10/31/2022,7:01 PM,2:26 PM,American,9.7,419,860.78,Business,On Time,Airbus A320,Hyatt Dalby,Felice Stidever
+8524,GRD,FLN,11/12/2022,12/2/2022,3:32 AM,5:01 PM,United,3.17,12,694.68,First,Delayed,Boeing 787,Enos Richardet,Stefanie Lusher
+7530,OCJ,KKG,12/3/2022,7/25/2022,4:46 PM,10:11 PM,American,5.97,314,379.42,Business,Delayed,Boeing 787,Legra Fost,Trefor McGing
+4893,LPP,FLU,11/10/2022,12/24/2022,12:43 AM,4:40 PM,Delta,4.41,442,541.27,Economy,Delayed,Airbus A320,Dorothea Gordon-Giles,Evey MacBain
+7626,GQQ,SOV,2/25/2022,5/18/2022,11:49 AM,2:15 PM,American,6.23,50,703.19,First,Delayed,Boeing 787,Ivy McRannell,Ripley Velasquez
+2856,ACL,STA,9/7/2022,11/15/2022,1:23 PM,2:46 AM,Delta,6.94,210,367.51,Business,Delayed,Boeing 787,Filide Danet,Elizabet Capelen
+4709,WWR,IRC,9/28/2022,3/6/2022,7:26 PM,7:31 AM,American,1.31,492,230.44,Business,Cancelled,Boeing 787,Grayce Stickens,Donnell Aspinell
+7802,SHY,LEN,10/7/2022,10/27/2022,11:29 PM,8:33 PM,Delta,8.08,106,444.72,Business,On Time,Airbus A320,Roxana Oxbe,Amii Bredes
+6265,GCM,DUJ,6/22/2022,6/24/2022,1:25 AM,7:09 AM,United,4.46,365,116.94,First,Cancelled,Boeing 787,Kayne Cabell,Griff O'Dowd
+8647,TSZ,BZS,1/12/2022,2/20/2022,10:07 AM,4:47 PM,Delta,2.79,425,638.9,First,Delayed,Airbus A320,Gerek Glendza,Kitty Alejandro
+4668,DAN,LBJ,12/11/2022,5/12/2022,3:44 AM,5:05 AM,American,7.84,147,62.62,Economy,Delayed,Boeing 737,Alicea Petera,Maureen Nilles
+7230,SPY,GLG,10/4/2022,2/26/2022,4:48 AM,7:49 PM,Delta,2.84,103,640.62,Business,Cancelled,Boeing 787,Morgen Alwell,Tommy Pidgeley
+5910,BDV,MXA,8/6/2022,2/20/2022,12:39 PM,9:09 AM,United,4.34,235,283.27,Business,On Time,Boeing 737,Sibley O' Shea,Grete Menloe
+968,WDR,RUH,2/20/2022,7/27/2022,9:10 PM,11:57 AM,Delta,3.42,52,920.11,Business,On Time,Boeing 737,Lowrance Stannett,Jeremias Alekhov
+9248,MZH,BZP,9/30/2022,10/11/2022,1:06 AM,8:29 AM,United,2.55,443,97.31,Economy,On Time,Boeing 737,Ryon Crichmer,Shaun Cupper
+7150,DMK,CTR,9/16/2022,10/4/2022,7:22 PM,11:53 PM,United,9.0,20,77.07,First,Cancelled,Boeing 787,Trenna Catteroll,Minne Brandenberg
+2668,KSK,OKI,11/22/2022,6/25/2022,6:34 PM,8:07 AM,American,2.68,131,638.77,First,Cancelled,Boeing 787,Arline Tevlin,Blondelle Clingan
+6963,HBK,LMA,4/24/2022,8/2/2022,9:15 AM,6:22 AM,Delta,2.26,303,681.91,Business,On Time,Airbus A320,Wiley Welberry,Mollee Bellwood
+1856,ELN,JKG,5/15/2022,5/22/2022,3:59 PM,4:42 AM,United,6.1,86,618.53,Economy,Cancelled,Airbus A320,Joseph Karadzas,Arther Conklin
+7374,CLG,KAM,4/26/2022,8/16/2022,11:42 PM,10:50 AM,American,3.56,279,191.75,Business,On Time,Boeing 787,Tessi Grinnell,Noah Mably
+4862,CSK,BOW,1/5/2022,12/4/2022,7:10 AM,3:12 PM,United,9.28,497,160.52,First,Delayed,Boeing 787,Hadria Nacey,Muriel Wilcinskis
+3877,AMP,KAU,3/10/2022,6/19/2022,10:24 PM,2:26 PM,Delta,7.33,216,401.23,First,Cancelled,Boeing 737,Vilhelmina Roskell,Susette Chisman
+8017,RZP,NTY,3/12/2022,7/10/2022,5:07 AM,10:44 AM,American,2.28,461,824.35,Business,Delayed,Boeing 787,Jasmin Titterton,Sheffy Glaister
+5178,WIC,BXG,4/11/2022,4/15/2022,11:12 PM,5:29 PM,American,7.9,406,213.77,Business,Cancelled,Boeing 737,Zechariah Alison,Inger Bachnic
+7054,TKE,WMA,7/20/2022,6/19/2022,9:08 AM,6:30 PM,American,5.76,267,971.29,Business,Cancelled,Boeing 787,Tessi Maciejewski,Durant Saint
+1969,CLG,AGG,12/27/2022,6/1/2022,8:06 PM,10:14 AM,United,6.36,475,739.78,Economy,Cancelled,Boeing 737,Corbin Stetson,Anders Riach
+3347,LJA,WDR,2/23/2022,4/10/2022,8:48 PM,6:47 PM,Delta,8.95,409,554.56,First,On Time,Boeing 787,Nedi Corkan,Elnora FitzGibbon
+1242,EGV,GRC,12/9/2022,3/24/2022,1:51 AM,11:07 PM,American,3.9,197,664.13,First,Cancelled,Airbus A320,Normy Keggin,Reggi Scrogges
+309,YTA,APX,11/18/2022,8/30/2022,1:12 PM,1:22 PM,Delta,5.96,181,408.95,First,On Time,Airbus A320,Richard Kardos,Stacee Ablewhite
+7123,AYY,PHM,11/6/2022,5/26/2022,4:31 AM,1:30 AM,Delta,7.12,3,175.07,Business,Cancelled,Airbus A320,Delmar Laflin,Andrew O'Collopy
+7584,ZST,PKK,1/15/2022,2/16/2022,8:58 AM,1:05 PM,Delta,9.96,319,551.67,Business,Delayed,Boeing 737,Perice Nadin,Dinny Robers
+4809,DWS,NOO,12/2/2022,11/6/2022,3:09 PM,7:42 PM,United,5.51,186,488.0,Business,On Time,Boeing 787,Yvonne Rathke,Forrest Hearn
+8722,CLV,EAU,4/24/2022,5/30/2022,3:32 PM,10:37 AM,Delta,6.38,438,129.03,First,On Time,Boeing 787,Kinna Ineson,Dora Scapens
+7427,JOG,ONR,12/28/2022,6/27/2022,7:28 PM,9:39 PM,American,1.46,438,772.21,Business,On Time,Airbus A320,Irena Phinnis,Bibbie Clemoes
+4166,ZEC,KUN,5/23/2022,11/19/2022,12:59 PM,10:50 PM,American,2.63,352,803.4,Business,On Time,Boeing 737,Jackson Pettisall,Ellie Catterall
+7622,MPI,AAK,6/9/2022,8/31/2022,3:07 AM,11:58 AM,American,2.82,76,361.46,First,On Time,Boeing 787,Sullivan Crinion,Wolfy Eisikowitch
+3058,HSC,ESW,11/21/2022,6/11/2022,9:13 PM,5:41 AM,United,2.31,404,703.2,Business,Cancelled,Airbus A320,Jeanna Huxter,Kristoforo Casetta
+2800,ILL,DTM,5/8/2022,8/6/2022,1:28 AM,8:14 PM,Delta,3.76,314,197.55,Business,On Time,Airbus A320,Doralin Greenroad,Gertruda Sjostrom
+9939,BHW,OKK,4/2/2022,7/23/2022,3:00 PM,3:27 AM,American,1.66,443,259.25,Business,On Time,Boeing 737,Devy Losebie,Shaylah Begley
+996,EDO,SNK,11/15/2022,10/22/2022,3:07 AM,6:43 AM,American,5.35,229,165.91,First,Cancelled,Boeing 787,Theresina Loutheane,Free McKinnell
+308,ABI,QOQ,5/24/2022,7/30/2022,12:01 AM,8:56 PM,American,5.57,127,743.73,Business,Cancelled,Airbus A320,Cornie Krahl,Trace Hickeringill
+9815,ROU,PBG,8/3/2022,2/1/2022,12:50 AM,3:25 PM,Delta,3.05,160,499.84,Economy,Cancelled,Airbus A320,Marie-jeanne Berkery,Seymour Lazenby
+5851,CXY,VPS,3/20/2022,9/7/2022,6:37 PM,8:27 PM,United,4.19,101,104.71,First,On Time,Airbus A320,Valentijn Tolliday,Tripp Reinbach
+2431,JAN,FRW,8/20/2022,3/4/2022,4:53 AM,8:43 AM,American,4.72,272,737.62,Economy,On Time,Airbus A320,Huberto Mogridge,Alon Feakins
+3921,PIZ,OXF,3/3/2022,10/12/2022,9:38 AM,3:28 PM,United,7.86,38,437.23,First,Cancelled,Boeing 787,Maegan Meindl,Herbie Klishin
+2403,RAF,PTJ,3/5/2022,8/31/2022,7:31 AM,7:52 AM,Delta,2.65,281,740.96,First,Cancelled,Airbus A320,Evangelin Rubke,Don Pringour
+9365,BHX,KHH,5/17/2022,10/11/2022,6:30 PM,4:58 PM,American,7.53,473,118.3,Business,On Time,Airbus A320,Frederique Parratt,Ivett Stonier
+8709,CIP,MKQ,3/8/2022,10/2/2022,4:32 PM,11:28 PM,Delta,2.86,58,817.94,Business,Delayed,Boeing 787,Cosme Whiscard,Lenard Frape
+3881,LGG,BIN,2/27/2022,2/9/2022,10:15 AM,6:41 AM,United,4.49,465,51.04,Economy,Cancelled,Boeing 787,Imojean Bowmaker,Kaila Este
+5161,CEO,WOE,9/11/2022,10/10/2022,10:48 PM,11:16 AM,United,8.27,429,322.54,First,Delayed,Airbus A320,Wendell Bulbrook,Elsy Grimes
+5914,BQS,CVN,8/17/2022,9/26/2022,9:17 AM,1:31 AM,Delta,2.18,305,925.29,Business,Delayed,Airbus A320,Bernadine Rampling,Merell Plumbley
+2922,PUA,MRP,7/14/2022,3/13/2022,4:36 AM,2:55 AM,Delta,7.12,370,912.78,First,Delayed,Boeing 737,Isaiah Jeaycock,Martelle McGonagle
+8329,ECA,EPU,7/11/2022,10/26/2022,1:11 AM,5:23 AM,American,4.62,27,539.48,Business,On Time,Boeing 787,Arabele Scurman,Wells Oakden
+9934,YWS,YHR,8/14/2022,3/20/2022,12:46 AM,1:29 AM,Delta,5.8,71,79.52,First,On Time,Boeing 787,Bertina Tolerton,Newton Bangs
+1472,NCT,NRM,4/1/2022,5/11/2022,6:21 AM,2:55 PM,American,2.05,480,329.74,Economy,Cancelled,Boeing 737,Johan Yanyshev,Kira Storkes
+6420,KAM,ABI,3/17/2022,10/27/2022,4:21 AM,1:48 AM,American,4.2,248,198.81,Economy,On Time,Airbus A320,Maggy Brydon,Tamarra Lougheid
+3881,TNC,DAS,4/9/2022,11/1/2022,2:15 PM,12:46 AM,Delta,3.25,187,349.29,Economy,Cancelled,Boeing 787,Emalia Pilgrim,Karalynn Prendeguest
+9646,AWK,FEG,2/27/2022,11/30/2022,12:35 AM,12:40 AM,American,1.66,248,713.32,Economy,Cancelled,Boeing 787,Mady Petronis,Ermentrude Warlawe
+6118,ALI,PAO,10/11/2022,12/11/2022,1:27 PM,6:14 AM,Delta,1.26,132,893.53,First,On Time,Boeing 787,Vassily Verbruggen,Brana Vogl
+1400,EUN,BHM,9/19/2022,3/3/2022,10:00 AM,11:49 AM,Delta,6.69,346,777.41,First,Cancelled,Airbus A320,Rowney Renshaw,Dorie Sperling
+7197,KGJ,ZRJ,12/14/2022,5/29/2022,10:01 PM,7:28 PM,Delta,1.82,354,256.08,Business,Cancelled,Boeing 787,Hymie Sommersett,Cross Marks
+2493,PWO,FKL,2/9/2022,12/7/2022,4:13 PM,7:57 AM,United,2.94,116,464.46,Economy,Cancelled,Airbus A320,Katha Fennick,Dag Pressnell
+6393,NNR,YYY,7/30/2022,3/15/2022,4:35 AM,5:27 AM,Delta,4.06,85,176.86,First,Cancelled,Boeing 737,Ailbert Crabtree,Brandyn Kernaghan
+9791,KHJ,HEX,5/17/2022,9/15/2022,12:41 PM,4:42 PM,United,2.62,188,135.49,Business,Cancelled,Boeing 787,Titus Bezarra,Nora Ragles
+3295,AEH,AKW,3/18/2022,4/3/2022,2:38 AM,12:22 PM,American,9.47,100,320.53,Business,On Time,Boeing 787,Yetty Capaldi,Billye Tather
+7531,ONQ,DOE,5/29/2022,10/19/2022,10:53 AM,10:40 AM,Delta,9.33,241,121.54,Economy,Cancelled,Airbus A320,Donnie Annell,Hillyer MacTague
+1869,PTD,EZE,4/7/2022,11/17/2022,3:09 AM,7:51 PM,Delta,2.08,117,628.27,Economy,On Time,Boeing 737,Wiatt Orrin,Tiffi Flewitt
+4169,LOE,CSR,11/7/2022,8/16/2022,4:13 PM,11:12 AM,Delta,2.35,424,814.8,Economy,On Time,Airbus A320,Sharon Di Giorgio,Tomas Thorns
+980,BDH,BOG,9/13/2022,3/23/2022,4:44 AM,7:29 PM,American,1.54,208,682.05,Economy,On Time,Boeing 737,Beniamino Burdas,Susanne Yannikov
+8859,IHU,HMR,11/2/2022,12/20/2022,6:08 AM,10:31 PM,American,1.86,26,470.03,First,Delayed,Airbus A320,Chicky Whyborn,Mildrid Belton
+4124,EHT,NDM,11/7/2022,7/5/2022,7:23 PM,7:56 PM,Delta,2.22,416,199.0,Business,Delayed,Boeing 737,Ferdinanda Kingswoode,Aretha Venn
+289,DAA,KST,9/22/2022,4/14/2022,1:13 AM,7:18 PM,American,3.75,83,282.31,Business,Cancelled,Boeing 737,Ethelyn Bennet,Adrian Flower
+8583,0,GYM,4/14/2022,8/14/2022,10:31 PM,7:10 AM,Delta,4.98,392,997.79,Business,Cancelled,Boeing 737,Myrah Scholler,Genia Goadby
+1591,YDV,APN,7/23/2022,6/12/2022,11:38 AM,2:16 PM,Delta,4.11,61,514.35,Business,Cancelled,Boeing 787,Otes Lembrick,Tabby Leving
+8252,SZQ,ARR,12/18/2022,5/20/2022,12:10 PM,12:04 PM,American,6.36,229,893.21,Economy,On Time,Boeing 737,Devland Corneck,Maud Turbill
+5022,TPF,LTW,3/31/2022,8/30/2022,2:26 AM,4:44 PM,American,7.15,493,256.71,Business,Cancelled,Airbus A320,Allyce Saunier,Michaella Tadlow
+2052,LUR,RTP,12/19/2022,6/14/2022,6:18 AM,2:16 AM,Delta,4.73,341,817.67,First,Delayed,Boeing 787,Francis Ygoe,Alfred Faithfull
+5799,ULD,TMW,2/25/2022,6/16/2022,5:47 AM,4:10 PM,American,5.94,256,787.78,Economy,Cancelled,Boeing 737,Modestine Brennen,Cally Clayill
+4232,HKD,HSJ,3/24/2022,5/29/2022,3:01 PM,10:22 AM,American,8.29,301,664.17,Economy,On Time,Boeing 787,Bernard Edeson,Noam Crosseland
+9209,SPZ,KIX,11/17/2022,3/5/2022,10:53 AM,12:00 PM,United,5.55,493,71.53,Economy,Cancelled,Boeing 737,Ursala Episcopio,Chelsy Byer
+2801,MMJ,YTJ,8/1/2022,12/12/2022,9:12 PM,1:52 AM,American,4.3,408,886.97,Economy,On Time,Boeing 737,Burg Accum,Clement Fadell
+4377,LWE,LXG,1/12/2022,3/18/2022,8:49 AM,3:18 PM,Delta,4.18,16,742.65,Business,Delayed,Boeing 787,El Fraser,Ferdinande Halse
+8321,BZX,NVA,4/10/2022,11/9/2022,6:58 AM,5:27 AM,American,2.89,103,758.39,Business,Cancelled,Airbus A320,Sansone Llewellen,Kissee Leisman
+3989,CDU,SUO,6/21/2022,5/11/2022,11:56 AM,6:24 AM,United,7.28,364,678.28,Business,Delayed,Boeing 737,Maria Tossell,Garrick Perl
+3258,NLU,BHS,9/14/2022,8/24/2022,5:16 AM,2:25 PM,American,6.39,482,786.62,Economy,On Time,Boeing 737,Minnnie Reddihough,Gil Water
+1610,GQQ,BRM,8/17/2022,7/4/2022,7:27 AM,9:36 AM,Delta,6.93,315,727.01,First,On Time,Boeing 737,Carole Halsey,Rob Capehorn
+464,OHB,DGG,8/4/2022,11/24/2022,9:01 AM,6:10 PM,Delta,3.22,175,810.79,First,Delayed,Airbus A320,Adina Cowpertwait,Trix Kennet
+8566,CZM,KWB,1/5/2022,10/28/2022,10:56 PM,9:48 PM,Delta,6.07,478,573.71,First,Delayed,Boeing 737,Tadd Yusupov,Keri Torel
+1214,PDV,BLL,11/22/2022,2/3/2022,2:37 AM,7:16 PM,Delta,9.24,233,369.86,Business,Delayed,Boeing 737,Aarika Cridlin,Cyndy Shiel
+5967,SCL,BVF,10/15/2022,12/7/2022,6:43 AM,5:15 PM,Delta,9.57,60,821.47,Economy,Cancelled,Boeing 787,Binky Dubery,Dosi Paler
+4343,YHD,APH,12/12/2022,12/23/2022,7:37 PM,12:13 AM,American,5.19,91,745.91,First,Cancelled,Boeing 787,Micki Newbury,Davine McCarlich
+3782,BCO,JCY,10/16/2022,4/23/2022,9:56 AM,9:56 AM,United,3.1,136,98.95,Economy,Cancelled,Boeing 787,Phylis Lygo,Nanci Rosen
+2224,OCS,WDN,5/7/2022,2/20/2022,4:19 PM,10:55 PM,United,8.0,140,458.59,Business,Delayed,Boeing 787,Corie Iceton,Moritz Ellsbury
+4362,BCA,GOK,3/14/2022,7/2/2022,7:57 AM,5:19 PM,Delta,6.99,476,982.71,First,Cancelled,Boeing 787,Uriel Hebbs,Yoko Ryall
+6511,TSX,YPS,10/9/2022,12/2/2022,8:46 AM,7:24 PM,Delta,4.78,310,339.84,Economy,Delayed,Boeing 737,Pavla Napolione,Patin Gillions
+6067,RMK,BRK,6/5/2022,9/6/2022,2:34 PM,3:30 AM,United,8.21,353,160.31,Economy,Delayed,Airbus A320,Putnam Vogt,Darcee Izacenko
+8893,COW,BCE,9/7/2022,5/7/2022,12:29 PM,8:40 AM,Delta,5.09,15,223.33,First,Cancelled,Boeing 737,Chrotoem Cooksey,Tull Kolinsky
+6008,YTT,WHD,2/28/2022,5/8/2022,7:34 AM,4:11 PM,Delta,1.52,104,759.12,Business,Cancelled,Boeing 737,Anthiathia Sturley,Dollie Mariotte
+1932,TVU,ABS,3/13/2022,12/7/2022,1:26 AM,3:26 PM,United,9.47,171,899.12,First,Cancelled,Airbus A320,Xaviera Gleaves,Edvard Humpatch
+2834,KEA,VTU,8/14/2022,7/28/2022,8:54 AM,6:04 AM,American,3.43,348,857.16,First,On Time,Boeing 787,Hebert Petch,Andeee Woodlands
+6524,SJQ,FMO,9/14/2022,11/23/2022,7:37 AM,10:13 PM,United,3.34,404,938.18,Business,Delayed,Boeing 737,Kimberly Edmundson,Carr Duckham
+4092,DTD,KHY,7/6/2022,12/26/2022,12:25 PM,7:55 AM,United,7.3,183,501.5,First,On Time,Boeing 737,Rosco Lincoln,Hernando Sarah
+8760,SSA,EMM,10/13/2022,3/10/2022,3:16 AM,7:34 AM,United,7.25,203,385.39,Business,On Time,Boeing 737,Dana Wrates,Meggie Wittman
+1353,FDH,MOG,2/16/2022,1/10/2022,6:02 AM,2:04 PM,Delta,1.59,119,958.57,Economy,On Time,Boeing 737,Lucia Jouanny,Sinclare Kares
+5421,IPN,UAP,6/30/2022,12/10/2022,5:25 AM,2:51 AM,American,4.22,64,64.52,First,Cancelled,Boeing 787,Norrie Conibere,Delmar Center
+1777,LHA,LIT,1/23/2022,1/20/2022,12:55 PM,1:59 AM,United,9.97,333,745.05,First,On Time,Boeing 737,Therine Postle,Chadd Gouda
+8017,IXM,0,5/18/2022,2/17/2022,5:33 PM,12:01 PM,Delta,1.23,494,132.74,Economy,Cancelled,Boeing 737,Tonye Edds,Far Cockitt
+2019,PPQ,CAL,5/25/2022,10/23/2022,3:06 PM,5:44 PM,United,2.56,330,814.52,First,Delayed,Airbus A320,Bunnie Saggs,Holly Ellacott
+907,KFA,MTY,1/4/2022,10/17/2022,7:15 AM,10:01 AM,United,2.54,270,610.42,First,On Time,Boeing 787,Kylynn Keling,Fleming Dwelley
+5438,SOE,UTM,5/8/2022,10/17/2022,3:08 PM,5:48 AM,United,2.17,171,225.32,Business,Cancelled,Airbus A320,Frasco Jodlkowski,Karalynn Shilleto
+691,LRA,KSL,6/29/2022,2/24/2022,6:55 PM,10:29 PM,American,5.69,326,642.84,Business,Delayed,Boeing 737,Darwin Martino,Carmine Rickardes
+2734,AFO,SFH,10/21/2022,5/13/2022,11:04 PM,6:05 PM,United,4.09,147,343.46,Economy,On Time,Boeing 787,Arel Skivington,Aluino Hallows
+5465,DCI,WAE,2/16/2022,4/4/2022,10:38 AM,7:25 AM,American,2.51,243,485.72,First,On Time,Boeing 737,Jedidiah Booton,Idalina Rendell
+5706,XME,CCO,2/11/2022,10/29/2022,8:24 PM,10:39 PM,United,6.45,123,216.82,Economy,On Time,Boeing 787,Rabbi Greenard,Angelique Ayars
+7035,YVR,MWK,3/8/2022,6/26/2022,12:53 AM,3:33 PM,United,1.6,41,472.16,Economy,On Time,Boeing 787,Scarlet Kubelka,Faber Swepson
+6678,GRF,AGO,9/13/2022,7/17/2022,2:27 PM,5:54 AM,United,1.54,411,893.97,Economy,On Time,Boeing 737,Wally Nancarrow,Fara Grimmer
+5446,ZAO,WED,2/6/2022,6/9/2022,5:52 PM,6:17 PM,American,5.95,177,456.16,Business,On Time,Boeing 787,Lynnett Thrift,Dorice Kimmel
+509,HYN,TKP,2/9/2022,11/19/2022,10:41 PM,8:20 PM,United,9.92,467,940.39,Economy,On Time,Boeing 787,Gerty Pellitt,Jorie Oganian
+3211,GDL,DDG,12/21/2022,7/7/2022,11:32 AM,5:08 AM,United,8.22,315,776.97,Economy,Delayed,Boeing 787,Shoshanna Gianetti,Elfrida Antal
+2527,LOP,SLE,4/25/2022,4/16/2022,3:39 AM,11:43 PM,American,3.15,420,295.06,First,Delayed,Airbus A320,Normand Standbrook,Jada Mitskevich
+6023,BXO,HTH,7/27/2022,12/5/2022,11:30 PM,6:07 AM,American,4.33,419,593.77,Economy,Cancelled,Airbus A320,Jillie D'Aguanno,Ranique Pennetti
+889,GNF,CQT,11/21/2022,11/1/2022,11:44 PM,4:10 PM,American,5.16,185,677.02,First,On Time,Boeing 737,Hadleigh Kynder,Olympe Lorrie
+5746,MUR,ESF,7/18/2022,8/19/2022,1:28 PM,11:30 PM,Delta,8.04,37,203.73,First,Cancelled,Boeing 737,Malynda O'Criane,Rowen Trudgion
+382,ATJ,YHU,12/19/2022,4/25/2022,11:15 AM,6:39 PM,American,2.53,256,553.78,Business,On Time,Boeing 787,Gay Brawson,Leandra Evamy
+9605,DLE,BJJ,12/17/2022,1/22/2022,1:23 AM,7:57 PM,Delta,2.96,85,747.76,Business,Cancelled,Boeing 737,Alverta Grannell,Hamlen Dillingham
+252,OCV,MNJ,5/4/2022,11/24/2022,3:00 AM,5:03 AM,American,9.09,477,361.4,Business,Delayed,Boeing 787,Adela Bridgett,Miguela Battram
+2547,XAP,GKT,9/9/2022,8/29/2022,3:35 AM,7:06 PM,Delta,4.87,355,711.05,Economy,On Time,Boeing 787,Chip Impy,Georgi Metzel
+9187,CRE,MPU,8/2/2022,9/16/2022,8:53 AM,4:33 AM,American,4.17,245,445.37,Economy,Cancelled,Boeing 787,Leola Benn,Ingaborg Quibell
+5870,YJS,OSU,2/18/2022,3/23/2022,9:34 AM,10:54 PM,United,8.6,324,285.39,Economy,Cancelled,Airbus A320,Clayson Siemon,Jade Caen
+8217,MYO,AND,9/30/2022,4/19/2022,5:32 AM,9:14 PM,United,2.99,155,611.82,Economy,On Time,Boeing 737,Evy Giacubbo,Katrina Walby
+7170,PTU,CUP,3/30/2022,9/8/2022,4:46 PM,10:56 AM,United,3.77,46,929.47,Economy,On Time,Boeing 737,Alphard Covert,Irvine Falconer-Taylor
+7343,VEX,HBA,12/2/2022,5/5/2022,1:53 AM,12:30 AM,United,8.51,251,597.54,Business,Delayed,Boeing 787,Marion Chatt,Darbee Bouda
+6726,KRX,UCZ,12/13/2022,1/30/2022,4:09 PM,5:03 AM,United,5.35,122,790.94,Business,Cancelled,Boeing 737,Karna Rubinowicz,Leisha Pude
+2985,AOI,BFM,7/20/2022,6/3/2022,8:00 PM,4:11 AM,Delta,3.03,153,512.36,Business,On Time,Boeing 737,Herman Ubach,Raoul Redman
+3710,KKG,MCW,9/29/2022,2/26/2022,2:56 PM,2:21 PM,American,4.65,147,271.59,First,Delayed,Boeing 787,Balduin Wilds,Nathanael Langshaw
+5311,CBN,VSG,7/29/2022,11/21/2022,12:43 AM,3:37 AM,United,8.06,1,637.35,First,On Time,Boeing 737,Chiarra Gypps,Nil Altham
+7865,NGI,YOE,6/23/2022,6/21/2022,3:43 PM,4:45 AM,Delta,1.28,343,628.3,Business,Cancelled,Boeing 787,Hermia Boyer,Manny Sandlin
+5919,CPG,GOG,12/13/2022,5/29/2022,11:33 PM,8:25 AM,American,1.02,382,719.26,First,Delayed,Boeing 737,Jeannie Winstone,Constance Lowman
+3390,RJL,PKP,5/16/2022,8/7/2022,5:48 AM,4:54 PM,United,8.11,483,430.58,Economy,On Time,Boeing 787,Edith Rays,Samson Enrrico
+9073,MNJ,LOC,11/21/2022,2/24/2022,3:56 PM,7:57 PM,United,2.93,289,843.63,Economy,On Time,Boeing 737,Nelia Blazdell,Nicolea Swanbourne
+9926,FDK,RGE,9/17/2022,4/10/2022,7:50 AM,10:03 PM,American,1.79,348,580.3,First,On Time,Airbus A320,Darrel Collyer,Philippine Takis
+2097,CCI,ATR,2/26/2022,11/13/2022,11:20 PM,3:46 PM,American,7.01,262,917.82,First,Delayed,Boeing 737,Dean Lauchlan,Louis Macconachy
+6472,SSB,JGN,4/9/2022,7/13/2022,2:46 PM,12:07 PM,United,8.45,189,762.73,Economy,On Time,Boeing 737,Mycah Kennington,Imelda Hatchett
+495,PRM,INS,8/27/2022,9/4/2022,9:15 PM,4:48 AM,United,7.32,188,883.1,Economy,Delayed,Boeing 787,Matty Sawnwy,Shurlocke Monsey
+6053,EMX,DNI,10/22/2022,2/2/2022,12:01 AM,1:43 PM,American,5.2,331,495.39,Economy,On Time,Boeing 737,Lou Sigart,Vladimir Bolwell
+849,HRC,REQ,5/28/2022,9/2/2022,4:16 PM,5:02 AM,Delta,7.5,218,539.52,First,On Time,Airbus A320,Brody Marre,Charmian Stollen
+6930,VEV,IBI,10/12/2022,12/4/2022,8:20 PM,9:07 AM,United,9.15,180,543.4,First,Cancelled,Airbus A320,Welsh Iley,Katrine Moogan
+7127,GHK,RBU,3/21/2022,12/9/2022,6:53 PM,4:01 PM,Delta,5.92,275,113.15,First,Cancelled,Boeing 787,Romy Janek,Elihu Bullier
+2085,LHA,PAP,10/19/2022,4/22/2022,5:44 AM,4:40 PM,United,2.59,422,190.99,First,Cancelled,Boeing 737,Carmel Parade,Gennie Ticic
+1704,0,TLW,9/23/2022,3/1/2022,10:06 AM,5:47 AM,American,5.45,65,815.9,Economy,Delayed,Airbus A320,Errick Sperrett,Nissa Thorburn
+8358,TPI,FEK,10/23/2022,6/11/2022,7:10 AM,7:15 AM,United,7.6,212,161.54,Economy,On Time,Boeing 787,Shaun Fitzgerald,Roxane Bernaldo
+1334,RLP,JST,7/18/2022,1/4/2022,10:32 PM,2:24 AM,American,1.69,336,387.61,Economy,On Time,Airbus A320,Ki Brownett,Meredith Brevetor
+2409,AMU,SID,6/27/2022,3/20/2022,6:51 AM,7:57 PM,Delta,9.17,67,866.18,First,Cancelled,Airbus A320,Benedicta Gutsell,Juana McCusker
+5029,EGA,MGB,8/3/2022,9/9/2022,6:09 AM,3:28 PM,United,5.89,37,908.64,Economy,On Time,Boeing 737,Pearline Larroway,Lesly Parkman
+6328,PGA,YSD,5/18/2022,2/10/2022,5:46 PM,12:25 AM,Delta,9.64,61,732.86,First,Cancelled,Boeing 737,Elene Haughey,Shandee Deighan
+7232,YKA,OUT,11/15/2022,5/30/2022,1:03 AM,10:24 PM,United,1.83,276,541.04,First,Cancelled,Boeing 787,Tommy Trunkfield,Lizzie Bedinn
+4731,OLA,LUD,4/16/2022,11/20/2022,9:02 AM,7:29 AM,United,6.05,484,592.1,Business,Delayed,Boeing 787,Shaun Hischke,Hobard Threadgill
+4902,BTX,GTS,11/15/2022,8/12/2022,5:46 PM,11:29 PM,United,7.4,286,913.82,Business,On Time,Airbus A320,Flory Somerfield,Brion Dewfall
+2199,XJM,KUX,7/30/2022,9/14/2022,7:10 PM,11:21 AM,United,8.61,493,920.67,Business,Delayed,Airbus A320,Casi Kilshaw,Lettie Janout
+597,TDG,BFS,12/17/2022,5/3/2022,5:00 PM,12:10 AM,United,6.65,459,782.04,First,Delayed,Airbus A320,Lexie Priddis,Petronia Cuerdall
+8361,PWA,LKO,8/31/2022,2/22/2022,12:56 AM,8:29 AM,United,4.4,378,967.03,First,Cancelled,Boeing 737,Rhetta Huntriss,Mair Phelip
+7681,SAX,YRL,3/18/2022,9/14/2022,9:12 PM,8:14 AM,American,2.02,361,88.89,First,On Time,Boeing 737,Tessie Bruinsma,Corrina Lemmer
+2288,WVL,PSX,1/30/2022,5/29/2022,1:49 AM,1:36 PM,American,1.6,121,885.02,Business,Cancelled,Boeing 787,Rhona Starie,Lemmie Veazey
+5942,BML,UKH,7/28/2022,9/27/2022,3:44 PM,4:14 PM,United,3.7,94,432.92,First,On Time,Boeing 737,Dee Osgar,Gualterio Edis
+5499,ODR,GZA,2/28/2022,6/14/2022,1:13 AM,4:16 AM,American,1.66,79,108.29,Economy,Delayed,Airbus A320,Therine Roswarne,Stern Llewellin
+3333,FOA,KCC,5/16/2022,11/20/2022,2:06 AM,8:45 PM,Delta,3.59,336,56.87,Business,On Time,Boeing 787,Raffarty Dineges,Humphrey Dearden
+3086,KVA,OCA,4/24/2022,2/2/2022,5:49 AM,9:59 AM,United,6.8,383,400.27,Economy,Cancelled,Boeing 787,Roze Sporton,Giorgia Geane
+4377,HTV,TQN,6/14/2022,2/22/2022,5:58 AM,6:26 AM,United,4.47,227,207.46,First,On Time,Boeing 787,Nickolas Daveridge,Vicki Bantham
+214,YWG,PDA,10/7/2022,2/5/2022,3:37 PM,1:54 PM,American,7.16,355,934.19,Economy,On Time,Boeing 737,Lavinia Chaundy,Franni Greally
+4258,THN,WJF,8/1/2022,11/15/2022,3:24 AM,4:44 AM,American,2.07,328,59.99,Economy,On Time,Boeing 737,Hope Giraudel,Delinda McQuarter
+7583,MRZ,AOS,8/20/2022,1/30/2022,2:49 AM,9:38 AM,Delta,3.38,443,995.66,Business,Delayed,Boeing 787,Carly Hesbrook,Jillie Kissack
+8992,TNK,DNA,2/4/2022,4/3/2022,4:23 PM,8:15 AM,United,1.88,462,61.7,Economy,Cancelled,Boeing 787,Corrinne Ugolotti,Rudolfo Risborough
+2567,PDZ,UUA,5/13/2022,6/24/2022,9:46 PM,8:56 AM,United,4.52,48,447.01,Business,Delayed,Boeing 787,Kirsti Kellick,Faina Craney
+2658,CIO,BJG,3/22/2022,10/2/2022,2:53 PM,1:26 PM,American,7.42,499,418.28,Economy,Delayed,Boeing 737,Catherine McMurty,Annis Levesley
+3011,AUT,NRR,3/31/2022,1/3/2022,2:26 AM,2:19 PM,United,4.47,269,758.34,First,Delayed,Boeing 737,Burl Harte,Mark Schwier
+4972,PSU,OIA,8/9/2022,5/31/2022,10:52 PM,7:17 PM,Delta,5.84,3,946.93,Business,Cancelled,Boeing 737,Roanna Manoelli,Orelee Cleaton
+7861,CKR,ZSA,6/25/2022,8/9/2022,4:25 PM,8:41 AM,American,4.95,197,366.68,First,Cancelled,Boeing 737,Dara Prangle,Maxim Kingsnod
+3054,KIK,ULD,4/1/2022,2/6/2022,5:16 AM,2:57 AM,Delta,1.03,291,735.35,Business,Cancelled,Airbus A320,Patsy Scarisbrick,Bell Ruggles
+9383,OTU,TUR,7/25/2022,12/28/2022,1:20 AM,4:28 PM,United,4.21,130,384.92,First,On Time,Boeing 787,Weber Hencke,Kearney Boud
+9850,LAO,IFF,11/10/2022,4/27/2022,4:53 PM,6:45 AM,American,4.38,101,204.54,Economy,Delayed,Airbus A320,Herbie Simmers,Prentice Ollive
+6186,PTW,FNB,5/4/2022,11/14/2022,6:34 AM,4:33 PM,American,2.36,303,765.05,First,Delayed,Airbus A320,Giustino Faill,Bernardo Fippe
+4562,JNB,TNQ,4/12/2022,3/12/2022,7:15 PM,3:15 AM,United,1.54,216,512.73,Economy,Delayed,Boeing 787,Mic Josifovic,Ker Harkes
+297,NOK,DEX,9/4/2022,9/20/2022,12:31 AM,7:19 AM,Delta,5.42,263,581.66,Business,Delayed,Airbus A320,Renard Reddish,Peta Lamperti
+7790,LMT,RIV,2/13/2022,12/16/2022,3:30 AM,2:39 PM,Delta,3.62,217,264.32,First,On Time,Boeing 787,Danni Drayson,Dav Sprowson
+1817,CAM,PQQ,9/4/2022,12/24/2022,7:08 AM,2:13 AM,United,7.56,62,112.79,First,On Time,Boeing 737,Beale Lynch,Arlee Bernadzki
+8784,TAJ,WMB,12/15/2022,10/9/2022,10:01 PM,7:53 AM,American,2.13,208,83.06,Business,Cancelled,Boeing 787,Bryna Graveney,Breena Lafranconi
+9946,MDD,HZK,1/18/2022,4/7/2022,5:56 AM,3:36 AM,American,6.1,42,182.16,Economy,Cancelled,Airbus A320,Lynette Rosenschein,Nissy Deason
+3549,BPG,SEY,7/20/2022,4/16/2022,1:54 AM,4:55 AM,Delta,7.4,203,505.52,Business,Cancelled,Boeing 787,Helene Giffkins,Rutter MacAscaidh
+4085,MWE,CJM,10/3/2022,9/21/2022,7:40 PM,3:48 PM,United,3.05,409,912.85,Economy,On Time,Airbus A320,Cullan Behneke,Chantalle McIlvenny
+1700,EUM,SYW,1/29/2022,5/10/2022,4:59 AM,4:21 AM,Delta,5.72,71,73.11,Business,Cancelled,Airbus A320,Barby Andrivel,Salomon Arnli
+1111,YCF,ILP,8/26/2022,4/8/2022,6:13 PM,10:18 AM,Delta,1.12,165,716.04,Economy,On Time,Airbus A320,Alasteir Hencke,Yale Bosdet
+658,MJU,GOA,9/4/2022,4/28/2022,11:38 AM,10:42 PM,American,8.85,433,224.76,First,Delayed,Boeing 737,Donnell Lawrinson,Ada Hinksen
+7116,0,ZUH,8/11/2022,1/10/2022,5:34 PM,2:45 AM,Delta,8.15,155,392.86,First,Cancelled,Boeing 737,Shaylynn Lemary,Zara Battany
+5688,MRM,APK,3/2/2022,3/28/2022,8:48 PM,3:33 AM,United,6.0,259,403.88,Business,Delayed,Boeing 737,Lise Grossier,Garvin Fetherstan
+8638,HAA,AFI,5/12/2022,2/13/2022,3:33 PM,9:40 PM,American,2.57,343,262.02,Business,On Time,Airbus A320,Edie Biggar,Bing Wickenden
+5448,JPR,PYC,8/27/2022,10/18/2022,6:44 PM,11:33 PM,United,7.1,248,631.06,Economy,Cancelled,Boeing 737,Corenda Kitson,Shel Sendley
+2388,LET,HCM,12/28/2022,11/28/2022,4:39 PM,4:29 AM,United,8.57,244,88.43,Business,On Time,Boeing 737,Gabrielle Buddington,Jessa McKilroe
+8141,SXP,PTN,1/13/2022,7/28/2022,1:38 PM,6:39 AM,Delta,6.94,202,992.64,First,Delayed,Boeing 787,Marianne Bebb,Della Simakov
+1157,GFD,KWO,2/1/2022,3/1/2022,1:11 AM,3:20 PM,Delta,1.5,206,300.74,First,On Time,Boeing 737,Eadmund Boldra,Kittie Loveland
+4354,CLK,BFE,4/20/2022,12/24/2022,7:37 AM,7:28 AM,United,9.65,117,156.37,Business,Cancelled,Boeing 787,Gavin Cunniff,Hiram Kerrod
+2877,IZO,MEZ,3/23/2022,1/6/2022,8:23 AM,1:09 AM,American,9.27,137,227.06,Business,Cancelled,Airbus A320,Dyna Fippe,Tiphany Winscum
+2651,YQD,RGT,1/19/2022,10/1/2022,3:01 AM,1:40 AM,Delta,7.74,36,898.02,Economy,Cancelled,Boeing 787,Valentin Mandifield,Rebekah Keri
+6292,XDJ,BGW,3/12/2022,7/3/2022,1:14 AM,5:34 AM,Delta,7.9,215,928.67,Economy,Delayed,Boeing 787,Bianka Scala,Decca Kellogg
+152,YMK,RGE,5/21/2022,11/7/2022,8:46 AM,12:53 PM,American,9.4,196,388.75,First,Delayed,Boeing 737,Alli McCallister,Vivie Lax
+3947,SQE,HPA,11/14/2022,10/10/2022,12:42 AM,12:24 AM,United,4.53,306,584.94,First,On Time,Boeing 737,Shelley Michele,Franklyn Indruch
+3185,TOL,SVW,6/24/2022,2/16/2022,5:30 PM,4:25 AM,American,5.86,40,655.55,Economy,On Time,Airbus A320,Hubey Bouda,Beret Gibben
+4612,FMH,KKU,1/23/2022,1/31/2022,9:50 AM,2:32 AM,Delta,5.14,79,345.75,Business,Cancelled,Boeing 737,Aeriel Brunotti,Desiree Pennock
+4942,KBL,PVC,8/13/2022,11/3/2022,6:55 AM,8:23 AM,United,5.02,441,922.3,Business,Cancelled,Boeing 787,Lawry Nail,Burch Riddock
+6730,BJQ,VEY,8/17/2022,5/8/2022,11:25 AM,1:05 AM,American,9.62,326,163.3,Business,Delayed,Boeing 737,Husein Bartolomeu,Lionello Mulkerrins
+1372,ALJ,GJL,4/18/2022,11/21/2022,3:49 AM,5:56 PM,American,6.57,34,430.17,Economy,Cancelled,Boeing 737,Billye Dally,Jeromy Blurton
+3975,CNN,TFY,11/5/2022,8/7/2022,11:50 PM,10:54 AM,Delta,4.12,374,959.68,Business,Cancelled,Boeing 737,Rebekkah Pheasey,Hillary Wiggall
+4900,RHG,PKK,11/14/2022,6/26/2022,9:18 AM,8:29 PM,Delta,7.57,474,427.39,Economy,Delayed,Boeing 737,Brantley Comar,Othilie Silverstone
+1052,HLM,BFT,12/3/2022,1/25/2022,1:16 PM,12:28 PM,American,8.25,304,58.33,Business,Delayed,Boeing 787,Reiko Hilary,Dun Waterfall
+3350,RCH,DYM,9/14/2022,3/20/2022,12:28 PM,7:29 PM,Delta,2.54,497,623.89,Economy,Delayed,Airbus A320,Shea Ternott,Lonnie Backe
+6348,LTB,QOW,2/24/2022,8/17/2022,12:42 AM,1:35 PM,Delta,3.13,5,752.25,First,Cancelled,Airbus A320,Averil Portinari,Nicolina Wordington
+7999,NSV,BRN,12/28/2022,1/30/2022,8:20 AM,2:28 AM,Delta,6.96,486,144.03,Economy,Cancelled,Boeing 737,Nara MacGregor,Lon Abbyss
+9612,TNP,AGI,7/10/2022,10/26/2022,12:03 AM,10:55 PM,United,2.08,147,715.89,Business,Cancelled,Airbus A320,Currie Middlebrook,Kittie Deverille
+4078,ISL,CDO,12/17/2022,4/18/2022,10:55 AM,8:55 AM,Delta,8.15,169,806.77,Economy,On Time,Boeing 787,Arlinda Wharram,Niki Tupie
+6523,SBG,TVA,10/14/2022,5/15/2022,4:50 AM,8:01 AM,United,1.77,183,725.01,Business,On Time,Airbus A320,Hedi Matzaitis,Berkeley Andrzej
+5799,JQE,TAK,4/15/2022,10/13/2022,10:39 AM,11:21 AM,Delta,9.35,417,70.81,First,Delayed,Boeing 787,Tabbitha Mattiacci,Mandel Lockner
+6737,DNL,OUG,7/3/2022,3/6/2022,8:30 AM,9:08 PM,United,1.11,393,518.72,First,On Time,Boeing 737,Nanete Otto,Benjamen Pittle
+5542,RHV,SYR,8/23/2022,12/14/2022,1:37 AM,1:06 AM,American,7.85,171,874.67,First,On Time,Airbus A320,Gabey Merrick,Gilda Danilevich
+3380,YUL,REP,4/5/2022,1/7/2022,6:34 AM,4:11 AM,United,2.09,131,201.04,Economy,Delayed,Boeing 737,Carlina Manntschke,Gerek Standfield
+9900,YAZ,PVZ,10/15/2022,4/11/2022,12:50 AM,9:12 PM,Delta,3.17,460,821.72,Business,Delayed,Boeing 737,Dagny Petrelli,Sile Rosin
+4645,LGN,SGG,4/25/2022,5/22/2022,11:51 PM,4:27 PM,American,6.99,270,469.96,Business,Cancelled,Boeing 787,Bryant Butterfint,Meyer Puncher
+9556,CTM,VIR,10/1/2022,1/30/2022,8:23 PM,5:07 AM,United,4.19,21,118.91,Business,On Time,Boeing 737,Joli Upstell,Gray Gready
+8708,QID,TSF,6/6/2022,10/10/2022,12:22 AM,5:30 AM,Delta,4.63,467,435.45,First,Cancelled,Airbus A320,Megen Faircloth,Fidole Worge
+4501,BVZ,ICO,1/27/2022,5/3/2022,2:22 AM,8:56 PM,United,6.61,346,980.63,Economy,Cancelled,Boeing 737,Perl Miklem,Piper Driver
+296,FRZ,FRY,6/11/2022,3/3/2022,12:46 AM,6:56 PM,American,6.52,190,977.54,First,Delayed,Boeing 787,Sibel Lindberg,Hermon Olliar
+9149,ETZ,OYL,2/20/2022,11/4/2022,2:42 PM,8:00 PM,American,5.28,322,966.0,Economy,Cancelled,Boeing 787,Florry Dimitriades,Natty Fuidge
+4178,0,LKA,12/11/2022,4/3/2022,8:15 PM,5:09 AM,American,1.96,202,94.01,Business,Delayed,Boeing 787,Muffin Brosch,Emmy Moyne
+9668,KLD,TJS,10/5/2022,7/9/2022,1:15 AM,10:02 PM,American,8.34,448,569.65,First,Cancelled,Airbus A320,Celinka Baford,Tracey Dumbrill
+1961,YQV,MMZ,4/22/2022,3/3/2022,6:33 AM,2:50 PM,Delta,3.42,318,534.35,Economy,Delayed,Airbus A320,Dell Thomtson,Mahala Bontine
+7412,LDI,CKG,1/2/2022,8/16/2022,1:03 AM,8:18 AM,Delta,7.06,186,340.71,Business,Delayed,Boeing 737,Gerhardine Bucher,Flossy Moore
+3945,AIV,BRL,7/25/2022,5/2/2022,11:21 PM,12:56 AM,United,3.65,397,359.38,Economy,On Time,Boeing 737,Una Whacket,Waly Bollans
+8810,VXC,WAV,12/3/2022,4/19/2022,4:26 AM,3:24 PM,Delta,7.48,296,922.83,Economy,On Time,Boeing 737,Pris Comfort,Sax Abbot
+3044,KQH,BAC,8/5/2022,6/21/2022,10:54 AM,11:34 AM,American,2.53,89,758.34,Business,Delayed,Airbus A320,Glenden Camplejohn,Clarisse Simmank
+2578,EUA,PFB,11/11/2022,11/2/2022,9:00 AM,1:10 PM,United,2.58,259,223.93,First,Cancelled,Airbus A320,Rudolfo Boraston,Fowler Franciskiewicz
+7811,BCC,YXS,10/22/2022,10/6/2022,9:49 PM,7:57 PM,Delta,6.46,335,337.85,Business,On Time,Boeing 737,Natale Mayer,Porter Deboo
+6405,PLT,LBI,6/19/2022,1/24/2022,5:00 AM,10:29 PM,American,3.51,255,169.91,First,Delayed,Boeing 737,Roi Blown,Norry Mandrey
+8125,UTC,AGK,8/27/2022,7/22/2022,2:53 PM,11:16 AM,United,8.5,82,702.39,Economy,On Time,Boeing 787,Martin Booeln,Philippa Gainseford
+4455,RSH,LBZ,5/10/2022,1/29/2022,1:36 PM,9:28 PM,Delta,1.94,162,966.32,First,Delayed,Boeing 787,Jesse Crummay,Ronny Bullivent
+9779,HBD,SSX,4/24/2022,3/29/2022,4:36 AM,3:05 PM,Delta,5.89,386,435.34,Economy,Delayed,Boeing 737,Court Murdie,Emmalynn Hadaway
+2729,LFR,UUU,11/19/2022,1/5/2022,5:36 PM,2:16 PM,United,2.2,59,395.84,Economy,Delayed,Boeing 737,Ashlee Garm,Greg Avraam
+9904,PLS,QUO,12/17/2022,6/24/2022,1:56 PM,12:13 AM,United,6.15,90,475.01,Business,On Time,Boeing 737,Hans Sibbet,Bank McLeman
+2209,BJL,HUY,6/10/2022,4/6/2022,3:00 AM,7:00 AM,Delta,6.46,112,919.24,First,On Time,Airbus A320,Thorsten de Vaen,Mort Meegin
+6727,OXD,NLA,2/7/2022,11/3/2022,4:40 PM,10:01 AM,American,3.94,342,443.11,First,Cancelled,Boeing 737,Veronika Depport,Bernard Knatt
+1824,TGM,PMW,2/6/2022,5/6/2022,4:57 AM,6:35 PM,United,5.0,226,310.56,Business,On Time,Airbus A320,Ted Fritchly,Shem Sweedland
+5285,SCC,BYW,3/7/2022,6/19/2022,12:40 PM,2:29 PM,American,5.35,229,648.43,First,Delayed,Airbus A320,Mandie Gally,Bradney Beaford
+2235,SAY,SNU,10/17/2022,7/12/2022,9:28 AM,4:02 PM,Delta,5.71,31,505.72,First,Cancelled,Boeing 737,Margalit Dabel,Jeffie Searl
+4397,BPK,SAB,11/18/2022,6/7/2022,7:34 PM,5:23 PM,Delta,4.94,354,779.38,First,Delayed,Boeing 737,Brockie Eckly,Sally Rolin
+8516,SUK,CFH,4/29/2022,8/26/2022,4:30 PM,5:02 PM,American,2.44,189,634.65,First,Cancelled,Boeing 787,Aileen Poulsum,Benson Jacklings
+6939,YXE,SHU,10/17/2022,2/6/2022,3:50 AM,4:59 PM,Delta,2.09,85,310.17,Business,On Time,Airbus A320,Filippa Gomar,Rodge Adamides
+597,TRM,BEA,7/10/2022,11/19/2022,7:06 AM,3:21 AM,United,2.02,30,362.08,Business,Delayed,Boeing 737,Kimberlee Knewstub,Ulrick Carek
+9432,RIL,MJW,5/19/2022,5/22/2022,11:52 AM,11:10 AM,Delta,4.22,171,266.77,Business,On Time,Airbus A320,Hedvige Kelle,Russell Backwell
+9486,KXK,MDT,12/8/2022,1/19/2022,6:44 PM,11:04 AM,United,9.39,453,616.81,Business,Cancelled,Boeing 737,Wildon Baudry,Grace Birtle
+6527,RTC,TOC,5/28/2022,1/12/2022,10:32 AM,9:17 AM,Delta,1.96,315,569.8,Economy,Delayed,Boeing 737,Beck Schirach,Dallon McAster
+5932,MVL,CVF,12/29/2022,7/13/2022,8:11 PM,11:21 PM,American,1.33,319,660.23,Business,Cancelled,Airbus A320,Barb Di Giacomo,Lucas Poker
+2372,YPI,MHR,3/7/2022,6/16/2022,9:42 AM,9:29 AM,American,4.94,78,852.1,First,On Time,Airbus A320,Neal Amiss,Windy Coopey
+426,OOL,LGR,7/9/2022,11/5/2022,9:24 AM,9:35 AM,Delta,3.44,138,100.1,Business,Cancelled,Boeing 737,Joletta Sudron,Jefferson Reignolds
+3859,TAH,BR-,10/4/2022,6/29/2022,12:02 AM,7:44 PM,United,1.42,414,480.18,First,Delayed,Boeing 737,Karola McCorkindale,Addi Eddolls
+6992,GUG,BEZ,4/27/2022,4/17/2022,2:14 PM,12:31 PM,United,1.85,165,169.97,Economy,On Time,Boeing 787,Shelly O'Dulchonta,Penny Turfitt
+2430,MFJ,WSU,3/5/2022,2/13/2022,11:16 AM,8:36 AM,American,9.82,104,64.65,Business,Cancelled,Boeing 737,Regina Campelli,Jehanna Figure
+5420,OXF,FOS,1/26/2022,6/27/2022,11:52 PM,1:02 PM,American,9.91,159,712.26,First,On Time,Boeing 737,Arvy Burkinshaw,Cherianne Seyfart
+3221,BSV,GEC,1/2/2022,12/19/2022,5:07 AM,6:28 PM,American,2.77,395,814.0,Economy,Cancelled,Boeing 787,Orly Kemster,Luigi Warin
+7827,PLV,CRS,1/7/2022,1/18/2022,1:11 PM,5:31 PM,American,2.65,115,585.6,Business,Delayed,Boeing 737,Abbie Griffitt,Hilton Stadden
+6057,KLQ,BSY,3/21/2022,9/25/2022,12:48 AM,6:30 AM,American,1.63,496,593.28,First,Cancelled,Boeing 787,Nathalia Clayden,Merwin Croisier
+6509,MYM,KLZ,10/8/2022,11/30/2022,10:12 PM,3:49 PM,American,9.13,47,458.98,First,Delayed,Boeing 787,Vincenty Dunn,Klemens Fearick
+4357,IEG,BLG,10/9/2022,8/30/2022,7:28 AM,7:03 PM,United,8.81,320,443.93,First,Cancelled,Boeing 787,Catha Fitzjohn,Sergei Maddicks
+552,BYK,KHZ,11/18/2022,2/22/2022,7:02 PM,10:11 AM,American,1.14,288,290.75,First,Delayed,Airbus A320,Amitie McGilvray,Kennith Aujouanet
+5301,LDZ,NRS,10/8/2022,12/10/2022,11:26 PM,9:29 PM,American,7.03,385,52.55,First,On Time,Boeing 737,Tilly Abbotson,Eldon Powelee
+4255,MOL,KQL,7/27/2022,3/1/2022,4:37 PM,5:29 AM,United,8.87,157,659.15,Business,Cancelled,Boeing 737,Letty Voden,Dorothea Guidini
+8126,IXC,BKM,7/28/2022,2/15/2022,3:23 AM,3:03 PM,American,3.52,388,798.33,First,On Time,Airbus A320,Lukas Melchior,Iris Camerati
+5492,ZLG,SOR,4/26/2022,4/10/2022,8:08 AM,12:33 PM,American,3.82,23,456.28,Economy,On Time,Boeing 737,Drugi Worge,Claudius Pendleton
+2284,BCC,QOJ,12/28/2022,1/15/2022,6:35 AM,4:30 PM,United,7.84,499,641.66,Business,Delayed,Boeing 787,Raimundo Allgood,Clem Euels
+2786,HVB,YIF,10/14/2022,3/30/2022,3:11 AM,2:06 AM,United,8.96,6,139.08,First,Delayed,Boeing 787,Cybill Hessel,Emelia Verlinden
+1808,ILK,GEM,9/2/2022,2/9/2022,9:11 AM,3:56 PM,American,6.38,465,778.6,First,Cancelled,Boeing 787,Anestassia Hof,Trudie Sillars
+5073,GTT,STX,2/25/2022,1/5/2022,1:17 PM,4:01 AM,United,9.01,334,225.26,First,Cancelled,Airbus A320,Vinnie Normington,Mikkel Fanshaw
+1587,CTO,UNR,6/9/2022,11/11/2022,1:53 PM,7:30 PM,Delta,1.07,273,292.22,First,Delayed,Airbus A320,Sterne Gallardo,Umeko Gimber
+8996,LJG,HCC,12/10/2022,7/26/2022,4:06 PM,1:06 AM,American,3.62,437,505.53,Business,Delayed,Airbus A320,Morgun Reyes,Gordan Sloey
+8923,YXH,YNL,2/19/2022,1/4/2022,3:16 PM,3:34 AM,American,4.65,122,63.95,Business,Delayed,Boeing 787,Annemarie Van Driel,Judah Eborn
+1617,AQB,STF,2/24/2022,1/30/2022,5:04 AM,3:20 AM,Delta,5.19,300,332.63,First,On Time,Airbus A320,Waverly Ivy,Georg Syddall
+3750,WGY,VLG,5/31/2022,10/19/2022,4:46 PM,3:22 AM,United,2.62,380,824.02,First,Cancelled,Airbus A320,Terese Danko,Joice Plank
+8846,SXL,DRI,5/26/2022,2/9/2022,12:25 AM,4:57 PM,American,5.48,427,89.45,First,Cancelled,Airbus A320,Taylor Seligson,Gibby Burds
+2325,YHN,IFH,10/11/2022,4/15/2022,11:13 PM,10:15 AM,United,4.82,318,133.48,First,Delayed,Airbus A320,Anthea Hourihan,Yelena Donald
+4721,DJH,SYO,4/5/2022,4/22/2022,2:29 AM,4:05 PM,Delta,5.29,289,135.28,Business,Cancelled,Airbus A320,Cal Elphinstone,Gerhardt Leeman
+162,FAY,MDS,3/16/2022,12/11/2022,3:00 AM,2:42 PM,United,9.23,338,578.75,Economy,Cancelled,Airbus A320,Marylou Digginson,Shermy Billiard
+9552,OLF,SVW,12/27/2022,3/1/2022,7:16 PM,9:02 AM,Delta,8.42,138,893.19,Economy,On Time,Boeing 787,Anya Geraudel,Priscilla Stevings
+4891,DLD,ELB,11/25/2022,3/19/2022,1:28 PM,7:50 AM,United,9.53,19,538.03,Business,Cancelled,Boeing 737,Annelise Curl,Roxi Emlyn
+4669,TAL,PBQ,9/3/2022,3/27/2022,1:22 PM,2:17 PM,United,1.91,399,296.11,First,Delayed,Airbus A320,Dynah Gleadle,Valma Frayne
+2924,0,RIG,10/21/2022,6/15/2022,4:50 AM,5:29 AM,United,1.15,439,296.69,Business,Cancelled,Boeing 737,Sylvia Dermott,Marietta Lorence
+5558,GLZ,GFA,3/2/2022,7/4/2022,8:31 AM,11:09 PM,Delta,8.58,64,186.84,Business,Cancelled,Airbus A320,Meredith Espinoza,Clair Arthey
+7119,REZ,OXR,10/10/2022,12/27/2022,7:27 PM,12:08 AM,United,4.92,6,784.85,Business,On Time,Boeing 787,Alena Buie,Winnah Janaszewski
+8555,LZM,SOL,12/21/2022,1/18/2022,12:55 AM,9:53 AM,United,4.06,433,153.9,Business,On Time,Boeing 737,Lamont Nilges,Carlie Fernan
+6106,KEI,MHA,1/27/2022,4/5/2022,8:54 PM,12:55 PM,American,5.86,194,629.38,Economy,Delayed,Airbus A320,Jemmie Bush,Ferdinand Kenworth
+6064,RJA,GOA,5/11/2022,4/24/2022,10:43 AM,5:01 AM,Delta,1.87,301,262.45,First,Delayed,Boeing 787,Beatrix Abrahamsohn,Illa Melby
+7072,PBU,KKG,11/28/2022,11/2/2022,8:23 PM,5:26 PM,United,5.05,339,510.07,Economy,Cancelled,Airbus A320,Odessa Minguet,Olin Calver
+4540,BVL,JIU,12/30/2022,12/28/2022,8:24 AM,8:20 AM,Delta,5.04,204,807.61,First,On Time,Boeing 787,Pepillo Evreux,Sylvia Scranny
+5031,BYR,SBT,1/21/2022,1/18/2022,12:38 PM,7:02 PM,Delta,8.58,414,512.77,Economy,Delayed,Boeing 787,Caren Buckberry,Tobye Boulding
+5317,KGX,PAE,11/25/2022,8/6/2022,8:53 PM,10:25 AM,Delta,6.83,424,335.17,Business,Delayed,Boeing 737,Gaile Gohier,Sharai World
+3046,RPB,INF,1/26/2022,7/9/2022,7:42 PM,7:29 PM,Delta,2.37,153,719.53,First,On Time,Boeing 787,Dosi Gerleit,Vince Have
+7334,ZST,KZB,10/12/2022,3/18/2022,5:03 AM,4:38 PM,American,8.02,387,658.74,Economy,On Time,Airbus A320,Rebecca Ciciari,Ernestine Bythell
+9096,VNT,UMA,10/2/2022,9/18/2022,3:01 PM,10:29 PM,Delta,7.78,275,317.84,First,Delayed,Boeing 737,Jordon McMenamie,Tedman Berling
+518,KTL,BPT,8/10/2022,10/19/2022,2:15 PM,1:25 AM,Delta,4.92,267,652.44,Economy,Cancelled,Boeing 737,Merrilee Maylard,Georgeanna Rushforth
+7370,MOD,CFE,9/18/2022,7/31/2022,1:11 AM,12:11 PM,Delta,8.89,39,416.17,Economy,On Time,Boeing 787,Gary Borthe,Herold Mintoff
+6885,NCH,MCL,3/29/2022,10/9/2022,11:22 PM,3:40 AM,United,1.45,114,786.92,First,Delayed,Airbus A320,Napoleon Jobey,Joey Garfitt
+8352,MXG,ERT,8/16/2022,1/12/2022,2:42 PM,12:36 AM,Delta,5.09,148,258.67,First,On Time,Boeing 737,Delly Gillison,Dorie Dormand
+2442,AUE,KRF,8/1/2022,4/17/2022,1:54 PM,4:51 AM,United,2.02,488,192.49,Economy,Delayed,Boeing 787,Millard Craker,Delmore Marjoram
+2893,SKU,WPK,8/4/2022,5/14/2022,2:32 PM,9:51 AM,United,7.43,381,106.57,Business,Cancelled,Boeing 787,Missie Ivakhin,Kirsten Pidler
+7651,AEX,PRN,4/6/2022,9/2/2022,11:06 PM,6:51 PM,American,2.51,58,345.86,First,On Time,Boeing 787,Elmore Guslon,Hale Harmar
+7344,AGB,KKI,1/25/2022,5/29/2022,12:57 AM,3:43 PM,United,9.49,394,513.96,Economy,Delayed,Airbus A320,Randal Huortic,Beale Langhorne
+6170,HEX,IKS,2/20/2022,9/12/2022,11:01 AM,6:24 PM,Delta,9.69,141,86.99,Business,On Time,Boeing 787,Hercules Stollenbeck,Taddeo Cordey
+1656,GSE,SRG,9/4/2022,6/24/2022,11:19 AM,8:06 PM,United,1.89,403,181.85,First,Delayed,Boeing 737,Glen Simms,Dewain Crammy
+6055,ZGI,TCX,3/14/2022,8/22/2022,5:43 PM,9:16 PM,United,7.5,23,873.2,First,On Time,Boeing 737,Tallulah Thying,Alene Barnhill
+6118,HIN,MKU,3/11/2022,6/2/2022,11:06 AM,4:19 PM,United,5.85,105,821.99,First,On Time,Airbus A320,Bibby Keane,Ker McBryde
+7397,LGX,GOA,2/5/2022,4/22/2022,7:51 PM,8:58 AM,Delta,7.36,387,493.1,Business,Cancelled,Airbus A320,Briny Meakin,Richie Golbourn
+4768,MOF,MJD,6/9/2022,2/15/2022,11:33 PM,1:12 AM,United,9.13,123,989.6,Business,On Time,Boeing 787,Rivkah Commander,Anatole Spurryer
+5194,PST,CNP,11/14/2022,9/19/2022,5:17 AM,11:40 AM,United,8.02,51,737.44,First,Cancelled,Boeing 787,Tabor Eckford,Colet Pennyman
+3430,PPZ,BSU,11/28/2022,5/10/2022,6:34 AM,5:45 PM,American,7.23,135,531.38,Economy,On Time,Airbus A320,Loydie Barthelme,Betty Cardall
+6041,BIE,TKI,11/25/2022,1/15/2022,4:06 PM,1:52 AM,United,2.48,310,446.22,Business,Cancelled,Boeing 737,Emmi Jenton,Randene Routham
+5212,FAJ,RML,2/23/2022,5/12/2022,1:25 AM,6:59 PM,American,1.84,442,934.11,First,Delayed,Airbus A320,Greg McLeoid,Nicolas Dongles
+6130,AWP,LFK,6/23/2022,4/5/2022,4:29 AM,2:04 AM,United,8.1,190,602.61,Economy,Delayed,Boeing 737,Cairistiona Edinburgh,Rozelle Puddin
+458,KWJ,HPE,1/16/2022,4/13/2022,5:46 AM,3:36 AM,United,5.33,343,278.56,Business,Cancelled,Boeing 787,Clemens Burnhams,Jaime Algate
+1947,SGO,USM,12/22/2022,8/27/2022,5:39 AM,6:38 PM,American,3.54,197,770.7,Economy,On Time,Boeing 737,Thibaud Guinn,Borden Haycock
+4640,GKK,AFN,12/20/2022,6/5/2022,6:13 AM,3:33 AM,Delta,6.14,6,154.97,Business,Cancelled,Boeing 787,Hobie Fawltey,Edgard Antram
+5355,LEB,DNA,9/27/2022,9/11/2022,2:22 PM,1:46 PM,Delta,9.89,246,547.43,Economy,Delayed,Airbus A320,Kenna Colgrave,Saunderson Didball
+5333,TSS,MAK,4/5/2022,9/7/2022,5:07 AM,7:03 AM,American,5.29,442,754.59,First,Cancelled,Boeing 737,Fayette Colton,Fax Gotling
+9938,YLY,BLA,7/22/2022,9/13/2022,6:34 PM,12:39 AM,Delta,6.64,188,648.17,Business,Cancelled,Boeing 787,Axe Pranger,Valentine Giddins
+250,BFP,EGS,3/17/2022,2/10/2022,4:17 AM,4:21 PM,United,5.81,131,728.09,First,On Time,Airbus A320,Francesco Witz,Hall Bowes
+326,HDF,QNY,9/17/2022,4/6/2022,12:09 PM,5:01 AM,United,3.33,2,858.12,Economy,On Time,Boeing 737,Lorin Beake,Terza Corck
+5944,PWO,BCN,5/4/2022,9/8/2022,1:15 PM,6:28 AM,United,6.67,308,944.34,First,Delayed,Boeing 737,Warren Voss,Tam Pourveer
+2851,SYD,YPD,6/6/2022,1/2/2022,2:58 PM,3:51 AM,Delta,8.56,387,624.91,First,Cancelled,Airbus A320,Ugo Muddicliffe,Afton Goodband
+625,CHH,BKJ,10/9/2022,2/7/2022,9:21 PM,9:40 PM,Delta,5.61,337,277.86,Economy,Delayed,Boeing 787,Maddalena Greenhall,Audi Findon
+8902,NZE,PAB,4/12/2022,3/8/2022,10:47 AM,5:53 AM,American,9.94,90,781.72,Business,Cancelled,Airbus A320,Jessie Baptie,Angela Plum
+325,MEN,BVI,4/24/2022,12/6/2022,11:34 AM,3:39 AM,Delta,1.34,171,230.4,Economy,Cancelled,Airbus A320,Shalne Thorwarth,Stormy Turnbull
+6386,UKS,GRZ,3/20/2022,2/8/2022,10:46 AM,5:46 AM,American,8.98,372,899.29,Economy,Cancelled,Boeing 737,Thorsten Premble,Mehetabel Carous
+5338,RDP,ESD,12/26/2022,10/26/2022,1:19 AM,12:49 PM,Delta,7.31,339,364.72,First,Delayed,Boeing 787,Tim Sesons,Kristyn Turpie
+3912,NRD,HDR,11/4/2022,10/2/2022,8:14 PM,1:49 AM,Delta,7.98,443,736.36,First,Cancelled,Airbus A320,Adora Clarkin,Elisabetta Orta
+3066,DCY,MPG,6/21/2022,1/6/2022,9:48 AM,11:55 AM,American,5.31,294,432.72,First,Delayed,Boeing 787,Danie Mapother,Frayda Turbat
+8646,PQQ,KVX,10/24/2022,4/19/2022,12:29 PM,7:16 PM,Delta,1.14,430,809.94,First,Delayed,Boeing 737,Dulce Swate,Robinetta Turvey
+1723,XNU,WJR,5/11/2022,11/29/2022,4:57 AM,10:54 AM,United,4.58,162,914.69,First,Cancelled,Airbus A320,Merralee Lagde,Newton Maxfield
+5456,YHI,DKK,12/18/2022,8/19/2022,4:30 AM,4:00 PM,United,2.69,445,527.36,Economy,On Time,Airbus A320,Celene Fend,Brook Velti
+4774,MWN,URO,3/18/2022,6/5/2022,5:39 PM,6:26 AM,Delta,4.58,110,363.28,Economy,Cancelled,Airbus A320,Katine Tassel,Delila Pike
+190,LCE,NPP,7/11/2022,11/2/2022,9:33 PM,9:04 AM,Delta,9.72,259,114.39,Economy,Delayed,Airbus A320,Matthus De Roeck,Robbie Burch
+6037,TEN,PAM,11/17/2022,5/24/2022,7:31 AM,11:52 AM,United,8.58,262,92.3,Economy,On Time,Airbus A320,Freda Dzeniskevich,Beaufort Hatwell
+4710,YTB,CZS,1/27/2022,5/17/2022,12:02 PM,6:45 PM,American,7.64,441,649.03,First,Cancelled,Boeing 737,Corry Athey,Collin Birchall
+1925,MJB,NWA,12/9/2022,8/31/2022,10:25 AM,11:17 PM,Delta,1.77,413,493.64,Economy,Delayed,Boeing 787,Masha Mines,Bernie Grand
+8124,BAS,CLZ,4/19/2022,9/16/2022,9:32 PM,7:34 AM,American,7.76,31,193.36,First,Delayed,Boeing 737,Cissy McClements,Gabriella Oaker
+1761,YOW,AZD,11/3/2022,4/20/2022,4:47 PM,1:00 AM,United,9.73,40,598.94,Economy,Cancelled,Airbus A320,Jaye Stroobant,Brnaba Lampbrecht
+8373,YPN,GIL,9/22/2022,8/6/2022,3:48 PM,11:31 AM,Delta,6.6,102,83.57,Business,Cancelled,Boeing 737,Lia Shills,Orly Kenna
+1204,LKZ,OUA,1/7/2022,3/20/2022,9:02 PM,4:43 PM,United,3.7,487,356.33,Economy,On Time,Airbus A320,Hanson Banister,Ryan Ashington
+7880,SSK,SCY,8/29/2022,2/19/2022,8:20 AM,12:32 PM,American,7.79,40,532.69,Business,Cancelled,Boeing 787,Feliks Edgson,Nevil Toolan
+265,TLC,ARU,10/12/2022,2/26/2022,9:52 PM,9:05 PM,American,6.3,117,145.1,Business,On Time,Boeing 787,Justinian Lapides,Pedro Thursfield
+2306,GNV,MHK,4/19/2022,2/13/2022,11:27 AM,2:43 AM,United,9.8,422,442.16,First,Delayed,Airbus A320,Ulrikaumeko Nelthropp,Ibrahim Yurmanovev
+463,HLC,BTR,10/19/2022,7/13/2022,6:03 AM,8:07 PM,Delta,8.78,394,165.78,Business,Cancelled,Boeing 787,Maris Voller,Gaylene Bahls
+1936,ILN,HTG,9/3/2022,3/18/2022,6:03 PM,2:59 PM,American,2.22,189,92.66,Economy,Cancelled,Airbus A320,Mariann Tuffin,Ambrosius Troillet
+1746,TDN,KME,9/27/2022,7/14/2022,7:48 PM,7:55 AM,American,7.31,423,129.78,Economy,On Time,Airbus A320,Nari Shakeshaft,Wyndham Gilmartin
+2122,HMA,HDS,8/31/2022,5/17/2022,8:38 PM,10:58 AM,United,8.6,486,405.9,First,On Time,Airbus A320,Lonnie Dibbs,Barrie Blanchflower
+4793,OML,LCI,7/10/2022,12/23/2022,4:31 PM,11:58 AM,Delta,9.99,325,740.11,Economy,Delayed,Airbus A320,Fee Ambresin,Nikolas Kubes
+6112,LOQ,LME,2/27/2022,11/8/2022,12:04 AM,7:14 PM,Delta,3.96,315,604.19,Business,On Time,Airbus A320,Julienne Bicker,Doloritas Sivill
+2649,MVY,YPT,2/12/2022,3/26/2022,12:47 AM,10:24 PM,United,7.84,486,720.24,Business,Cancelled,Boeing 737,Erny Hanlon,Krissie Tourne
+8417,OHO,OHO,9/14/2022,12/25/2022,3:39 PM,11:42 PM,American,8.48,200,806.43,Economy,On Time,Airbus A320,Rana Guesford,Nehemiah Gothrup
+3708,BCZ,PUP,2/1/2022,1/29/2022,8:00 PM,12:56 AM,American,2.52,404,987.04,First,On Time,Boeing 787,Vanya Pilcher,Leonhard Strooband
+6621,WEH,CIJ,6/27/2022,7/21/2022,10:41 AM,11:25 AM,United,3.95,329,754.97,Economy,Delayed,Boeing 787,Addie Mildner,Diannne Matysiak
+5621,LMC,ARU,8/7/2022,5/10/2022,11:34 AM,3:55 AM,American,7.34,439,776.47,First,Cancelled,Airbus A320,Morie Heffy,Neal Lillico
+139,MWF,OZC,6/27/2022,6/15/2022,10:47 AM,9:14 AM,American,5.9,219,232.25,Business,Delayed,Airbus A320,Randall Aleksashin,Floria Colebourn
+7470,PDV,DOB,11/18/2022,10/12/2022,3:59 AM,1:26 PM,Delta,1.2,221,443.42,Business,Delayed,Airbus A320,Glenna Tzarkov,Tedd Povey
+7856,RBQ,LBN,6/1/2022,2/8/2022,1:22 AM,6:11 PM,Delta,6.12,135,602.4,Business,Delayed,Boeing 737,Izak Lavalle,Murray Archbell
+8356,PQI,KNR,10/17/2022,4/16/2022,5:07 PM,2:58 AM,Delta,1.95,332,746.35,Economy,Delayed,Airbus A320,Merla Brampton,Claudius Voase
+1324,LQN,WRA,3/25/2022,11/10/2022,9:43 AM,1:20 PM,American,2.02,95,134.58,Economy,On Time,Airbus A320,Cal Dennison,Teirtza Lathwood
+1293,LKO,ESK,11/10/2022,2/4/2022,10:26 PM,11:54 AM,American,2.55,183,148.4,First,Delayed,Airbus A320,Sinclair Lombardo,Padgett Byass
+1658,IXM,UUS,9/2/2022,1/10/2022,12:42 AM,5:31 PM,Delta,9.22,29,674.49,First,Delayed,Boeing 737,Shandie Ruthven,Hilda BoHlingolsen
+2621,ECA,OLK,5/29/2022,3/16/2022,12:42 AM,3:07 AM,American,1.8,24,737.92,First,Cancelled,Boeing 787,Jenni Bladge,Baudoin Teligin
+6424,GGO,BDW,2/13/2022,4/3/2022,6:44 PM,3:06 AM,United,7.96,39,958.13,Business,On Time,Boeing 737,Zachariah Pennigar,Ricky Linscott
+5882,KWF,KGY,11/16/2022,6/26/2022,12:30 AM,12:10 PM,American,5.52,249,128.88,Business,Cancelled,Airbus A320,Margery Connold,Read Tour
+5131,YHR,JNG,6/17/2022,5/29/2022,10:25 PM,4:12 PM,American,3.81,2,739.45,Business,Delayed,Airbus A320,Michele Goodbarne,Lynette Ellens
+2576,ALO,KMV,10/11/2022,1/4/2022,10:21 PM,12:38 AM,American,3.25,442,773.15,Economy,Cancelled,Boeing 737,Fielding Phlippi,Reggy Viccary
+1098,ZFD,CXI,6/21/2022,1/11/2022,10:49 PM,10:08 AM,United,1.7,168,709.2,Business,Cancelled,Boeing 787,Ira Rheubottom,Darci Plowes
+9896,SIB,LAK,7/21/2022,7/21/2022,9:56 PM,2:54 AM,American,8.61,195,269.45,Economy,Delayed,Airbus A320,Jehanna Keningley,Michele Honatsch
+5840,MRV,RSD,4/10/2022,4/20/2022,3:58 PM,6:40 PM,United,2.22,77,854.63,First,Delayed,Airbus A320,Ange Graves,Gretna Liley
+2128,TRY,LOZ,5/18/2022,12/27/2022,7:05 PM,3:04 PM,United,1.11,467,905.86,Business,On Time,Airbus A320,Kiri Aslen,Amos Blinkhorn
+2706,PML,LKL,6/3/2022,12/30/2022,12:00 PM,5:16 AM,American,4.78,78,662.86,Business,Cancelled,Boeing 737,Justus Farrance,Gina Pakes
+5690,MKH,EOR,6/20/2022,10/28/2022,3:50 PM,9:01 PM,United,1.83,211,174.2,Business,Delayed,Airbus A320,Tobey Toye,Iver Thowless
+7885,RVN,OPS,9/10/2022,4/30/2022,5:46 PM,8:29 PM,United,5.28,127,920.64,Business,Delayed,Boeing 787,Nicolas Skase,Luise Rodolfi
+9670,ZJI,DKK,6/9/2022,8/18/2022,11:29 PM,6:09 AM,American,3.64,187,432.74,Economy,Delayed,Airbus A320,Clary Jakobsson,Brian Attew
+1546,MFC,TDV,1/7/2022,7/19/2022,1:41 PM,1:56 PM,United,4.11,377,968.71,First,On Time,Airbus A320,Perry O'Gready,Cchaddie Hazael
+4757,TLN,UUN,8/23/2022,4/2/2022,12:44 PM,6:36 PM,Delta,3.58,410,588.3,Business,Delayed,Airbus A320,Rayna Brightey,Toni Borzone
+9128,RPX,ESS,7/25/2022,8/4/2022,5:32 AM,5:20 PM,Delta,1.83,21,745.75,First,Delayed,Boeing 787,Gil Rydzynski,Hyacinth Skeemor
+6451,ITK,AQY,3/10/2022,12/15/2022,3:50 PM,1:30 PM,United,9.16,61,172.87,Business,Delayed,Airbus A320,Matti Thuillier,Waylan Fidgin
+5843,KTC,AHS,9/10/2022,4/3/2022,2:45 AM,10:30 AM,Delta,5.03,219,948.13,Economy,Delayed,Boeing 737,Wiatt Geeves,Gib Pigeram
+1678,YHH,NMN,5/6/2022,5/19/2022,3:23 AM,1:20 PM,American,1.08,387,198.09,First,On Time,Airbus A320,Darcy Drysdale,Neale Beagrie
+5682,ACK,FSN,3/22/2022,9/11/2022,6:59 AM,1:56 AM,United,9.57,458,219.41,First,Cancelled,Airbus A320,Allen Haselhurst,Glenn Varren
+5438,KWE,CVH,9/27/2022,8/31/2022,7:50 PM,4:03 AM,United,9.77,300,122.17,Business,Cancelled,Airbus A320,Ellie Moses,Salem Sushams
+6576,AGP,JNS,8/30/2022,9/5/2022,1:02 PM,9:01 PM,American,7.61,356,726.9,First,Delayed,Boeing 737,Karlotte Dennett,Maren Vannah
+3507,BMU,SAV,11/30/2022,9/23/2022,1:01 PM,7:08 PM,United,7.92,269,995.13,Business,Delayed,Airbus A320,Lorelle Berrill,Dulsea Sherebrook
+3196,PCF,CEE,8/30/2022,2/20/2022,2:59 AM,7:44 AM,Delta,2.06,108,479.14,First,Delayed,Airbus A320,Doria Ambrogioli,Ula Mileham
+7824,AIL,ZRJ,6/30/2022,3/15/2022,7:19 AM,7:06 AM,American,3.21,395,432.36,First,Delayed,Boeing 787,Barrie Pavitt,Kennie Placido
+7216,PWD,TRY,2/12/2022,12/3/2022,8:53 AM,1:21 AM,Delta,7.91,497,432.61,First,On Time,Boeing 787,Jacklin Tineman,Selig Mehaffey
+7413,HVA,BYA,1/3/2022,8/17/2022,1:15 PM,6:11 AM,American,8.99,404,899.39,Business,On Time,Airbus A320,Kelci Iiannoni,Elane Philippet
+1544,OYA,BOQ,2/3/2022,8/18/2022,5:31 AM,8:08 PM,Delta,3.15,393,471.0,Economy,Cancelled,Boeing 737,Aldon Phinnis,Percy Lissaman
+5602,KTU,TNI,10/30/2022,1/7/2022,3:24 AM,5:23 AM,American,8.1,401,428.12,First,Delayed,Boeing 737,Leodora Quarrington,Henrie Olsson
+3083,DCT,WWP,3/22/2022,9/20/2022,9:54 PM,6:07 AM,United,5.14,12,215.22,Economy,Delayed,Boeing 737,Birch Magnar,Brock Simion
+6383,KWN,DTA,8/5/2022,6/1/2022,8:38 PM,6:24 AM,Delta,8.82,269,807.39,Economy,Delayed,Airbus A320,Rosalyn Drewes,Ram Kiossel
+5572,CCN,OUD,3/3/2022,1/20/2022,8:09 PM,6:53 PM,Delta,5.11,89,641.4,Economy,Delayed,Boeing 787,Gratiana Rambaut,Titos Lumsdale
+9768,PES,KKW,2/26/2022,10/9/2022,7:56 AM,8:15 AM,United,4.48,76,165.8,Business,Delayed,Boeing 787,Gerti Albro,Shauna Jaycox
+8568,MHS,MNI,4/14/2022,12/17/2022,4:13 PM,12:01 AM,American,2.51,180,732.9,First,Delayed,Boeing 787,Markos Neve,Fidelia Dumphry
+4774,GHT,HUQ,12/3/2022,2/10/2022,6:50 AM,2:19 PM,United,5.76,84,439.91,Economy,Delayed,Boeing 737,Dynah Haigh,Bird Haburne
+7188,ILH,VLI,5/23/2022,5/19/2022,4:59 AM,9:50 AM,United,1.67,343,962.34,First,Delayed,Boeing 737,Corliss Burwood,Gwyn Whittington
+8374,MPF,RMK,3/5/2022,7/10/2022,11:21 AM,8:42 PM,American,5.69,44,207.35,Economy,On Time,Boeing 787,Ethelyn Pinks,Morty Ropkins
+1504,MBI,ASC,8/22/2022,7/22/2022,6:05 PM,1:10 PM,American,7.51,284,532.83,Business,On Time,Boeing 787,Amalia Hartop,Zandra Younie
+5887,LYU,PIR,9/29/2022,4/22/2022,5:12 PM,3:06 PM,United,1.97,65,65.73,Business,Delayed,Airbus A320,Dodie Arnfield,Clemmie Whetson
+8750,LBE,YCY,11/18/2022,3/18/2022,12:44 AM,2:32 AM,Delta,1.7,456,738.04,Business,Cancelled,Boeing 737,Ermin Flisher,Quintin Retter
+7865,TLL,FKB,6/13/2022,9/20/2022,12:40 PM,1:28 AM,United,5.81,96,524.74,Economy,Cancelled,Boeing 787,Ileana Thornton-Dewhirst,Hagan Durnall
+2791,FOS,TBH,7/14/2022,3/17/2022,5:51 AM,10:24 PM,United,6.96,74,847.33,Economy,On Time,Airbus A320,Madison Saunter,Gale Lawlee
+1791,ABG,AVK,12/19/2022,7/9/2022,11:54 AM,5:55 PM,Delta,9.4,468,534.22,Business,Delayed,Airbus A320,Jasen Casemore,Gusti Giacomi
+5445,PDZ,RUA,4/19/2022,9/30/2022,1:13 PM,9:48 PM,Delta,8.48,152,574.85,Business,Delayed,Airbus A320,Sasha Kulver,Helenka Arrighetti
+3253,EJT,CVB,2/13/2022,12/5/2022,7:08 PM,9:58 AM,United,3.1,26,365.95,Business,Cancelled,Boeing 737,Gonzalo Adelman,Dona Quincey
+7254,BPN,AGR,11/18/2022,9/14/2022,1:56 PM,6:27 PM,United,2.31,328,708.89,Economy,Cancelled,Boeing 787,Giselbert Slingsby,Sampson Brahmer
+3336,DCG,BGV,3/9/2022,12/6/2022,3:11 PM,4:07 PM,American,2.05,435,682.45,First,On Time,Boeing 737,Beryl Sleith,Editha Furman
+392,UYU,MFW,11/19/2022,8/27/2022,8:21 AM,1:45 AM,United,2.98,279,249.43,Business,Delayed,Airbus A320,Miranda Klimczak,Enrico Farre
+4174,COZ,JSY,9/27/2022,2/26/2022,11:29 AM,11:58 PM,United,4.98,81,331.58,First,Delayed,Boeing 737,Gratia Patchett,Lu Cometto
+3071,LTF,CEK,2/5/2022,5/24/2022,9:47 PM,12:17 AM,United,8.85,212,327.63,First,Cancelled,Airbus A320,Thibaud Minard,Brenda Ballentime
+2063,SAL,SOD,7/13/2022,8/20/2022,1:29 PM,6:43 AM,Delta,7.6,214,210.06,First,Delayed,Airbus A320,Mahala Druett,Chandal Dods
+1562,EAL,FNE,6/4/2022,8/4/2022,5:34 AM,1:44 AM,American,7.0,222,764.74,First,Cancelled,Airbus A320,Ambrosio Stanlock,Brett Loadwick
+4068,EDI,ALW,2/26/2022,10/25/2022,8:32 PM,3:43 AM,American,1.2,321,794.63,Business,On Time,Airbus A320,Finn Spragge,Happy Emanuel
+4676,BRK,DIJ,12/5/2022,3/27/2022,8:22 PM,1:44 PM,American,9.32,413,670.45,Economy,On Time,Airbus A320,Koralle Baudi,Lory Braker
+5659,ZLG,GRI,5/16/2022,6/15/2022,3:43 PM,3:44 AM,American,8.27,14,136.93,First,On Time,Boeing 737,Germaine Aveline,Lavinia Rubertis
+315,WBG,JAQ,3/11/2022,5/28/2022,1:21 PM,3:21 AM,Delta,1.41,194,377.43,Business,On Time,Airbus A320,Maddy Brahan,Aleta Danbrook
+5104,YGJ,FRI,6/30/2022,8/25/2022,6:42 AM,7:27 AM,United,6.37,478,556.2,Business,Cancelled,Boeing 737,Nobe Twomey,Berny Alesin
+8594,BLH,RYK,10/2/2022,6/11/2022,2:58 AM,12:18 AM,Delta,2.72,189,968.14,First,Delayed,Airbus A320,Bernete Marquet,Sheila Mather
+294,AIU,FLM,1/7/2022,2/4/2022,4:40 AM,8:07 AM,Delta,7.75,144,370.62,Business,On Time,Boeing 787,Rollo Pawlyn,Cyndie McGarahan
+3899,EKA,IFJ,7/15/2022,12/11/2022,11:28 AM,1:19 AM,American,4.63,3,363.64,First,On Time,Boeing 787,Graham Castano,Alana Temple
+5741,AUJ,UTH,12/5/2022,12/24/2022,11:44 AM,8:18 AM,United,9.93,405,717.05,Business,On Time,Airbus A320,Tonie Northfield,Virgil Feeham
+4770,YPR,BFM,2/4/2022,2/12/2022,12:28 AM,9:39 PM,Delta,3.69,411,610.61,Economy,Cancelled,Boeing 737,Halsey McGloughlin,Olivier Mearns
+3904,AXF,INW,11/25/2022,8/29/2022,11:11 PM,8:29 AM,United,1.85,355,268.92,Economy,On Time,Airbus A320,Magnum Jerke,Huey Askam
+2330,KVR,GAY,6/10/2022,11/30/2022,8:39 PM,10:53 AM,Delta,4.7,492,569.67,Business,Delayed,Airbus A320,Niel Lewerenz,Jackson Yewdale
+9290,KLE,VNT,4/24/2022,5/27/2022,3:26 PM,9:02 PM,Delta,6.05,202,270.36,Economy,Delayed,Boeing 737,Warren Aspling,Ronalda Rowcastle
+2859,DLC,BPM,11/17/2022,11/22/2022,4:54 PM,4:29 AM,Delta,1.29,243,664.44,Economy,On Time,Airbus A320,Florencia Abramson,Modesty Fearick
+9206,MJN,TNK,10/14/2022,11/27/2022,3:15 AM,6:42 AM,American,9.84,239,247.96,Business,Cancelled,Boeing 787,Florida Stickney,Zara Wanne
+877,YBB,EKD,9/21/2022,5/19/2022,8:09 PM,2:33 AM,United,2.71,453,290.15,Business,On Time,Boeing 787,Welch Staley,Edita Ellick
+3860,HRR,QPW,12/4/2022,4/16/2022,12:36 AM,7:44 AM,American,3.66,495,271.34,Business,On Time,Boeing 787,Mable Gian,Richy Vicker
+6216,GRF,RIX,2/22/2022,3/1/2022,10:50 PM,11:14 AM,American,1.83,293,750.87,First,Delayed,Airbus A320,Emelda Peet,Fairlie Zorer
+3153,AOL,QQT,7/12/2022,12/28/2022,5:57 AM,2:11 AM,Delta,8.57,123,786.11,First,Delayed,Boeing 737,Frankie Udie,Isador Bruton
+3664,NMA,LKY,8/6/2022,1/19/2022,5:04 PM,6:58 AM,Delta,6.69,488,648.24,First,On Time,Airbus A320,Early Bustard,Alida Midgely
+3084,HYL,KSH,6/15/2022,3/16/2022,9:40 AM,1:51 AM,Delta,6.09,272,716.14,First,Delayed,Boeing 787,Beryle Tobias,Klement Godbert
+2020,MZG,AAY,11/11/2022,1/26/2022,6:07 PM,11:13 AM,American,4.59,409,697.29,Economy,On Time,Airbus A320,Vanni O'Concannon,Grissel Culy
+8244,DPO,POU,3/28/2022,1/16/2022,1:23 PM,7:50 AM,American,6.34,334,500.57,First,On Time,Boeing 737,Drud Antonucci,Hersch Hadlee
+1004,BIU,PYJ,4/20/2022,7/26/2022,4:43 AM,5:37 PM,Delta,9.22,10,242.34,First,Cancelled,Boeing 787,Raven Swayland,Flem Whitcher
+2192,CMO,GRN,5/22/2022,10/13/2022,5:21 PM,5:00 PM,United,8.92,298,792.25,Business,Cancelled,Airbus A320,Dare Dun,Cassi Abry
+7774,AKH,CLX,9/23/2022,1/8/2022,3:53 AM,1:08 AM,American,3.95,352,191.21,First,Delayed,Airbus A320,Robbert Collerd,Barbie Whatford
+5955,RMA,YEQ,3/6/2022,3/2/2022,7:23 PM,8:12 PM,Delta,4.82,496,892.31,Economy,On Time,Boeing 737,Edin Claussen,Bondon Zanini
+7328,YWG,MGB,2/2/2022,7/18/2022,4:01 AM,6:43 AM,United,7.52,258,616.0,Economy,Cancelled,Boeing 737,Dasi Osman,Hester Braidon
+9599,LWM,LCP,6/7/2022,6/15/2022,7:48 AM,6:22 AM,Delta,3.0,350,795.14,First,On Time,Boeing 737,Heindrick McDougal,Andrea Gaul
+5337,QFI,0,12/22/2022,2/1/2022,7:26 PM,3:53 PM,Delta,2.22,447,455.54,Economy,Cancelled,Boeing 737,Marlo Gerram,Chandler O'Fielly
+8811,UKN,BLF,8/26/2022,12/8/2022,2:15 AM,8:46 AM,Delta,3.57,247,349.82,Business,Delayed,Boeing 737,Riane Cubuzzi,Meridith Robertet
+4127,DND,KVA,4/20/2022,7/21/2022,3:22 AM,1:29 PM,Delta,3.7,57,349.39,First,Cancelled,Airbus A320,Rudyard Baglow,Janie Lewens
+2732,AET,APF,8/28/2022,3/26/2022,9:14 PM,3:36 PM,Delta,9.47,365,345.84,Business,Delayed,Boeing 787,Ahmed Pettus,Aloin Tanner
+4526,VDH,PYH,5/13/2022,12/9/2022,4:54 PM,7:57 PM,American,9.1,66,51.91,First,Cancelled,Boeing 737,Anjanette Bryde,Corabel Damiral
+532,YXL,MRE,7/29/2022,5/4/2022,3:48 AM,9:01 AM,American,7.89,250,797.54,Economy,Cancelled,Boeing 787,Trix Deegin,Gaspar Wignall
+1444,ORW,YEO,9/4/2022,11/2/2022,10:43 PM,8:17 AM,United,5.26,68,785.92,First,On Time,Boeing 737,D'arcy Dugan,Nertie Cicutto
+2003,SUI,XRH,8/16/2022,12/28/2022,12:49 AM,6:39 PM,American,1.41,279,461.25,First,Cancelled,Boeing 787,Jelene Castagne,Deedee Harvett
+4385,YUB,PNA,7/4/2022,9/24/2022,2:37 AM,2:20 AM,United,2.16,76,778.08,First,On Time,Airbus A320,Carny Halley,Kimbra Venediktov
+2181,BUG,SHN,10/7/2022,5/5/2022,1:09 PM,9:48 PM,United,7.19,459,111.96,First,Delayed,Boeing 787,Tuck Whanstall,Alva Kun
+2306,LPB,UTT,4/13/2022,10/6/2022,12:32 AM,10:53 AM,American,2.29,152,825.48,First,Delayed,Boeing 787,Rustin Tomasicchio,Jeffy Binney
+5272,CHJ,IOW,1/15/2022,7/1/2022,3:41 AM,9:51 AM,American,1.06,265,974.28,Business,On Time,Airbus A320,Brian Antowski,Bernette Genner
+6535,WGU,AKQ,8/9/2022,12/14/2022,12:50 PM,7:16 AM,Delta,3.87,259,837.05,First,Delayed,Boeing 737,Delphine Ballendine,Annamaria Crease
+3426,CHQ,FNA,1/10/2022,5/4/2022,11:19 PM,5:30 AM,Delta,9.79,139,866.96,Economy,On Time,Airbus A320,Durante Chaff,Celle Faint
+8258,KUM,MKP,6/19/2022,6/30/2022,9:33 AM,12:37 PM,United,7.77,121,600.2,Business,Delayed,Boeing 737,Marsh Moncrieffe,Dorthy Splevins
+2083,JRF,YNJ,11/19/2022,3/4/2022,12:12 PM,8:33 AM,United,6.83,341,399.31,First,Delayed,Airbus A320,Kerrie Sherebrooke,Seamus Corbally
+3666,IST,PCB,2/15/2022,11/16/2022,8:57 PM,6:34 AM,American,2.01,96,356.25,Economy,Delayed,Boeing 737,Myriam Kays,Hammad Paddell
+4335,KGC,PMX,4/25/2022,9/1/2022,1:11 PM,2:32 AM,United,6.0,157,273.64,First,Cancelled,Airbus A320,Ravid Baress,Monica Sawforde
+8024,HEW,ZHM,2/12/2022,10/27/2022,9:54 PM,7:32 AM,American,6.16,256,331.75,Business,On Time,Boeing 737,Fanny Paulin,Avictor Cayzer
+3742,MZV,EBB,10/15/2022,5/9/2022,3:55 PM,4:34 AM,American,6.75,53,700.54,Economy,On Time,Boeing 737,Kissie Goodswen,Tannie Thorndale
+7512,AMS,PMS,5/7/2022,11/28/2022,8:43 PM,4:48 AM,United,7.67,442,890.79,Business,Delayed,Boeing 787,Hanan Waberer,Emanuele Howford
+9954,TPS,BHQ,2/21/2022,3/2/2022,4:33 AM,8:24 PM,American,8.86,480,212.58,Business,Cancelled,Boeing 787,Ursala Fine,Welch Ivatt
+1160,CRI,TLS,7/18/2022,9/2/2022,6:42 PM,12:47 AM,United,3.95,493,472.64,Economy,Cancelled,Boeing 787,Teresa Mughal,Hodge Rubra
+9159,FMS,WOW,8/2/2022,1/25/2022,8:02 PM,7:44 PM,American,2.1,89,444.48,Economy,Delayed,Airbus A320,Wilton Fawbert,Jenifer Venable
+6497,DIN,HOV,11/16/2022,9/27/2022,10:48 AM,9:43 AM,Delta,9.16,499,720.35,Economy,On Time,Airbus A320,Case Bewfield,Israel Eagles
+2589,YAL,SGC,3/29/2022,7/17/2022,2:30 PM,11:03 PM,Delta,5.63,427,214.85,First,Delayed,Airbus A320,Dalia O'Carroll,Hasheem Sulley
+9412,YXQ,AAM,8/25/2022,3/29/2022,6:48 PM,12:53 PM,Delta,8.36,435,178.95,Economy,Cancelled,Boeing 787,Nikolaos Darwen,Thadeus Clibbery
+3905,TIN,BCT,5/19/2022,4/11/2022,7:04 PM,2:55 AM,American,9.55,382,614.04,Economy,On Time,Boeing 737,Janene Tregunna,Isaiah Boundley
+3998,KWJ,EVG,3/26/2022,1/4/2022,11:23 AM,7:24 AM,United,2.26,388,144.62,Business,Cancelled,Boeing 787,Anita Wilkison,Gracie Hearnshaw
+3734,HYC,MNI,8/31/2022,3/10/2022,6:01 PM,10:51 AM,Delta,6.69,20,714.18,Business,Cancelled,Airbus A320,Gordy Seivertsen,Monika Pennino
+1942,RRT,BMO,11/5/2022,7/21/2022,11:46 PM,1:39 AM,American,9.05,56,593.11,First,On Time,Boeing 737,Frazer Delue,Verne Brandsen
+4150,GLH,COJ,6/4/2022,2/27/2022,8:47 PM,11:47 PM,Delta,9.86,271,889.92,Economy,Delayed,Boeing 787,Kris Havile,Marilyn Pryke
+413,AIF,MVP,8/18/2022,3/13/2022,12:03 AM,8:55 PM,Delta,5.37,4,891.56,Business,On Time,Boeing 737,Willa Aristide,Justis Inglis
+636,DJE,MQD,2/7/2022,3/9/2022,4:32 PM,5:45 AM,United,8.66,326,627.6,Business,Cancelled,Boeing 737,Celestia Ternent,Gae Birdwhistle
+1755,STP,CBC,5/31/2022,11/6/2022,4:10 AM,9:17 PM,American,5.81,460,584.61,First,Delayed,Airbus A320,Jeniffer Ephgrave,Adriana Brackenridge
+345,ATM,AMB,6/11/2022,4/18/2022,7:49 AM,5:30 AM,Delta,1.04,411,634.95,Economy,Cancelled,Boeing 737,Ediva Bunch,Christabella Baptista
+7853,0,YDN,4/3/2022,1/4/2022,3:37 PM,1:59 PM,Delta,1.87,266,704.36,First,Delayed,Airbus A320,Dulsea Scraney,Mirabella Lamble
+6730,SEH,WUN,3/9/2022,2/28/2022,10:25 PM,7:31 PM,Delta,8.86,398,549.17,Business,On Time,Boeing 737,Rolando Bingley,Jocelyn Buffy
+478,ELD,ASG,1/11/2022,3/16/2022,9:54 PM,12:01 AM,Delta,7.94,111,654.98,Business,On Time,Boeing 787,Jenica Persent,Jesselyn Hamberston
+8053,ARV,YRF,6/22/2022,10/16/2022,12:36 AM,2:37 AM,Delta,6.76,456,611.11,First,Delayed,Boeing 737,Gareth Morson,Fanchette Yukhin
+146,NTQ,BCR,10/23/2022,12/9/2022,7:59 PM,3:51 PM,United,2.31,177,457.92,Business,Delayed,Airbus A320,Missy Watton,Doralynne Blinerman
+1322,AUX,YAD,5/12/2022,8/26/2022,10:28 AM,5:15 PM,Delta,6.83,478,793.77,First,On Time,Boeing 787,Korey Rayner,Leonore Bachnic
+7050,OLM,PRS,12/23/2022,8/2/2022,6:43 AM,12:04 PM,Delta,4.03,221,334.04,Business,Cancelled,Boeing 737,Blair Adiscot,Skippie Boom
+5747,MSZ,AKY,9/30/2022,11/9/2022,10:35 AM,5:00 PM,Delta,8.01,385,454.41,Economy,On Time,Boeing 787,Bentlee Pettyfar,Ashlee Gerring
+6050,CAP,TKN,5/12/2022,8/8/2022,2:08 PM,9:02 PM,United,1.16,366,714.61,Economy,Cancelled,Airbus A320,Starlin Westbrook,Zitella Watford
+3622,UTT,TJH,10/2/2022,10/9/2022,3:02 AM,12:48 PM,Delta,6.07,447,561.86,First,Cancelled,Boeing 737,Lebbie Itzcovichch,Lelia Lahy
+4359,DQM,FRO,4/30/2022,6/28/2022,2:05 AM,5:19 PM,American,9.32,49,497.04,Economy,On Time,Boeing 737,Eddy Orford,Rickert Vasilic
+288,AND,PBC,11/1/2022,12/16/2022,2:26 AM,3:40 AM,American,8.08,386,995.1,Business,Delayed,Boeing 787,Emalee Lampaert,Sofia Ozelton
+4750,LJN,OLJ,12/8/2022,2/10/2022,3:35 PM,2:49 AM,Delta,5.98,463,684.01,First,On Time,Boeing 737,Shawnee Crean,Graham Flarity
+2737,SHX,TQS,3/6/2022,6/9/2022,2:19 PM,7:14 AM,American,6.53,407,551.02,Business,Cancelled,Boeing 737,Willdon Parker,Caz Burkhill
+1180,DHD,SAA,1/4/2022,3/19/2022,11:00 PM,9:50 AM,American,9.33,266,485.03,First,On Time,Airbus A320,Starlin Nunn,Carolee Arstall
+6446,NSB,INS,8/31/2022,5/14/2022,2:38 PM,6:55 PM,American,2.67,52,60.01,Business,Cancelled,Boeing 787,Filippo Iley,Marven Skillman
+6452,BOC,VOG,3/2/2022,10/21/2022,10:28 PM,6:54 PM,Delta,9.54,124,361.76,Business,Delayed,Boeing 737,Gusella O'Downe,Robyn Mallya
+256,IXD,BII,7/17/2022,2/11/2022,4:26 PM,3:59 AM,American,2.35,376,973.67,First,On Time,Airbus A320,Jourdain Talbot,Derek Doghartie
+2714,KHS,AKW,9/24/2022,2/23/2022,4:27 AM,11:42 PM,American,3.85,46,539.39,Business,On Time,Boeing 787,Tamra Loveguard,Gwen Rutt
+5326,TJA,AGX,10/20/2022,8/12/2022,4:34 AM,8:59 AM,Delta,6.43,323,761.44,First,Cancelled,Boeing 737,Viva Hodgins,Jaclyn D'Oyly
+7470,OMH,HZK,11/14/2022,10/8/2022,12:24 PM,7:22 PM,Delta,6.04,18,800.93,First,Cancelled,Boeing 787,Danni Clyma,Georgie Pawling
+9494,YQA,JTY,4/1/2022,6/8/2022,3:46 AM,3:37 AM,United,5.37,297,394.94,Economy,On Time,Boeing 737,Morgana Shyram,Annmarie Eaglesham
+4532,EAE,SIN,12/5/2022,4/25/2022,3:35 PM,3:30 PM,American,6.51,328,882.75,Business,On Time,Airbus A320,Addy Peschke,Jaquelyn Potter
+2039,DLR,LDS,4/11/2022,2/19/2022,7:24 PM,11:21 PM,United,8.81,360,623.83,Business,On Time,Boeing 737,Delainey Patience,Ashia Cardew
+6413,BWT,TOD,11/24/2022,6/3/2022,3:36 AM,12:01 AM,Delta,7.7,5,780.72,First,On Time,Airbus A320,Cart Beavers,Rosana Vanyatin
+5156,FIE,FCB,12/30/2022,5/2/2022,2:06 PM,12:27 PM,American,1.09,310,742.91,First,Delayed,Boeing 787,Branden Louch,Grissel Branigan
+3389,OCN,0,11/18/2022,11/29/2022,8:37 AM,3:42 AM,American,6.2,53,333.98,Economy,Cancelled,Boeing 737,Cristian O'Leagham,Chariot Bartkiewicz
+8438,COH,JOS,2/4/2022,11/27/2022,12:41 AM,10:15 PM,Delta,9.72,460,904.93,First,Cancelled,Airbus A320,Nickey Batecok,Devlin Acton
+1841,ULP,AVG,11/26/2022,12/16/2022,5:43 PM,8:54 PM,Delta,7.67,177,884.63,Economy,Delayed,Boeing 787,Reagen Botha,Delcine Dabes
+9282,PCR,KIX,12/6/2022,8/20/2022,6:49 AM,8:53 AM,American,9.92,495,623.58,Business,Cancelled,Boeing 787,Maxim Brideau,Ugo Babcock
+9772,MPF,SBJ,10/16/2022,8/9/2022,3:20 AM,12:25 PM,United,4.0,147,646.41,First,Delayed,Boeing 787,Forbes Casiroli,Lorens Eastby
+9831,HGZ,AGO,1/30/2022,10/2/2022,8:18 PM,4:29 AM,American,5.21,244,989.33,Business,Delayed,Airbus A320,Daisey Gooday,Rene Rickasse
+5257,OTT,WGE,2/19/2022,3/27/2022,12:10 PM,2:54 PM,Delta,5.57,220,501.29,First,Delayed,Boeing 737,Rena Pinock,Louis Adamkiewicz
+2765,YMD,XNA,1/4/2022,5/7/2022,3:47 AM,8:55 PM,American,8.55,434,838.47,Economy,On Time,Boeing 787,Dita Pioch,Robb Haycox
+7036,YPS,KCE,8/6/2022,12/7/2022,4:13 AM,3:44 AM,American,4.2,229,494.17,Business,Cancelled,Boeing 737,Jewelle Tatford,Davidde Hetterich
+4405,MHW,OBY,12/1/2022,4/22/2022,8:45 PM,7:15 AM,Delta,6.57,141,366.76,Business,On Time,Airbus A320,Isabel Whichelow,Joye Yarrell
+3910,PVK,EEK,8/4/2022,4/3/2022,11:16 AM,7:39 AM,United,7.85,179,207.43,Economy,Delayed,Boeing 737,Carson Barford,Berkly Haffard
+5895,EFL,HZP,7/29/2022,3/5/2022,8:11 PM,7:18 PM,American,3.45,219,546.81,Business,Delayed,Boeing 737,Brigitta Setterfield,Godiva Fawkes
+7496,IKU,GAZ,3/13/2022,12/8/2022,11:13 PM,2:10 PM,United,3.74,186,356.69,Economy,On Time,Boeing 787,Diann Risbrough,Cornie Berkeley
+4775,OMI,NLK,9/4/2022,5/9/2022,8:28 PM,7:41 AM,Delta,4.04,419,382.87,Business,Delayed,Airbus A320,Ki Procter,Aldridge Feedham
+9697,MUR,BYQ,2/21/2022,6/4/2022,7:05 PM,3:14 PM,American,9.97,315,122.66,First,Delayed,Boeing 737,Shalom Thirwell,Olympia Rappoport
+301,EGN,MNZ,8/5/2022,5/27/2022,10:28 AM,11:20 PM,American,2.55,316,844.83,First,Delayed,Boeing 737,Kale Ciobotaru,Artair Liddyard
+9415,OZR,KOU,8/6/2022,10/4/2022,3:56 PM,6:28 AM,American,3.61,440,840.33,First,Delayed,Boeing 787,Sari Colloby,Sollie Harrowsmith
+3032,TUS,KLO,2/4/2022,11/22/2022,12:21 AM,10:51 PM,American,8.47,311,501.18,Business,On Time,Boeing 737,Yetta Mew,Jenni Winslow
+5942,HIF,CGE,1/27/2022,3/23/2022,5:53 PM,4:16 PM,United,9.14,102,123.4,Economy,Delayed,Boeing 737,Shirleen Mathivon,Kristoffer Jeanes
+6109,DWC,YRQ,6/22/2022,2/28/2022,5:15 AM,3:32 PM,United,7.28,485,61.35,First,On Time,Boeing 787,Alair Fiveash,Gaby Baseggio
+8256,LKW,QSI,10/9/2022,5/25/2022,10:24 AM,6:07 AM,American,8.18,383,221.05,First,Delayed,Boeing 787,Mathe Coddington,Penn Hanvey
+6616,FLW,NIU,9/16/2022,6/6/2022,8:07 PM,9:03 AM,American,4.93,135,604.7,First,On Time,Boeing 737,Freddie Plane,Sybil Redan
+4654,BYK,ARK,12/24/2022,9/23/2022,12:56 PM,9:34 AM,Delta,6.88,210,806.11,First,Cancelled,Airbus A320,Garald Crissil,Jaime Beaushaw
+6644,LUI,OTC,11/26/2022,9/29/2022,5:58 AM,8:44 PM,United,5.53,243,800.91,Business,Cancelled,Boeing 737,Alberto Sherrin,Celeste Sissens
+8990,IKK,SLT,12/23/2022,4/1/2022,6:30 AM,8:00 AM,Delta,9.7,260,344.62,Business,Delayed,Boeing 787,Kristin McKissack,Joice Peealess
+3018,ALB,SZK,12/9/2022,5/12/2022,6:21 AM,11:53 PM,United,1.93,213,821.98,Economy,On Time,Boeing 787,Roy Fawbert,Hollie Antat
+2042,THL,SLW,9/27/2022,11/13/2022,11:00 PM,11:34 AM,United,3.21,364,701.07,Business,Delayed,Boeing 787,Marlin Stapford,Ax Lubman
+3063,MWH,MWZ,10/4/2022,10/27/2022,8:47 AM,5:20 PM,United,1.29,222,94.73,First,Delayed,Boeing 737,Cherilynn Golda,Frank Stratz
+8996,LMS,CML,1/28/2022,7/15/2022,3:59 PM,12:51 PM,Delta,1.63,155,193.26,Economy,Delayed,Boeing 787,Rabi Forrington,Alex Butte
+3678,LSU,RZS,7/4/2022,8/28/2022,11:11 PM,10:00 PM,American,1.39,221,535.22,First,Delayed,Airbus A320,Jennine Haythorn,Jarred Clew
+7889,FHZ,EEN,2/10/2022,8/23/2022,2:31 PM,5:12 PM,United,8.01,448,799.38,First,On Time,Boeing 787,Lucienne Kubera,Dorey Airlie
+1840,IIL,LIL,11/30/2022,3/30/2022,10:14 AM,9:53 PM,United,7.61,199,840.43,First,On Time,Airbus A320,Cyrille Stodd,Peyton Petyanin
+129,YZG,SJJ,12/19/2022,11/7/2022,9:36 AM,8:03 AM,American,9.56,382,282.63,First,Delayed,Airbus A320,Adele Durbin,Twila Coonan
+3317,YNT,GCC,5/14/2022,11/22/2022,5:52 PM,7:29 PM,United,8.4,24,857.66,Economy,Delayed,Boeing 787,Oby Wolters,Darice Dunstone
+7151,TMX,CBJ,1/5/2022,6/12/2022,6:27 PM,5:40 AM,Delta,2.74,142,571.84,Economy,On Time,Boeing 737,Amelia Wedlake,Doroteya Itschakov
+5288,YVZ,ABA,4/4/2022,9/9/2022,12:54 PM,1:51 PM,Delta,6.79,187,799.74,First,Cancelled,Boeing 737,Alaster Cavozzi,Rutter Tunnick
+4865,NML,IXA,7/17/2022,4/13/2022,3:05 PM,12:42 PM,United,6.78,88,442.57,First,On Time,Airbus A320,Laura Cassella,Oby Akehurst
+2343,MEG,SCY,3/4/2022,11/25/2022,9:39 AM,9:43 AM,United,6.08,374,626.58,Economy,On Time,Airbus A320,Godfree Sier,Gav Gockelen
+4414,TON,AKR,4/2/2022,4/4/2022,7:58 PM,7:37 PM,American,7.19,100,227.26,First,Cancelled,Airbus A320,Violetta Bostick,Kristoforo Ewan
+7271,POM,AYQ,10/15/2022,5/8/2022,11:15 AM,6:27 AM,American,9.86,349,540.9,Economy,Cancelled,Boeing 737,Valera Everley,Inesita Haacker
+7096,KPI,AGN,1/16/2022,8/12/2022,6:05 AM,5:34 PM,Delta,2.78,219,332.66,First,Cancelled,Boeing 737,Catlee Griffith,Perkin Duly
+7831,VNX,HUT,2/25/2022,10/21/2022,3:09 AM,4:08 PM,Delta,2.25,138,67.13,First,Cancelled,Boeing 787,Yank Meak,Angel Davern
+9229,TTE,GGG,8/1/2022,12/11/2022,10:57 AM,8:44 AM,Delta,5.02,36,837.3,First,Cancelled,Airbus A320,Rhodia Durn,Nance Epton
+6331,IGN,MCS,9/28/2022,11/12/2022,8:00 AM,10:26 AM,American,6.12,22,809.55,First,Cancelled,Airbus A320,Jojo Kumar,Adi Harron
+2173,EJN,HDS,4/12/2022,9/28/2022,7:31 PM,8:17 AM,Delta,5.86,411,549.37,Economy,Cancelled,Boeing 787,Addia McGerr,Zack Poytheras
+4361,CBF,IDK,10/28/2022,9/23/2022,11:03 AM,3:49 AM,United,3.65,162,992.57,Business,Cancelled,Boeing 787,Celle Bibby,Beckie Worster
+7296,MAC,SUA,1/12/2022,9/2/2022,8:07 AM,10:07 AM,American,8.38,398,426.11,First,Delayed,Airbus A320,Josepha Telford,Sibel Westbury
+5083,OSN,HMB,4/20/2022,10/2/2022,6:49 PM,9:26 PM,United,1.06,166,889.2,Economy,Cancelled,Boeing 737,Base Corringham,Catherin Asif
+246,TZX,OFJ,9/4/2022,8/15/2022,11:46 AM,2:31 PM,American,1.73,291,225.03,Economy,Delayed,Airbus A320,Lauren Cherry,Gertrudis Ainslie
+2509,QLS,YFJ,2/5/2022,4/23/2022,7:18 PM,12:48 AM,United,8.49,1,456.2,Business,Delayed,Airbus A320,Lutero Bithell,Corrianne Brason
+526,VVN,DGF,2/26/2022,12/19/2022,8:26 PM,1:12 AM,Delta,9.42,207,590.72,Business,On Time,Boeing 737,Inglebert Hartles,Christi Dyster
+8730,RCA,LFP,4/11/2022,4/4/2022,6:16 PM,3:45 AM,American,9.7,142,563.3,First,Delayed,Airbus A320,Leif Deluca,Aldo Kelso
+3350,GEG,RND,11/15/2022,4/1/2022,7:25 AM,10:17 PM,American,7.34,19,643.79,Economy,On Time,Boeing 787,Katey Mulvin,Lurleen Hartly
+2699,MJJ,GTP,9/20/2022,8/1/2022,5:59 AM,10:40 AM,Delta,7.93,374,938.39,Business,On Time,Boeing 787,Sally Lumsdale,Henka Reinhardt
+2485,BLE,ZQL,9/8/2022,7/3/2022,10:05 PM,5:38 PM,United,1.85,123,81.21,Economy,Cancelled,Boeing 737,Ida Cracoe,Burg Toderbrugge
+3301,KLJ,HUU,2/12/2022,5/7/2022,4:51 AM,3:36 AM,American,9.82,479,912.65,First,On Time,Boeing 737,Will Cristoforetti,Mahala Redwin
+8476,HVB,IAO,2/9/2022,1/29/2022,2:50 PM,12:50 AM,American,9.52,33,78.25,Economy,Cancelled,Boeing 737,Piggy Talby,Kleon Dable
+4094,AIU,GRV,9/19/2022,10/22/2022,6:55 PM,5:10 AM,American,9.51,437,181.67,First,Cancelled,Boeing 787,Louisa Limb,Aaron Raoul
+5368,BWU,RUG,2/13/2022,8/31/2022,2:21 AM,2:39 PM,American,8.12,9,721.32,Business,Delayed,Airbus A320,Zilvia Metcalf,Waite Chanders
+2499,INL,BSW,2/8/2022,1/4/2022,12:23 AM,3:31 PM,United,5.12,190,546.58,Economy,Delayed,Airbus A320,Wainwright Clemmitt,Rafaela Velte
+7788,SIF,FGI,6/16/2022,4/11/2022,6:41 AM,10:57 AM,Delta,9.89,164,270.22,Business,Delayed,Airbus A320,Tiffi Shawdforth,Thaxter O'Gormley
+8467,YHS,UMU,9/29/2022,4/8/2022,3:27 PM,7:03 AM,United,5.26,39,506.68,First,Cancelled,Boeing 737,Ewell O'Luby,Malynda Ranfield
+9289,MTU,DOV,8/10/2022,4/25/2022,1:19 PM,10:27 PM,Delta,8.13,178,851.75,Economy,On Time,Boeing 737,Marcella Paulsen,Hans Farnaby
+7459,IWA,KII,10/14/2022,7/26/2022,8:48 PM,9:19 PM,Delta,4.25,35,126.52,Economy,Cancelled,Airbus A320,Eal Acedo,Barny Jeeks
+3586,VGZ,CWL,9/16/2022,1/1/2022,6:01 AM,6:52 AM,Delta,5.61,112,729.75,Economy,Delayed,Airbus A320,Ronnie Stopps,Pip Yerill
+5919,SKQ,YOE,6/26/2022,3/3/2022,8:48 PM,7:08 PM,Delta,9.89,375,587.43,Economy,On Time,Boeing 737,Merrick Jehaes,Ariela Fardy
+7345,CLE,CAL,9/28/2022,5/7/2022,6:58 PM,11:54 AM,Delta,7.43,136,398.69,Economy,On Time,Airbus A320,Gill Broad,Cathleen Payton
+6542,ZLR,MDA,8/7/2022,5/13/2022,7:45 PM,7:04 AM,American,7.51,14,502.77,First,Cancelled,Boeing 737,Betteann Ghioni,Craggie MacGinley
+9884,MCA,LAJ,2/20/2022,5/3/2022,10:31 AM,3:42 AM,United,8.56,199,176.06,First,Delayed,Boeing 737,Eliza Lambertson,Grata Prott
+1792,YNA,UKA,9/5/2022,9/29/2022,7:19 AM,12:26 PM,American,3.09,331,935.88,Economy,Delayed,Boeing 787,Trish McLaren,Florida Borge
+3456,OUA,ODH,11/12/2022,7/18/2022,3:29 PM,11:56 PM,American,9.72,160,721.53,First,Delayed,Boeing 787,Umberto Batkin,Dominique Gault
+4995,0,PUJ,7/13/2022,11/28/2022,12:32 AM,8:20 PM,United,1.35,125,489.92,Economy,Delayed,Boeing 787,Scotty Bonanno,Ruthanne Codling
+7880,BOA,NNG,9/4/2022,7/29/2022,12:46 PM,8:44 PM,United,1.22,226,65.71,First,Delayed,Boeing 737,Jameson Fosdyke,Sibel Jonathon
+4291,LTI,KOX,9/17/2022,4/8/2022,10:11 AM,2:55 PM,United,2.5,270,853.57,Economy,Cancelled,Airbus A320,Say Allkins,Loutitia Lansbury
+7751,WXN,YQY,7/25/2022,2/18/2022,4:01 AM,3:13 AM,American,6.58,264,416.89,First,Cancelled,Airbus A320,Lindsay Castellet,Hayward Bilson
+4366,MOG,IAH,5/5/2022,4/21/2022,7:53 AM,11:13 PM,American,7.62,297,352.89,First,On Time,Boeing 737,Chris Goligher,Bonnie Phelan
+1360,BDX,LFI,4/4/2022,6/24/2022,9:02 AM,7:23 PM,American,2.74,95,597.09,Business,Delayed,Airbus A320,Kahaleel Sherrell,Shawn Ramirez
+8973,DXE,NVY,3/21/2022,11/19/2022,6:54 PM,2:41 AM,Delta,8.4,148,980.87,Economy,Delayed,Boeing 737,Ketti Camocke,Riannon Cavy
+2959,GHA,TGU,3/4/2022,5/22/2022,1:59 PM,7:11 PM,American,6.2,101,413.16,Economy,On Time,Airbus A320,Kare Phizackarley,Victor Madoc-Jones
+1001,0,UUD,8/3/2022,12/19/2022,11:59 AM,1:18 PM,American,6.02,452,776.41,Economy,Delayed,Airbus A320,Rudy Beggini,Taddeusz Garvie
+3659,ZDY,IKT,10/7/2022,5/6/2022,11:36 AM,3:08 AM,Delta,8.31,216,299.47,Economy,On Time,Airbus A320,Petra Kiehl,Randene Caselli
+4435,ATE,CNB,1/10/2022,6/2/2022,2:00 AM,7:28 AM,Delta,5.5,306,259.11,First,On Time,Airbus A320,Staford Giorgetti,Ivan MacBean
+2859,CSR,MWR,9/8/2022,4/9/2022,4:37 PM,2:33 PM,Delta,3.2,147,590.92,Economy,On Time,Airbus A320,Naomi Ponde,Desdemona Dei
+2037,GOI,PAX,7/27/2022,12/7/2022,1:44 AM,8:54 AM,United,4.72,368,866.84,First,Cancelled,Airbus A320,Vladamir Torritti,Bertie Hoggan
+4526,NDD,AAY,8/27/2022,10/16/2022,7:35 PM,10:33 AM,Delta,2.4,57,870.62,Business,Delayed,Boeing 787,Kristel Searl,Melisande Friese
+4281,TJU,PHO,3/31/2022,2/26/2022,3:47 PM,3:14 AM,Delta,2.63,216,501.16,Business,On Time,Boeing 787,Appolonia Janik,Alwyn Klemensiewicz
+1111,RTC,CRC,5/22/2022,8/2/2022,6:24 PM,4:42 PM,American,3.9,262,809.98,Business,Cancelled,Boeing 787,Dorolice Mitchinson,Dorelle Budd
+8426,JLS,MEF,3/11/2022,5/25/2022,5:08 PM,2:58 PM,American,1.98,89,215.06,Business,On Time,Boeing 787,Ruggiero Gouldstraw,Millard Bonnaire
+1838,RCL,RJH,7/10/2022,7/13/2022,11:54 PM,7:19 PM,United,5.37,441,98.22,Business,Cancelled,Boeing 787,Torrey Petto,Thomasine de Nore
+5387,FAA,DUQ,8/26/2022,12/21/2022,11:23 PM,2:57 PM,American,2.35,383,966.4,First,Cancelled,Boeing 737,Shena Furmenger,Gearard Dayton
+3426,HUB,TGN,4/27/2022,6/3/2022,5:32 PM,12:21 PM,United,5.18,120,811.07,Business,On Time,Boeing 737,Raviv McTurlough,Arabela Denyer
+5467,SFC,SBZ,7/5/2022,5/23/2022,12:29 PM,5:03 PM,United,8.9,122,84.53,First,On Time,Airbus A320,Simonne Bassilashvili,Deerdre Yesipov
+9104,WSB,BDL,11/23/2022,3/28/2022,6:29 PM,3:16 AM,Delta,7.1,486,730.84,Business,On Time,Boeing 787,Shela Jackman,Tommy Mcettrick
+568,WRT,MSJ,9/8/2022,7/14/2022,6:15 AM,1:24 AM,American,3.05,159,194.81,Business,Cancelled,Airbus A320,Joyan De Lisle,Misty Percy
+9130,CLC,TNB,7/14/2022,6/20/2022,4:00 AM,10:12 AM,American,8.89,218,762.58,First,On Time,Boeing 737,Portie Pumphreys,Brooks Nemchinov
+3383,LSZ,YAH,6/16/2022,10/27/2022,2:20 AM,2:18 PM,Delta,3.73,103,52.91,Economy,Cancelled,Airbus A320,Fergus Albasiny,Lucia Seagar
+496,AAJ,IXE,7/22/2022,4/13/2022,12:13 AM,2:07 PM,United,8.82,483,62.02,First,Cancelled,Boeing 737,Cornela Meiklem,Ezmeralda Cuschieri
+2873,RMY,PDZ,12/5/2022,10/31/2022,11:05 AM,3:40 AM,United,7.1,155,293.53,First,Cancelled,Boeing 737,Stu Collecott,Annalise Hanalan
+9567,IVC,YDC,10/28/2022,1/21/2022,4:42 AM,12:31 AM,United,8.19,347,167.84,Economy,On Time,Boeing 787,Philis Lemmers,Erinna Ballister
+7982,BFD,OTK,3/28/2022,8/10/2022,11:24 AM,4:06 PM,Delta,9.85,286,471.98,First,On Time,Boeing 737,Roseanne Leigh,Murry Breffit
+2111,GBK,BUT,5/20/2022,10/28/2022,4:06 AM,7:28 PM,Delta,3.52,264,734.33,Economy,On Time,Boeing 787,Osmund Tomley,Trix Melley
+8121,MJU,TBB,12/20/2022,4/22/2022,11:05 AM,12:39 PM,United,6.98,269,460.37,Business,Cancelled,Boeing 787,Waite Fernez,Sherman Sedgman
+5813,JHM,XAU,7/18/2022,6/23/2022,8:14 AM,4:15 PM,American,7.27,437,459.94,Economy,Delayed,Airbus A320,Fairleigh Gethins,Josh Eckley
+1775,MZM,JNB,10/30/2022,6/5/2022,12:34 PM,11:55 PM,Delta,2.77,488,844.0,Business,Delayed,Boeing 787,Hilliary Ferreras,Donna Dommett
+5081,CKY,OAJ,1/24/2022,6/4/2022,9:46 PM,9:56 PM,United,6.54,6,545.09,Business,On Time,Airbus A320,Brandise Buxey,Clay Stonham
+7531,DPA,PBJ,1/3/2022,6/4/2022,9:46 AM,4:59 AM,American,3.05,50,469.3,First,Cancelled,Airbus A320,Elisa Aughtie,Berk Connors
+8243,SQL,ERR,8/7/2022,6/15/2022,6:48 PM,7:04 AM,United,3.85,428,477.86,Economy,On Time,Boeing 737,Bev Milam,Cheryl Jancso
+6673,TKI,GPO,12/21/2022,11/25/2022,8:18 AM,4:49 PM,United,5.8,310,723.2,Economy,Cancelled,Boeing 787,Marlene Bench,Abey Adlem
+2224,SLS,MQM,8/28/2022,12/13/2022,5:40 PM,2:12 PM,Delta,4.39,365,485.68,Business,Delayed,Airbus A320,Doroteya Nower,Michele Studdeard
+4374,JLN,YHI,10/14/2022,6/1/2022,1:29 AM,10:23 AM,United,9.85,428,110.31,Business,Delayed,Airbus A320,Valle Rubee,Land Mewburn
+4916,DMB,YGO,9/26/2022,2/3/2022,12:21 PM,11:23 AM,United,9.7,81,789.21,Business,On Time,Boeing 737,Sam Lartice,Royal Scarr
+3865,LRM,GVR,3/22/2022,9/19/2022,6:08 AM,8:14 AM,Delta,8.85,143,998.19,Business,On Time,Airbus A320,Tyne Giocannoni,Kristo Baraclough
+5625,CNI,FBU,1/24/2022,11/18/2022,9:31 PM,1:14 PM,United,4.86,193,887.87,Business,On Time,Airbus A320,Floris Pulster,Sandor Semarke
+8429,KYZ,YFC,4/18/2022,5/27/2022,6:29 PM,8:16 PM,United,5.99,380,357.57,Business,Delayed,Boeing 787,Hakim Widmoor,Orsola Danilovitch
+8919,AIR,BCX,6/25/2022,4/28/2022,6:16 AM,12:26 PM,American,3.51,435,539.73,Business,Cancelled,Boeing 787,Elbertine Jakovijevic,Brooks Chismon
+8823,HBR,IHU,12/12/2022,4/18/2022,9:15 PM,8:15 PM,United,6.99,493,974.63,Economy,Delayed,Boeing 787,Vivianne Bicksteth,Ermin Ponten
+527,KPP,ONL,3/19/2022,6/27/2022,1:47 AM,11:11 PM,Delta,5.81,289,933.65,First,Cancelled,Boeing 787,Barb Cicculi,Etheline Curnokk
+5828,GAB,QHP,12/22/2022,7/12/2022,6:11 PM,8:48 AM,American,5.85,228,627.3,Economy,Delayed,Boeing 787,Bernete Crooke,Ranee Seine
+1654,SUU,YHP,3/5/2022,5/15/2022,5:02 PM,6:30 AM,American,5.7,171,793.46,Business,Delayed,Airbus A320,Jennica Stobart,Dimitry Giraudy
+404,0,BKK,6/3/2022,4/14/2022,8:39 AM,4:32 PM,American,8.48,214,575.37,First,On Time,Boeing 787,Brod Vondruska,Candida Pietri
+3197,BER,BDF,4/27/2022,8/20/2022,5:11 PM,11:31 PM,United,2.64,364,596.97,First,Cancelled,Airbus A320,Angie Segebrecht,Kara Alloisi
+6301,LID,AHS,4/5/2022,1/9/2022,5:37 AM,3:00 AM,American,1.1,249,699.47,Business,On Time,Airbus A320,Marion Durnell,Leigha Piel
+8900,QAC,DOO,8/18/2022,3/12/2022,10:35 PM,4:42 AM,Delta,5.62,300,393.89,Economy,Delayed,Boeing 737,Darell McIlenna,Scott Kleinstern
+940,TRE,ADD,11/4/2022,6/15/2022,9:38 PM,5:39 PM,American,2.11,144,764.62,Business,Delayed,Boeing 787,Ingemar Grinston,Noach Crook
+3584,CUV,TSN,10/13/2022,6/5/2022,9:49 AM,2:40 PM,United,4.52,463,298.64,First,Delayed,Airbus A320,Merle Stormont,Ynez Garrood
+420,LMP,ZVK,8/8/2022,7/21/2022,8:29 AM,6:33 AM,American,6.35,412,520.02,Business,On Time,Airbus A320,Brigid Graveston,Cal Sigart
+4456,LSY,ZNZ,1/31/2022,5/27/2022,8:17 AM,2:58 AM,Delta,7.03,52,842.85,Business,On Time,Airbus A320,Philis Kettley,Avigdor Godbold
+7347,JOM,NOJ,7/26/2022,4/18/2022,10:04 AM,11:24 PM,United,9.49,422,718.82,Economy,Delayed,Boeing 737,Myrtie Artindale,Mead Pinnock
+3571,GBZ,ENY,6/26/2022,1/23/2022,3:03 PM,1:18 PM,Delta,6.29,121,821.86,Business,Cancelled,Airbus A320,Alicea Meddick,Fara Bibby
+8339,EGE,LAF,6/16/2022,4/7/2022,4:01 AM,6:37 AM,United,8.53,206,754.9,Business,Delayed,Airbus A320,Archie Keuning,Sena Crafter
+450,WAY,WGO,10/9/2022,8/17/2022,9:47 PM,10:43 PM,United,2.22,298,324.2,First,Cancelled,Boeing 737,Evangelia Leifer,Concettina Scarrott
+7152,OHI,MZC,2/4/2022,7/13/2022,6:53 PM,8:02 PM,Delta,2.27,477,461.09,Economy,On Time,Airbus A320,Jerald Preble,April Outerbridge
+5819,JIM,HEG,4/13/2022,5/30/2022,5:28 PM,9:42 PM,United,7.84,72,142.69,Business,Cancelled,Boeing 787,Walliw Bilbery,Sascha Cheel
+9864,ZBR,GUB,5/24/2022,7/17/2022,4:08 PM,9:42 PM,American,3.33,116,793.05,Business,On Time,Airbus A320,Andria MacCaig,Hedwiga De Morena
+1514,PSO,HTZ,12/25/2022,1/12/2022,9:11 PM,8:09 AM,Delta,7.89,89,285.86,First,Delayed,Airbus A320,Lara Pinkard,Ellary Regan
+1744,NGE,ILK,1/12/2022,12/17/2022,9:55 AM,8:19 PM,Delta,6.52,397,367.58,Economy,Delayed,Airbus A320,Nelly Coupar,Bartholomeus Seemmonds
+7980,ALP,KTO,8/3/2022,10/21/2022,12:14 PM,9:03 AM,Delta,8.46,48,973.91,Business,Delayed,Boeing 787,Dredi Popping,Bathsheba Peartree
+7252,NOB,DGD,2/22/2022,5/5/2022,5:05 AM,2:02 PM,United,2.38,119,862.86,Business,Cancelled,Airbus A320,Hazel McAteer,Norina Brammall
+8886,NIX,KPT,5/26/2022,4/15/2022,3:12 PM,10:32 PM,Delta,6.52,11,310.36,First,On Time,Airbus A320,Paco Asken,Massimiliano Mayow
+1665,HTM,TGV,11/10/2022,2/20/2022,11:36 AM,7:35 PM,Delta,2.57,132,353.64,Economy,Delayed,Airbus A320,Cherilyn Fitzjohn,Carolyne Eastabrook
+6364,KWK,PMM,7/21/2022,10/21/2022,2:53 PM,11:51 AM,United,4.82,342,734.98,First,On Time,Boeing 787,Karole Carden,Kym Orvis
+2758,COF,QPD,11/24/2022,10/31/2022,3:19 PM,5:37 PM,Delta,4.63,454,164.5,Economy,Cancelled,Airbus A320,Birgit Valens-Smith,Steven Hillitt
+9573,CTI,YMU,3/22/2022,4/2/2022,4:32 PM,9:59 PM,Delta,2.22,329,199.05,Business,On Time,Boeing 737,Nadine Chesters,Gerty Brookesbie
+1139,SGL,APR,11/7/2022,6/8/2022,4:31 AM,3:05 AM,American,4.45,139,929.11,Business,On Time,Boeing 737,Raoul Halvosen,Cookie Bytheway
+152,HRK,PRM,10/4/2022,7/27/2022,3:38 AM,4:24 PM,United,3.77,64,582.63,Business,On Time,Boeing 787,Barrie Kitchen,Rhett Berrecloth
+6348,GMM,RGE,8/29/2022,11/30/2022,9:57 PM,3:32 AM,United,2.51,460,210.54,Economy,Delayed,Boeing 787,Ulrick Wastling,Urbain Bartlett
+5538,KHT,GDJ,9/20/2022,5/6/2022,11:30 PM,11:28 PM,American,4.65,489,989.38,Business,Delayed,Airbus A320,Frannie Acomb,Clarabelle Howselee
+5606,CKR,BLK,7/18/2022,6/18/2022,2:15 AM,5:50 AM,Delta,2.22,102,141.57,First,Delayed,Airbus A320,Raleigh McCaughen,Griselda Lemmens
+4606,PLF,LBR,3/19/2022,2/19/2022,2:33 AM,6:28 AM,United,4.25,398,86.94,Economy,Cancelled,Boeing 737,Jocko Tezure,Pattin Noakes
+4861,NLG,BZG,3/9/2022,10/20/2022,4:15 PM,8:26 AM,United,2.59,447,672.99,First,Delayed,Airbus A320,Staci Bechley,Kelly Sawford
+2103,YGB,GLR,2/16/2022,11/25/2022,10:25 AM,8:53 PM,American,8.05,50,419.31,First,On Time,Boeing 787,Yul Fraulo,Halley Manser
+6394,CZJ,QOJ,3/29/2022,9/18/2022,2:04 PM,11:08 PM,American,6.05,473,515.34,First,Cancelled,Boeing 787,Britni Spalton,Maison Khristoforov
+2027,RAV,OEC,10/20/2022,8/23/2022,5:09 PM,2:57 PM,American,5.88,219,751.21,Business,Cancelled,Airbus A320,Wash Geere,Norrie Brogiotti
+459,ELF,WRN,3/28/2022,1/25/2022,2:54 PM,11:21 PM,American,5.44,189,999.9,First,On Time,Boeing 787,Conroy Ledeker,Greg Havis
+6182,THA,MEI,3/4/2022,7/14/2022,9:20 PM,7:09 AM,United,5.86,103,317.19,Business,Delayed,Boeing 737,Fulton Strephan,Georgy Allsep
+6493,NQY,KGY,4/26/2022,12/30/2022,9:32 AM,9:43 PM,United,9.78,94,328.99,Business,Delayed,Boeing 737,Olin Monsey,Gerry Prosser
+4528,GDW,VTU,7/5/2022,5/17/2022,11:59 AM,6:40 AM,American,4.2,73,585.24,Business,Delayed,Boeing 737,Fionnula Davidai,Ernst Collop
+4933,DTU,SZX,11/22/2022,2/28/2022,3:02 AM,3:27 PM,American,1.88,44,345.35,Economy,Delayed,Boeing 787,Carter Scoffins,Auberon Symington
+2430,PUW,DVK,9/28/2022,5/24/2022,5:43 PM,9:58 AM,Delta,7.03,17,612.8,First,Delayed,Boeing 737,Wittie Fannon,Bronnie Catterson
+2375,LDO,LZC,2/5/2022,3/29/2022,4:15 PM,5:06 AM,American,2.24,160,138.66,Economy,Delayed,Boeing 737,Alexandrina Artz,Letta Schott
+7330,ADS,LEJ,7/31/2022,7/17/2022,9:41 PM,6:39 AM,United,8.9,252,74.96,Economy,Delayed,Airbus A320,Erick Harold,Lindsay Brendeke
+1173,ISA,VNR,6/18/2022,3/31/2022,3:22 AM,11:30 AM,American,7.52,374,554.34,First,On Time,Boeing 787,Grange Foye,Jori Wafer
+1352,JAP,HPE,6/29/2022,9/24/2022,5:25 PM,4:05 AM,United,9.31,181,713.2,Business,Delayed,Boeing 737,Aldus Wedgbrow,Jolee Gemlett
+1769,VGD,AUL,8/11/2022,4/1/2022,10:32 AM,4:42 PM,United,5.59,125,302.65,Business,Delayed,Airbus A320,Madeleine Shewsmith,Evangelin MacCarrick
+413,AEY,KWK,1/13/2022,8/29/2022,7:56 AM,7:31 PM,Delta,9.67,224,457.69,Economy,Cancelled,Boeing 737,Elaine Chanter,Bibbie Sweeny
+9796,SPB,AUZ,11/11/2022,10/20/2022,6:00 PM,4:12 PM,American,5.89,53,979.6,First,On Time,Boeing 737,Bendix Jacob,Burke Ewen
+4179,IOW,MVY,9/30/2022,11/8/2022,8:08 PM,4:24 AM,United,3.98,362,839.27,First,On Time,Boeing 737,Codie Zuker,Gwenora Philbrook
+9920,YMS,ABH,9/12/2022,12/24/2022,11:25 PM,3:50 AM,American,1.63,377,591.8,Economy,Delayed,Airbus A320,Rubin Oddy,Merilee Girodier
+146,CUC,GIF,2/2/2022,8/22/2022,9:15 PM,9:07 PM,American,6.87,85,189.44,Business,Delayed,Boeing 737,Em Rushbrooke,Marcela Brinkman
+4547,YXU,BDK,5/16/2022,2/6/2022,4:21 AM,3:02 AM,Delta,4.98,360,573.68,Economy,Delayed,Boeing 787,Normie Tarpey,Darrell Greensite
+430,BYT,DYL,8/13/2022,9/17/2022,6:02 AM,3:44 PM,United,2.33,201,846.14,Economy,Delayed,Airbus A320,Marybeth Sedworth,Ronny Challicombe
+1857,SNH,MDO,6/7/2022,11/24/2022,6:53 AM,12:05 AM,United,1.19,389,960.12,Economy,On Time,Boeing 737,Rosalyn McNelis,Kingsley Plet
+2177,TED,BKZ,12/2/2022,6/4/2022,7:25 AM,5:09 AM,Delta,8.99,131,663.43,Economy,On Time,Airbus A320,Almire Whiterod,Derick Hutsby
+5238,YAB,MZC,10/15/2022,7/8/2022,8:28 AM,6:40 PM,Delta,7.2,468,455.06,Business,On Time,Boeing 737,Alexia Diggins,Cele Dart
+701,DPT,YPN,11/6/2022,10/20/2022,8:50 PM,11:15 AM,United,5.05,495,884.72,Business,On Time,Boeing 737,Sigrid Scolli,Jenica Jobes
+3043,BKQ,DSI,4/12/2022,5/27/2022,4:52 PM,10:56 PM,United,3.68,3,307.55,Business,Delayed,Boeing 787,Moreen Cordet,Demetrius Clemo
+6290,CYX,BBO,12/27/2022,7/31/2022,2:27 AM,12:10 AM,American,4.45,104,311.84,Business,Cancelled,Boeing 787,Rosemaria Joyner,Florian MacGibbon
+1118,MQC,HAR,4/6/2022,7/16/2022,10:40 PM,4:04 AM,Delta,2.0,226,568.08,Economy,Delayed,Boeing 737,Ted Keld,Leontine Lillie
+4952,SLG,MBD,12/19/2022,12/30/2022,7:11 AM,3:27 AM,Delta,1.14,79,663.21,Economy,Cancelled,Boeing 787,Rurik Putman,Dukie Dybbe
+628,CBV,BAE,4/7/2022,2/22/2022,1:29 AM,2:06 PM,Delta,6.39,464,832.42,Business,Delayed,Boeing 787,Madge Semark,Benjie Kaesmakers
+5470,YMB,BXY,9/17/2022,5/10/2022,12:49 PM,5:35 PM,Delta,8.64,446,530.25,Business,Delayed,Boeing 737,Liuka Zukerman,Renee Kinrade
+6430,CCC,HBX,8/26/2022,2/23/2022,6:03 AM,1:08 PM,American,2.07,111,819.65,Business,On Time,Airbus A320,Ninette Swinyard,Brigida De Malchar
+4407,EVG,HVE,6/19/2022,2/10/2022,6:50 PM,4:06 PM,Delta,4.36,146,387.58,Business,On Time,Boeing 787,Killie Dowyer,Tonya Sea
+1807,GID,PXU,11/29/2022,1/7/2022,4:41 PM,4:58 PM,Delta,6.77,328,754.12,Business,On Time,Boeing 737,Julianna Byrd,Audra Weiser
+9824,PJC,XGN,3/27/2022,12/28/2022,12:22 PM,1:09 AM,Delta,3.88,219,75.39,Economy,On Time,Boeing 787,Gale Bromfield,Dallon Brunke
+504,UEO,ACV,4/29/2022,2/18/2022,11:56 PM,8:46 PM,Delta,3.04,156,173.04,First,Delayed,Boeing 737,Dean Geeve,Guillemette Behneke
+8257,LWE,MYD,10/28/2022,6/2/2022,2:11 PM,8:46 PM,Delta,1.28,11,317.25,First,On Time,Boeing 787,Magdalene Cruise,Correy Totterdill
+6511,PKJ,HEH,3/21/2022,11/26/2022,9:27 PM,8:09 AM,Delta,2.41,271,60.78,Business,Cancelled,Airbus A320,Westbrook Stanton,Miles Bicknell
+5486,MNF,LDY,10/7/2022,11/30/2022,11:07 AM,8:45 AM,Delta,4.64,238,812.31,First,Cancelled,Boeing 737,Tiebout Lintin,Galven Cullinane
+6414,JTR,NCN,1/15/2022,7/6/2022,6:08 PM,10:59 PM,American,9.42,295,804.0,Economy,Cancelled,Boeing 787,Rolland Tylor,Tye Martine
+9609,0,TWD,11/10/2022,6/25/2022,8:37 PM,1:36 PM,Delta,9.51,50,244.46,Economy,Delayed,Boeing 787,Gilly Roderighi,Marylee Bastow
+8274,LUI,AKI,9/29/2022,4/13/2022,1:24 PM,5:07 PM,American,3.43,95,489.09,First,On Time,Boeing 737,Ingram Stannislawski,Bruno Newbury
+6320,SLA,LHR,10/4/2022,8/19/2022,10:27 AM,12:31 AM,American,3.47,383,979.23,First,Cancelled,Boeing 737,Odette Kerswill,Titos Ineson
+1253,UAQ,AXD,5/7/2022,12/22/2022,6:09 PM,5:56 PM,United,3.0,366,849.09,Economy,Delayed,Airbus A320,Devondra Jarrett,Elwira Esel
+2411,DZO,HOC,11/23/2022,1/17/2022,6:09 PM,7:43 PM,United,8.37,160,991.16,Economy,Cancelled,Airbus A320,Alfons Olivazzi,Calv Crosetto
+6980,QBC,GVE,9/8/2022,6/4/2022,4:06 PM,4:43 AM,United,3.92,424,917.16,First,On Time,Boeing 787,Mandi Musker,Carlyn Hoult
+2634,OSU,FEC,10/30/2022,12/27/2022,3:12 AM,9:41 AM,American,7.52,25,344.61,Economy,On Time,Boeing 787,Clevey Pesak,Roxy Thebeaud
+8022,DGA,KOT,3/31/2022,11/30/2022,6:44 PM,7:55 AM,American,4.04,377,884.6,Business,Delayed,Boeing 787,Merna Rove,Maxie Hannond
+5392,PVU,GEE,10/3/2022,12/27/2022,9:32 AM,8:03 AM,United,4.1,113,538.4,Business,Cancelled,Airbus A320,Barnaby Guard,Gaultiero Petzolt
+7766,DZU,YRN,4/12/2022,3/12/2022,7:01 AM,5:30 PM,United,4.58,189,454.48,Business,Delayed,Airbus A320,Mike Mawd,Carce Berrey
+6788,KII,DYL,5/29/2022,9/21/2022,1:41 PM,12:14 PM,American,2.14,65,976.34,Business,Delayed,Airbus A320,Free Temblett,Mile Mossdale
+2884,YDA,AGD,8/23/2022,11/9/2022,4:48 AM,1:39 AM,Delta,7.74,427,680.12,First,Cancelled,Boeing 737,Georgeta Rhydderch,Andras Beeby
+5387,LUV,LKE,4/21/2022,9/18/2022,2:20 AM,10:09 AM,United,7.71,382,157.98,First,Cancelled,Boeing 787,Nickie Siflet,Cilka Sole
+5814,BDU,MFC,7/27/2022,5/4/2022,11:08 PM,9:35 PM,Delta,1.53,264,333.67,Business,On Time,Boeing 787,Marketa Gunney,Tyler Pabst
+8159,EGO,GSJ,12/26/2022,7/3/2022,10:21 AM,10:40 AM,United,5.87,328,777.09,Business,Cancelled,Boeing 787,Eugenius Dubock,Lanie Kellard
+1398,NNL,AKA,10/10/2022,8/9/2022,10:17 AM,8:35 PM,Delta,1.0,326,574.91,First,Cancelled,Boeing 787,Teirtza Lathwell,Thorvald Brocklebank
+4901,ELT,SUK,6/21/2022,5/14/2022,4:09 AM,8:57 AM,Delta,5.81,174,384.63,First,Delayed,Boeing 787,Berty Gange,Farrell Moubray
+3539,MEN,MCH,11/19/2022,9/14/2022,4:19 AM,7:20 PM,United,2.0,235,358.98,First,On Time,Boeing 737,Rachelle Veness,Theressa Habeshaw
+6471,MYI,VDM,4/27/2022,3/29/2022,4:39 AM,5:00 AM,American,7.71,459,399.86,Economy,Cancelled,Boeing 737,Elfrida Hargitt,Devland Gabbitis
+407,GJA,IGR,6/6/2022,4/16/2022,2:36 AM,7:56 PM,Delta,5.94,353,811.0,First,Cancelled,Boeing 787,Elsbeth Ayars,Krispin Shovell
+6140,RBM,FIN,12/9/2022,8/1/2022,2:03 AM,2:39 AM,American,4.7,374,798.67,Economy,On Time,Airbus A320,Karolina Tierney,Lane McGaffey
+1360,DOY,JXN,6/4/2022,7/15/2022,8:43 AM,12:58 AM,United,1.09,129,826.69,First,On Time,Boeing 737,Austine Becker,Briney Telfer
+933,LSC,RAM,2/13/2022,4/9/2022,12:03 PM,5:46 AM,Delta,6.93,498,646.23,Business,Delayed,Boeing 737,Frannie Illsley,Mart Born
+1918,YYU,NSI,8/25/2022,2/14/2022,9:02 AM,7:50 PM,Delta,7.9,419,881.93,Business,On Time,Airbus A320,Sasha Rojahn,Lynnet Choke
+4825,CEZ,DGE,3/27/2022,2/16/2022,9:18 AM,3:59 AM,United,9.36,271,684.24,Business,On Time,Boeing 737,Orelle Piele,Winfield Whyte
+1238,AYU,GGO,8/8/2022,2/3/2022,1:04 AM,10:44 PM,United,4.04,70,199.66,Business,Cancelled,Airbus A320,Teddi Kybird,Marabel Rupp
+6337,DAT,PHI,1/7/2022,7/10/2022,4:25 AM,8:56 AM,United,3.19,23,683.53,Economy,On Time,Airbus A320,Isadore Rabjohn,Nickolaus Stetson
+8562,PCA,SAN,12/2/2022,11/4/2022,3:43 AM,11:18 AM,United,6.36,136,412.58,First,On Time,Boeing 737,Bernelle Brasher,Tabbitha Veryard
+4463,LUW,ECG,3/1/2022,9/27/2022,2:19 PM,4:47 AM,United,6.93,472,336.56,Economy,Delayed,Airbus A320,Max Wateridge,Decca Proudlove
+2199,AJL,FAR,1/22/2022,2/3/2022,6:26 AM,11:26 AM,United,7.85,179,571.38,Business,On Time,Airbus A320,Brucie Perryn,Gene Greensted
+5271,RTA,SSV,3/4/2022,1/10/2022,10:54 AM,5:41 AM,American,3.21,62,687.98,Economy,Delayed,Boeing 737,Morna Boow,Randall Kenna
+8791,OKJ,KGF,9/2/2022,9/17/2022,6:53 PM,11:39 PM,United,7.29,98,448.71,First,On Time,Boeing 787,Natividad Leyes,Luther Sigfrid
+708,RLG,ILF,1/20/2022,7/26/2022,7:01 AM,6:49 PM,United,8.51,339,523.09,Economy,Cancelled,Boeing 737,Verina Mateev,Giulio Camelli
+339,SWU,BLN,6/25/2022,12/29/2022,6:23 AM,4:07 AM,American,3.95,267,495.59,First,Delayed,Boeing 787,Neron Gentiry,Ugo Dellenbroker
+1413,RZA,KYL,2/28/2022,1/10/2022,10:11 AM,1:18 PM,United,2.06,494,634.89,First,On Time,Boeing 737,Roi Colenutt,Francklyn Punt
+8728,RNU,DGG,1/13/2022,6/12/2022,7:13 AM,2:31 AM,United,4.75,137,990.28,Business,Delayed,Airbus A320,Curt Spiby,Elfrida Born
+6435,FSL,KLV,4/25/2022,4/6/2022,8:03 AM,4:03 AM,American,3.92,416,150.56,Economy,Delayed,Boeing 787,Harley Boreland,Jaquith Ramsell
+7976,PKE,YQR,2/8/2022,3/14/2022,3:17 PM,5:14 AM,United,3.65,213,374.82,First,On Time,Airbus A320,Kyle Raccio,Johnna McKnockiter
+6144,XCH,LKZ,6/27/2022,10/31/2022,1:46 PM,9:59 AM,Delta,2.31,336,712.58,First,Cancelled,Boeing 787,Con Connor,Hermione Aishford
+2172,UTA,BGR,11/24/2022,10/28/2022,2:50 PM,2:12 AM,Delta,4.3,168,217.81,Business,Cancelled,Boeing 787,Pablo Harback,Jack Dillingham
+3340,AXL,APG,3/14/2022,10/29/2022,3:06 AM,11:39 AM,Delta,7.46,465,744.2,Economy,Cancelled,Airbus A320,Hugibert Ferreira,Garrott Scandrick
+7198,APU,ULU,4/19/2022,4/19/2022,5:36 AM,9:25 AM,Delta,3.25,167,449.31,Business,Cancelled,Airbus A320,Aldon Szymanski,Faye Kellett
+3339,MQS,NVT,2/3/2022,2/7/2022,7:43 AM,11:55 PM,United,3.33,464,713.0,Economy,Cancelled,Boeing 737,Naomi Coverlyn,Tabbitha D'Onise
+352,MYN,UFA,4/27/2022,10/12/2022,9:39 AM,7:45 PM,American,1.81,136,435.27,Economy,Cancelled,Boeing 787,Aharon McAlroy,Adena Loveard
+9224,WKB,WYA,8/10/2022,9/16/2022,1:14 AM,1:59 PM,Delta,2.18,223,445.18,First,Delayed,Airbus A320,Ulrich Canning,Normy Kidsley
+963,BWW,XGR,1/20/2022,12/5/2022,4:46 PM,2:58 AM,United,5.0,322,292.25,Economy,Delayed,Boeing 737,Ariadne Jedrys,Emmy Wasteney
+3255,MZL,LLU,7/2/2022,7/13/2022,2:18 AM,3:12 AM,Delta,9.24,21,876.53,Business,On Time,Airbus A320,Des Capnerhurst,Alla Ionesco
+6427,GSB,RUR,1/4/2022,2/8/2022,12:03 AM,8:34 PM,United,6.22,167,166.89,Economy,Cancelled,Airbus A320,Marc Joreau,Chandra Gradon
+9367,KNX,TVA,1/16/2022,12/25/2022,2:45 PM,3:27 AM,Delta,6.97,360,675.64,First,Delayed,Airbus A320,Felic Beton,Glenda Lisciandri
+5076,ANW,ENL,2/9/2022,10/14/2022,1:43 PM,7:27 PM,American,6.26,391,973.61,Economy,On Time,Airbus A320,Donn Mc Corley,Jojo Gerlack
+280,ABJ,MCS,10/1/2022,9/13/2022,4:33 PM,5:32 PM,American,8.68,420,522.95,First,Delayed,Boeing 787,Elinor Drinkel,Oralie Williment
+6995,NVN,YFR,2/2/2022,1/20/2022,2:56 AM,10:21 AM,Delta,1.8,76,628.73,First,On Time,Boeing 737,Creight Dabrowski,Karen Orhtmann
+9761,KLX,TDL,5/12/2022,1/26/2022,3:14 PM,7:20 AM,American,3.29,21,800.82,First,Delayed,Boeing 787,Aarika Lange,Carlo Rubin
+9169,LHI,ERR,12/13/2022,4/27/2022,6:04 PM,8:01 AM,American,8.14,208,53.49,Business,Delayed,Boeing 737,Torrey Lindbergh,Forest Franke
+7559,PGC,ISS,2/16/2022,6/9/2022,1:50 PM,3:39 PM,Delta,2.22,3,538.07,Economy,On Time,Boeing 737,Gennifer Benitti,Mel Paterno
+4664,LCL,AIK,11/30/2022,10/4/2022,12:02 PM,3:46 PM,Delta,7.15,98,104.94,Economy,On Time,Airbus A320,Vladimir Claydon,Kristi Nassie
+160,HFT,BBS,10/8/2022,11/29/2022,3:52 AM,5:46 PM,Delta,1.51,182,79.41,First,Delayed,Boeing 787,Gun Brychan,Dilly Culpan
+5402,VIA,BDL,8/5/2022,5/11/2022,12:50 AM,3:23 AM,United,9.36,477,124.88,Economy,On Time,Boeing 737,Rani MacCafferky,Miof mela Courtliff
+4445,COJ,SMT,9/1/2022,8/10/2022,5:49 AM,9:34 PM,American,7.8,448,433.8,Business,On Time,Airbus A320,Milton Keets,Tami Beadham
+9944,QPH,ORG,12/29/2022,2/7/2022,5:14 AM,11:26 AM,United,7.1,374,982.69,Business,On Time,Boeing 787,Dode Leake,Enrichetta Hadaway
+1226,KNT,GOM,5/20/2022,4/26/2022,10:38 AM,4:04 AM,Delta,4.35,20,199.74,Business,Cancelled,Airbus A320,Rebe Chomiszewski,Cahra Enterlein
+3589,GDQ,LNQ,3/2/2022,10/14/2022,10:12 PM,1:14 PM,American,4.48,20,247.68,Business,Cancelled,Boeing 737,Pablo Stalf,Hephzibah Manuel
+4559,ESW,OME,11/4/2022,7/8/2022,7:06 AM,3:27 PM,Delta,2.45,64,118.06,First,Cancelled,Airbus A320,Emilee Cockman,Stacie Yearns
+4509,DRE,LYK,3/26/2022,9/7/2022,10:48 PM,12:54 PM,Delta,2.05,174,357.84,Economy,Cancelled,Boeing 787,Philbert Pervoe,Bryan Becerro
+8894,ITR,VFA,6/14/2022,7/6/2022,3:14 PM,6:43 AM,United,7.48,436,277.87,First,Delayed,Boeing 787,Shell Banford,Shanon Aberdeen
+5567,GDV,WSA,1/4/2022,3/17/2022,4:41 PM,6:26 AM,United,4.84,225,260.23,Business,Cancelled,Airbus A320,Walther Myring,Yance Lace
+9078,SCQ,KRU,3/30/2022,9/26/2022,10:53 AM,12:41 PM,United,8.79,363,215.21,Economy,Delayed,Airbus A320,Gibb Nixon,Sherline Gryglewski
+5010,MVB,CWR,1/20/2022,8/31/2022,4:46 PM,2:22 PM,Delta,1.03,176,477.33,Economy,On Time,Boeing 787,Werner Adkin,Raimundo Higbin
+8667,LPB,SQF,4/17/2022,4/13/2022,2:37 AM,10:34 PM,American,6.86,80,140.75,Economy,On Time,Boeing 787,Aguie Elliff,Roddy Beeton
+1657,MYY,YJT,12/29/2022,6/16/2022,5:19 AM,4:10 PM,Delta,3.73,150,299.67,First,Delayed,Boeing 787,Sigmund Slowly,Gus McAughtrie
+4475,TLM,NZY,9/13/2022,6/22/2022,10:19 AM,3:18 AM,Delta,8.95,123,535.26,First,On Time,Airbus A320,Sydney Yersin,Rosabella Westrip
+2970,MNX,WSR,5/20/2022,5/22/2022,12:12 PM,12:01 AM,United,1.56,147,650.62,Economy,Cancelled,Boeing 787,Junie Kyndred,Janeen Sinclar
+9302,BJY,CVB,2/20/2022,2/7/2022,10:28 PM,11:03 PM,United,3.4,494,555.6,First,Cancelled,Boeing 737,Orton McGuane,Brittni Gerritzen
+7540,BYR,CXJ,1/19/2022,6/8/2022,3:07 PM,6:51 PM,American,1.16,202,464.56,First,Delayed,Boeing 737,Concettina Daudray,Kenyon Secretan
+9951,DMN,MRQ,7/11/2022,1/27/2022,12:58 AM,12:21 PM,American,6.54,20,137.69,Business,Cancelled,Boeing 787,Chere Domerc,Cliff Bram
+2700,TOD,AYA,6/14/2022,4/18/2022,12:57 PM,12:08 PM,Delta,7.1,363,251.27,Business,Delayed,Boeing 787,Chicky Fendt,Shaylynn Buist
+9249,RIH,MAR,4/10/2022,10/31/2022,9:40 AM,7:19 AM,United,9.39,269,950.05,Business,Cancelled,Boeing 787,Rori Gravenall,Gerard Newport
+9645,BLF,HLB,7/13/2022,4/12/2022,2:48 PM,10:28 PM,American,2.78,286,302.06,Economy,Cancelled,Boeing 737,Carny Kingscott,Daveta Punton
+964,PBR,MRD,12/28/2022,10/18/2022,2:45 PM,3:50 PM,United,1.83,380,958.66,First,Delayed,Boeing 737,Carlee Limpenny,Leslie Shimman
+8492,ULM,KII,1/2/2022,5/21/2022,3:05 PM,10:02 PM,Delta,4.7,81,361.82,First,Delayed,Airbus A320,Karrie McFaul,Joline Goodyer
+7616,HOT,CHB,6/12/2022,6/22/2022,6:50 PM,7:23 AM,Delta,6.07,273,715.95,Business,On Time,Boeing 737,Torin McParlin,Lefty Saggs
+5739,CQM,OTH,3/20/2022,7/25/2022,1:54 PM,1:50 AM,American,5.72,80,195.1,Economy,Delayed,Airbus A320,Babara Hoggan,Jeremy Dudden
+3588,UPR,KXA,4/27/2022,1/7/2022,9:13 AM,7:03 AM,Delta,5.49,225,67.51,Business,Delayed,Boeing 737,Carie Byk,Shayne Maloney
+6682,TGZ,NLK,2/13/2022,1/26/2022,3:58 AM,12:55 AM,American,9.98,257,534.64,Economy,On Time,Airbus A320,Zachery Betjeman,Cad Lettley
+2032,UKK,USM,11/25/2022,7/29/2022,3:13 AM,3:50 PM,Delta,1.14,69,332.86,Business,On Time,Airbus A320,Evie Sloat,Jeni Oliver-Paull
+3257,CML,ISB,12/14/2022,10/29/2022,9:45 AM,7:53 PM,United,6.99,393,663.18,Business,On Time,Boeing 787,Calvin Densey,Ingar Venour
+2388,SZY,FLM,5/25/2022,3/9/2022,2:55 AM,7:17 PM,Delta,5.7,108,271.42,First,Cancelled,Boeing 787,Arvin Oventon,Zuzana Dibble
+1327,BHG,LEW,11/22/2022,4/10/2022,8:30 PM,12:19 PM,Delta,3.85,23,614.83,Business,Cancelled,Boeing 737,Sascha Creyke,Bethena Hovey
+5899,IOM,HKD,1/23/2022,1/24/2022,10:19 PM,3:25 PM,United,6.95,243,286.12,Business,Delayed,Boeing 737,Will Frear,Daron Teanby
+8321,TBR,OVD,12/30/2022,5/29/2022,2:55 PM,7:00 PM,American,8.8,323,388.82,Business,On Time,Airbus A320,Gordy Larimer,Eleanore Antoniak
+1634,SYS,JIU,5/14/2022,5/11/2022,10:28 PM,4:22 AM,American,1.13,194,944.46,First,Cancelled,Boeing 737,Alexia Greswell,Carine Conti
+5651,ELJ,BCO,8/22/2022,10/20/2022,11:20 PM,4:22 AM,United,4.23,143,215.3,Business,On Time,Airbus A320,Con Strangwood,Cyrillus Allon
+6395,PIK,PSC,5/4/2022,6/5/2022,3:43 PM,12:28 AM,Delta,1.98,251,543.34,First,On Time,Boeing 737,Abdel Buckhurst,Lexie Popplewell
+4878,BTM,ALC,6/20/2022,12/1/2022,10:12 PM,6:49 AM,American,5.98,432,741.85,Economy,On Time,Boeing 737,Keely O'Gorman,Boris Illem
+5834,STI,PTF,5/9/2022,1/10/2022,6:15 AM,10:08 PM,United,9.55,307,982.74,First,Cancelled,Boeing 737,Lu Sedgemond,Justina Treanor
+310,ANS,BNN,10/29/2022,6/23/2022,8:17 PM,8:15 PM,Delta,5.99,228,266.63,First,Cancelled,Boeing 737,Felic Barringer,Laurie Ellph
+3942,ENK,MMX,8/3/2022,8/24/2022,11:50 AM,6:07 AM,Delta,1.5,355,423.99,Economy,Delayed,Airbus A320,Faydra Fitchen,Xylia Sitch
+6185,XAL,WAN,8/17/2022,1/23/2022,3:28 PM,10:24 PM,American,2.02,208,609.59,Economy,Cancelled,Airbus A320,Josie Nassi,Lyman Selley
+9007,KMZ,CLN,9/2/2022,2/17/2022,9:12 PM,12:22 AM,American,9.76,216,414.48,First,On Time,Boeing 737,Gayelord Enderle,Marley Haycox
+6633,BQS,ERC,2/18/2022,1/17/2022,1:56 AM,3:19 PM,Delta,7.08,65,468.68,First,Delayed,Boeing 787,Kristien Beven,Chiquita Yeskin
+7451,OPB,UGU,6/5/2022,2/24/2022,5:11 PM,2:48 PM,United,9.37,144,396.62,First,Cancelled,Boeing 787,Meriel Bridge,Row Agdahl
+6007,BNP,KRU,8/18/2022,3/17/2022,7:34 PM,1:09 AM,American,3.33,250,420.01,Economy,Cancelled,Airbus A320,Hubert Filtness,Amelia Reddecliffe
+9654,YQR,ALA,6/26/2022,6/8/2022,2:09 PM,10:03 AM,Delta,2.26,313,404.21,Business,Cancelled,Boeing 787,Vivyanne Shingles,Pascal Nunnerley
+3209,MPK,GTT,10/28/2022,10/4/2022,5:10 PM,10:39 AM,United,5.22,249,849.94,First,Delayed,Airbus A320,Deeanne Shelsher,Pammi Halleday
+1030,MJF,DOA,6/27/2022,3/25/2022,8:21 PM,12:42 PM,American,5.37,427,584.34,Economy,On Time,Airbus A320,Maxy Trevna,Georges Ebbett
+5572,TKW,IZA,5/6/2022,4/24/2022,7:36 AM,9:00 PM,Delta,4.06,13,313.33,Business,Cancelled,Airbus A320,Isac Sowle,Tedie Parks
+6153,RAC,NTI,7/2/2022,7/25/2022,9:25 AM,9:54 PM,United,2.23,447,62.04,Economy,Cancelled,Boeing 737,Dorthea Benoit,Ky Takle
+1529,MYO,PGR,9/20/2022,3/6/2022,4:27 PM,12:34 AM,Delta,3.09,146,628.93,First,Cancelled,Boeing 787,Eddy Elcom,Sophronia Pettengell
+8895,YQQ,MCL,8/12/2022,5/4/2022,10:19 PM,12:42 AM,Delta,9.54,15,955.61,First,Cancelled,Boeing 737,Lyle Scarrott,Elenore Slevin
+1802,WYS,ESO,10/2/2022,8/1/2022,1:25 PM,2:37 PM,American,6.3,146,278.5,Business,On Time,Boeing 737,Tann Stebbin,Rahal Turville
+7961,YNM,YZY,9/18/2022,2/28/2022,5:04 AM,12:35 AM,United,2.38,403,381.28,First,On Time,Boeing 737,Noll Gilks,Lucila Kira
+998,JTY,UPP,12/8/2022,2/27/2022,11:32 AM,7:31 AM,American,3.43,254,114.33,Business,Cancelled,Boeing 737,Mercy Maryet,Reyna Kirkwood
+1913,TJH,KMN,3/20/2022,4/13/2022,12:01 PM,10:49 PM,United,2.55,341,141.14,First,Cancelled,Airbus A320,Beth O'Sheils,Heywood Jansson
+1750,YAQ,RCN,5/13/2022,3/19/2022,4:38 AM,1:00 PM,United,4.41,416,521.94,Economy,On Time,Boeing 787,Nata Elliston,Carol Seaton
+2723,SBG,GOC,6/28/2022,8/24/2022,12:01 AM,8:35 AM,American,7.11,289,962.24,Business,On Time,Boeing 737,Berry McPhater,Gan Cooley
+892,DRJ,AVL,3/10/2022,6/17/2022,8:45 PM,8:36 PM,Delta,4.47,112,797.48,Business,Cancelled,Boeing 787,Gisela Predohl,Anestassia Riggs
+8778,OTI,OMB,6/26/2022,12/12/2022,8:59 AM,9:03 AM,Delta,4.59,166,794.39,Business,Delayed,Boeing 787,Aguistin Isack,Steward McKevin
+2391,TZL,YRF,10/3/2022,3/5/2022,9:18 AM,2:48 AM,Delta,6.1,427,763.83,Business,Delayed,Boeing 737,Jonell Goulthorp,Ignace Biskup
+3904,KAE,YYG,9/17/2022,6/6/2022,1:39 AM,6:23 PM,United,4.8,144,687.09,Economy,Cancelled,Boeing 787,Clio Timny,Odelinda Goodman
+4197,MQK,YNO,11/24/2022,11/22/2022,10:34 AM,8:19 AM,United,1.28,280,410.29,First,Cancelled,Boeing 787,Phedra Yurov,Iosep Scarffe
+5912,XBB,ALI,5/19/2022,3/12/2022,5:59 PM,5:07 PM,Delta,9.18,403,50.39,Economy,On Time,Airbus A320,Wildon Cordel,Miles Tewkesbury.
+2290,LTH,WUD,2/11/2022,1/9/2022,10:02 AM,12:41 AM,American,3.53,104,612.28,First,On Time,Airbus A320,Elfrida Klosa,Felisha Jaquiss
+3100,EVW,KML,12/23/2022,4/30/2022,3:58 PM,4:28 AM,American,3.01,287,667.77,First,Cancelled,Boeing 737,Howey Corker,Annmaria O'Henery
+3768,JCT,YVR,6/28/2022,9/8/2022,6:57 AM,11:00 AM,United,3.6,446,353.09,First,On Time,Boeing 737,Tammy Vivyan,Hurley Mandrey
+2300,DJB,YBL,11/6/2022,11/13/2022,11:03 PM,8:18 AM,American,7.31,220,556.97,Economy,Delayed,Airbus A320,Hortense Maha,Caitrin Maillard
+7350,BCG,PPG,10/10/2022,9/16/2022,9:48 AM,6:31 PM,Delta,8.88,410,272.26,First,Cancelled,Boeing 737,Hynda Shieldon,Kennedy Lafay
+8923,BBJ,0,2/8/2022,10/29/2022,5:00 PM,12:03 PM,United,2.25,408,821.03,Economy,On Time,Boeing 787,Danny Longdon,Kathryn Pamment
+8457,KYI,BDN,12/6/2022,5/2/2022,2:54 PM,5:44 PM,United,8.99,85,548.1,Economy,Cancelled,Boeing 737,Revkah Adamovitch,Cymbre Volkers
+4833,MLV,TGT,2/24/2022,10/18/2022,12:37 PM,4:34 PM,United,1.69,303,948.32,Business,Delayed,Airbus A320,Saw Autin,Brigit Duxfield
+6406,EMD,KBL,10/24/2022,5/23/2022,3:15 PM,12:05 AM,United,5.37,443,375.95,First,On Time,Airbus A320,Avie Chaperling,Beverly Andrichuk
+4555,KRF,AGJ,2/9/2022,5/23/2022,3:29 AM,10:33 AM,American,8.54,328,189.93,First,Delayed,Boeing 737,Dania Trulock,Clerc Aloway
+7888,MDP,EBS,9/30/2022,10/3/2022,6:31 PM,10:53 AM,American,1.92,497,459.52,Business,On Time,Boeing 787,Mose MacFadden,Tonia Wofenden
+7069,UDI,AIC,5/20/2022,5/7/2022,7:58 AM,7:22 AM,Delta,6.59,176,146.51,Economy,Delayed,Boeing 737,Filide Manssuer,Cullin Cowmeadow
+2005,HSK,TIU,6/7/2022,1/20/2022,3:46 PM,5:13 PM,United,9.22,246,518.45,Economy,Delayed,Boeing 737,Salli Suarez,Ware O'Scollain
+4158,FOO,VIB,2/14/2022,1/23/2022,10:21 AM,3:09 AM,United,2.75,4,118.75,Business,Cancelled,Boeing 787,Louis Fettes,Zorana Flecknoe
+9943,CAN,0,9/24/2022,7/3/2022,7:29 PM,10:31 PM,United,1.41,367,399.73,First,Cancelled,Boeing 787,Priscella Cullotey,Verina Radage
+4489,KWV,XLB,8/9/2022,4/8/2022,9:07 AM,1:57 PM,Delta,3.7,227,447.94,Business,On Time,Boeing 737,Swen Padgham,Gracia Bridges
+6143,IDH,MUC,1/21/2022,7/13/2022,6:29 PM,10:28 PM,Delta,5.26,169,800.1,First,On Time,Boeing 787,Malva Tremouille,Cully Puncher
+7384,VLC,FUB,7/24/2022,3/21/2022,12:55 PM,2:44 PM,Delta,7.44,104,347.65,First,Delayed,Boeing 737,Fransisco McConnal,Roslyn Heijnen
+9943,RIA,BNE,6/28/2022,6/6/2022,7:27 PM,1:35 AM,American,7.62,215,393.92,Economy,Delayed,Airbus A320,Lacey Ege,Hermon Byrde
+2107,NYI,BBE,7/31/2022,12/19/2022,3:52 AM,9:10 AM,American,2.93,82,641.85,Business,Cancelled,Boeing 737,Fredi McLukie,Khalil Reddings
+7034,OUL,OCA,8/15/2022,10/28/2022,6:59 PM,12:36 PM,Delta,8.53,358,826.21,Business,On Time,Boeing 787,Alvin Aronovich,Krishnah Pycock
+1303,YDB,BVZ,8/24/2022,4/7/2022,10:44 PM,6:38 PM,American,5.45,63,240.24,Economy,Delayed,Airbus A320,Maddy Allman,Daphna Ackers
+6269,XNU,PAD,5/24/2022,6/26/2022,9:47 AM,11:36 PM,Delta,3.0,318,940.5,Economy,Cancelled,Airbus A320,Harlin Faithfull,Denys Veracruysse
+9957,WLG,WMO,9/8/2022,12/27/2022,10:25 AM,10:11 AM,United,8.59,480,717.55,First,Cancelled,Boeing 737,Lexine Atthowe,Malchy Clarricoates
+5901,OMK,TCR,11/9/2022,12/10/2022,11:56 AM,10:17 PM,Delta,9.86,470,552.67,Business,Delayed,Boeing 737,Layton Baudasso,Renato de Broke
+2096,KZN,KNJ,6/6/2022,1/9/2022,4:25 PM,8:08 AM,United,3.42,267,774.86,First,Cancelled,Airbus A320,Etienne Soots,Wenona Ashcroft
+1866,LID,VOI,10/26/2022,10/13/2022,1:59 PM,2:47 AM,American,5.72,244,940.25,First,Delayed,Airbus A320,Idette Vickerstaff,Candida Kringe
+5377,PWM,LBM,12/5/2022,12/7/2022,11:53 AM,5:09 PM,United,8.51,245,161.8,First,Delayed,Airbus A320,Carlie Peasee,Hanna Napoleone
+7753,CAY,YYQ,1/8/2022,4/5/2022,7:06 PM,10:16 AM,American,6.68,69,484.19,Economy,On Time,Airbus A320,Arley Cherm,Brooke McHarry
+280,MWB,MZY,6/27/2022,2/26/2022,12:47 AM,2:18 AM,Delta,2.24,134,983.74,Economy,On Time,Boeing 737,Reese Swateridge,Alfons Jehaes
+7292,MQN,XYR,3/6/2022,5/27/2022,9:04 AM,6:17 PM,United,3.1,261,994.53,First,On Time,Boeing 737,Afton Von Salzberg,Bess Madoc-Jones
+8640,LXN,SNL,6/11/2022,10/20/2022,7:06 PM,5:02 AM,Delta,5.8,290,846.82,Economy,On Time,Airbus A320,Alanna Alenichicov,Eziechiele Marquis
+3002,BBS,YFX,12/8/2022,8/31/2022,10:14 PM,6:07 PM,Delta,3.83,24,522.0,Business,Cancelled,Boeing 787,Toby Munford,Modestine Bertelsen
+4959,LTC,YAO,10/22/2022,11/15/2022,8:34 AM,7:15 AM,United,5.81,165,559.24,Economy,Cancelled,Boeing 737,Jan Klaff,Thia Chaunce
+9353,KHR,YFX,3/30/2022,6/6/2022,12:11 AM,3:19 PM,Delta,9.69,312,609.68,Economy,Delayed,Airbus A320,Reginald Ritchley,Dexter Darree
+1562,HOK,SVE,9/4/2022,4/23/2022,8:40 PM,12:24 AM,American,1.61,232,746.82,First,Delayed,Boeing 787,Gale Ervin,Bernarr Measham
+952,POX,EKI,9/18/2022,6/2/2022,11:51 AM,4:51 PM,American,6.5,126,119.42,Business,On Time,Boeing 737,Darleen Yitzovitz,Jacinthe Haymes
+730,ABD,MSN,1/4/2022,5/14/2022,4:43 AM,10:06 AM,American,7.22,267,482.09,Business,On Time,Boeing 787,Broderick Matejovsky,Eugine Stickens
+7178,TFL,ACA,12/25/2022,5/12/2022,2:55 PM,7:53 AM,United,5.62,227,789.98,Business,Delayed,Boeing 737,Teodoor Ketch,Raynard Huckerby
+4409,SZV,FDR,3/17/2022,11/16/2022,1:54 PM,5:06 AM,United,6.96,460,401.19,Economy,Delayed,Boeing 787,Cornie Bachman,Jolynn Hucks
+626,LCX,CXY,3/31/2022,4/16/2022,2:36 AM,6:35 PM,United,3.09,34,950.01,Business,Cancelled,Boeing 787,Casper Caunce,Bettine Lindenbluth
+1612,OSR,RHP,3/26/2022,1/4/2022,12:20 AM,3:46 PM,American,7.61,267,806.78,First,Cancelled,Airbus A320,Ynes Tunna,Julie Danbi
+1481,OPF,SZH,2/23/2022,7/25/2022,4:22 AM,11:37 AM,American,2.68,489,284.51,Business,Cancelled,Boeing 787,Chuck Skoate,Queenie Baurerich
+628,PCQ,URY,8/17/2022,6/5/2022,9:28 PM,2:20 AM,American,3.62,80,813.15,Economy,Delayed,Boeing 737,Nicolle Hazelby,Michaela Braunle
+2417,MLR,ATS,2/13/2022,3/4/2022,12:13 AM,12:11 PM,Delta,6.92,93,626.0,Economy,On Time,Airbus A320,Anstice Colthard,Mela Humbell
+8641,KEM,PGN,4/17/2022,6/24/2022,1:22 AM,11:17 PM,Delta,4.78,234,164.38,First,Delayed,Airbus A320,Magdalene Hawthorne,Kincaid Piolli
+1551,LGT,SIU,3/1/2022,2/6/2022,11:17 PM,10:21 PM,American,8.89,4,814.15,Economy,Cancelled,Airbus A320,Olivia Pitts,Guglielmo Pittock
+2807,TOZ,VAI,1/29/2022,12/26/2022,8:04 AM,10:47 AM,United,4.34,47,765.98,Economy,On Time,Airbus A320,Marita Coatts,Carolin Mollatt
+1685,MUF,BZZ,12/7/2022,1/10/2022,5:20 AM,6:18 PM,Delta,1.4,465,530.16,Economy,Delayed,Boeing 787,Minor Hardwicke,Rorke Gawkes
+7318,STJ,JHB,1/12/2022,11/26/2022,3:46 PM,10:59 PM,Delta,7.2,356,381.16,First,On Time,Boeing 787,Diandra Frantzen,Bobbe Goodbur
+8519,BKG,ORK,1/11/2022,7/21/2022,9:55 PM,9:11 AM,American,7.19,75,871.9,First,Cancelled,Boeing 737,Damaris Southerell,Rudd Stallwood
+4597,RSB,AIH,8/15/2022,2/7/2022,5:50 PM,2:54 AM,United,7.08,437,270.91,Economy,Delayed,Boeing 737,Kettie Woolfenden,Lola Andrejevic
+2600,FRO,SDG,11/23/2022,1/5/2022,1:53 AM,11:37 AM,Delta,6.84,249,232.18,Economy,On Time,Boeing 737,Curt Matashkin,Renado Genike
+6767,PLK,KOP,9/1/2022,11/3/2022,12:03 AM,7:02 PM,American,1.2,405,335.19,Economy,Cancelled,Airbus A320,Morganica Cubbit,Caralie Dorcey
+2006,TDV,BDO,7/24/2022,12/23/2022,12:06 AM,2:45 PM,Delta,2.64,41,571.77,First,Delayed,Airbus A320,Elihu MacTrustam,Peta Cyples
+4751,CHQ,JYR,1/19/2022,3/18/2022,9:09 PM,2:24 AM,Delta,1.49,1,463.62,Business,On Time,Boeing 737,Lulu Rentelll,Alie Matiewe
+9604,PAV,SBP,8/1/2022,12/2/2022,9:06 AM,6:48 PM,Delta,5.32,50,964.29,First,Cancelled,Boeing 737,Alidia Baskerville,Rod Lilleyman
+7296,FUE,BKP,11/30/2022,2/10/2022,11:11 PM,4:09 AM,United,7.69,334,815.43,Economy,Delayed,Boeing 787,Ginger Maltby,Miriam Duffett
+460,BMR,YKQ,10/5/2022,5/4/2022,8:44 PM,11:46 PM,United,3.23,62,202.41,Business,Delayed,Airbus A320,Mel Branwhite,Kakalina Crannach
+922,ACF,BWA,10/15/2022,3/31/2022,5:59 PM,8:42 PM,Delta,4.38,97,485.1,Business,Delayed,Boeing 787,Sax Coventry,Lemuel Donaway
+8327,TIL,YYI,5/8/2022,7/1/2022,8:48 AM,1:19 AM,American,6.12,65,384.55,Business,On Time,Boeing 737,Faythe Beeswing,Genny Cottam
+5256,LEA,NKM,4/10/2022,3/13/2022,5:43 AM,10:25 AM,American,8.46,392,431.44,Business,On Time,Boeing 787,Kyle Pinhorn,Storm Stoll
+7991,TEM,IDR,7/10/2022,1/17/2022,4:39 AM,12:39 PM,United,6.91,307,339.45,First,On Time,Boeing 737,Ailina Cousans,Zedekiah Metzke
+7690,PWA,WET,6/18/2022,1/2/2022,7:35 PM,9:49 AM,American,9.53,332,761.66,Business,Cancelled,Boeing 737,Lynett Halsey,Rosaleen Kuhl
+3123,FVM,SYR,5/20/2022,3/1/2022,3:00 PM,3:41 AM,United,9.78,265,558.93,First,On Time,Boeing 737,Tiffanie Cribbott,Morlee Saintsbury
+4121,JLA,ESH,2/10/2022,4/7/2022,7:07 PM,1:16 PM,American,7.6,388,358.5,First,Cancelled,Airbus A320,Diannne Tupman,Mic Janes
+3988,LAA,BSD,5/29/2022,3/29/2022,8:09 AM,8:25 PM,American,6.13,209,248.32,Business,Cancelled,Boeing 787,Hester Buncher,Edie Hirche
+4567,TBL,FUN,6/11/2022,4/25/2022,10:03 AM,5:50 PM,American,3.77,367,736.63,Economy,Delayed,Boeing 737,Edythe Petrakov,Scarface Walton
+5678,SNJ,IHN,8/31/2022,12/24/2022,2:55 PM,2:39 PM,United,6.31,204,545.53,First,On Time,Boeing 737,Allister Rodriguez,Faustine Urpeth
+1297,IFO,KRD,8/2/2022,3/7/2022,4:57 PM,5:03 AM,American,1.12,217,860.21,First,Delayed,Boeing 737,Kimble Twohig,Vivi Andri
+6063,MFJ,HAU,12/9/2022,7/8/2022,7:58 AM,2:16 PM,American,5.52,121,401.94,First,Cancelled,Boeing 787,Juliette Janicki,Zackariah Gready
+404,ABM,MTG,2/22/2022,4/1/2022,6:58 AM,2:50 PM,United,6.53,225,504.44,First,Delayed,Boeing 737,Husein Lamburn,Kin Carlin
+4563,DER,STH,9/5/2022,4/21/2022,3:00 PM,6:37 PM,United,1.35,3,344.74,Business,Cancelled,Boeing 737,Arnuad Tomadoni,Taryn Freathy
+9806,RAT,KDJ,11/23/2022,10/10/2022,10:00 PM,11:43 AM,American,6.82,397,706.1,Business,Delayed,Airbus A320,Alane Von Hindenburg,Sela Pyatt
+4576,CRY,BJJ,3/4/2022,3/23/2022,8:02 AM,1:39 AM,American,5.78,70,944.55,First,Delayed,Boeing 737,Pete Burkwood,Haze Brazear
+5592,TYN,VHY,8/2/2022,10/16/2022,11:16 AM,7:36 AM,American,1.73,414,507.78,Economy,On Time,Airbus A320,Haskel Bloxam,Sawyer Guisot
+1912,YML,BGT,3/27/2022,12/22/2022,3:18 PM,12:50 PM,Delta,2.79,95,413.63,Business,Delayed,Boeing 787,Stewart Keable,Sherie Mahood
+8172,TVS,WOS,11/23/2022,4/22/2022,2:26 PM,2:36 PM,American,2.03,495,808.88,First,On Time,Boeing 737,Anna-diana O'Griffin,Barrett Carmel
+6220,LKH,TGM,5/10/2022,1/1/2022,9:14 AM,5:03 PM,Delta,8.91,157,428.02,Economy,Delayed,Airbus A320,Kip Logsdail,Niels Christofor
+540,LRM,MTS,12/27/2022,1/30/2022,12:10 AM,5:21 AM,United,9.42,410,737.97,Economy,Delayed,Boeing 787,Mohandis Grouen,Gabby Gully
+8606,LOW,LAZ,5/31/2022,1/2/2022,7:06 PM,12:33 PM,Delta,3.71,96,233.12,First,Delayed,Boeing 737,Hillary Degue,Martynne Villaron
+7467,IXM,SGZ,3/28/2022,8/14/2022,6:13 PM,4:05 PM,United,2.19,33,758.85,Business,Cancelled,Airbus A320,Cob Liff,Lynea Marshfield
+7276,VKS,KKS,11/6/2022,5/14/2022,3:58 AM,3:19 AM,American,8.66,208,727.39,Economy,Cancelled,Airbus A320,Benny Martinson,Collette Swancott
+9118,LOQ,TNB,10/12/2022,9/23/2022,6:13 AM,2:13 AM,Delta,9.59,215,221.24,First,On Time,Airbus A320,Emmye Marfe,Dinah Hailwood
+9318,GDD,TPH,5/12/2022,4/2/2022,9:24 AM,12:00 AM,United,3.13,177,306.97,Economy,On Time,Airbus A320,Bernelle Walsh,Allegra Matzaitis
+6245,LEO,MBA,8/13/2022,6/21/2022,7:43 PM,12:01 PM,American,4.78,443,425.29,Economy,On Time,Boeing 787,Zonda Daglish,Loni Filintsev
+998,HTL,GLH,11/30/2022,2/5/2022,10:06 AM,6:28 PM,Delta,5.76,6,303.34,First,On Time,Boeing 737,Prent Bastistini,Noak Fettis
+5704,BQE,LAC,2/6/2022,10/1/2022,11:27 AM,6:15 AM,United,8.82,307,251.81,Business,On Time,Airbus A320,Vanni Brannigan,Kirsten Dedrick
+5023,KNJ,MXR,12/15/2022,8/1/2022,9:57 AM,10:11 AM,United,6.11,406,869.54,First,Cancelled,Boeing 737,Erie Lead,Tammara McPhelimy
+3407,YLY,VSK,8/17/2022,4/2/2022,8:10 AM,8:08 PM,American,4.59,87,237.69,Economy,Cancelled,Boeing 787,Christos Galgey,Kassi Caldera
+3506,BPM,YZF,12/18/2022,2/7/2022,4:32 AM,10:42 PM,Delta,6.97,25,858.19,Economy,On Time,Boeing 787,Neile Sparhawk,Chaddy Shenton
+1305,ZRJ,BJC,5/25/2022,10/1/2022,9:10 AM,10:40 PM,American,3.49,266,512.09,Business,Cancelled,Boeing 737,Broderic Binning,Clarine Amphlett
+1150,BDG,KSN,12/20/2022,5/18/2022,8:39 PM,9:39 PM,American,2.59,302,290.98,Economy,Delayed,Boeing 787,Ottilie Benjefield,Ave Baus
+2683,OKB,SEF,1/13/2022,6/3/2022,7:09 PM,2:31 PM,American,3.76,383,59.83,Economy,Cancelled,Boeing 737,Saraann Fawdrey,Odessa Yesenev
+6124,JGS,CZF,10/16/2022,8/8/2022,7:43 PM,7:21 AM,American,1.37,161,309.0,Business,On Time,Boeing 787,Rikki Abrahamowitcz,Murry McAuslan
+2932,MGN,YVA,3/31/2022,11/22/2022,12:44 AM,4:09 PM,American,8.81,459,894.6,Business,Cancelled,Airbus A320,Stephan Sergeant,Codi McAughtry
+1614,AQY,BQG,5/31/2022,2/25/2022,4:57 PM,8:35 PM,American,4.38,357,629.5,First,Delayed,Boeing 737,Milton Pashen,Farlay Stowte
+2336,BPT,PNE,12/5/2022,8/31/2022,4:56 PM,1:31 AM,American,2.5,463,681.39,Business,On Time,Boeing 787,Kare Dumbrall,Lee Aidler
+5472,SGT,CKT,2/14/2022,7/3/2022,6:48 AM,8:09 AM,United,8.33,299,828.5,First,On Time,Boeing 787,Dulsea Eilhersen,Nelly Debold
+166,HES,PNQ,1/28/2022,4/6/2022,3:25 AM,11:11 AM,Delta,8.27,439,229.17,Business,Delayed,Airbus A320,Cristionna Wicks,Chere Wines
+4242,PWO,TDL,8/15/2022,7/30/2022,9:10 PM,1:43 PM,American,9.85,428,160.56,Economy,Delayed,Boeing 737,Deena Seville,Elsy Huscroft
+8775,SGV,TGL,8/16/2022,4/17/2022,1:12 PM,2:46 AM,United,6.58,477,161.7,Economy,On Time,Boeing 787,Denney Oddy,Meaghan Tenny
+1803,XPR,CSO,6/20/2022,12/12/2022,8:39 PM,5:16 AM,United,1.2,287,358.0,Economy,Cancelled,Boeing 787,Lillis Sanderson,Tony Carbery
+807,CMA,GER,5/28/2022,5/16/2022,4:44 PM,12:25 PM,American,1.64,178,794.51,First,Cancelled,Boeing 787,My Doctor,Saundra Sexstone
+1427,JNG,EDL,10/5/2022,10/27/2022,6:12 AM,6:40 PM,United,4.63,468,647.53,Business,Delayed,Airbus A320,Halley Dowell,Roobbie Bubb
+1880,MDA,SJH,11/11/2022,2/15/2022,9:26 AM,3:56 PM,United,6.77,417,216.88,First,Delayed,Boeing 787,Fanchon Causbey,Annabelle Osgood
+1213,KLQ,TOR,11/26/2022,7/3/2022,1:29 PM,1:37 AM,American,1.33,384,197.46,Economy,On Time,Boeing 737,Catarina Bendell,Josephina Gubbins
+5607,CJM,HYD,6/4/2022,8/15/2022,11:21 AM,6:37 PM,American,4.53,164,630.21,First,Cancelled,Airbus A320,Galvan Grigorey,Bar Broader
+3116,SZF,HGL,1/19/2022,1/21/2022,12:21 AM,11:34 AM,Delta,1.69,371,58.15,Business,Delayed,Boeing 737,Marji Wasielewski,Trudey Freckleton
+1187,PZS,NPP,10/9/2022,10/3/2022,5:40 AM,3:30 PM,United,3.4,390,465.72,First,Cancelled,Boeing 787,Gib Lewinton,Zorina Dawid
+8106,LIL,KTA,6/10/2022,9/16/2022,2:25 PM,1:03 PM,United,2.19,210,289.57,Economy,Cancelled,Airbus A320,Hinze Van der Son,Matthaeus O'Nowlan
+1310,SWE,KIC,4/20/2022,7/26/2022,6:10 PM,11:31 AM,American,5.83,90,967.84,Economy,On Time,Boeing 737,Benji O' Donohue,Sib Reeken
+3711,DUN,MJN,3/27/2022,1/1/2022,6:53 AM,5:25 PM,Delta,3.36,304,696.32,Business,Cancelled,Airbus A320,Marten Angear,Sherwin Embery
+6141,WRA,EGH,9/5/2022,7/9/2022,5:27 PM,7:48 AM,United,3.54,308,201.06,Business,Cancelled,Boeing 737,Rosemonde Casajuana,Chandra Reiner
+1924,BBB,NDJ,11/25/2022,2/28/2022,3:56 PM,6:19 AM,American,3.17,306,971.38,Business,Delayed,Airbus A320,Ainsley Muckart,Myles Comello
+5858,TIA,UNR,4/5/2022,11/21/2022,9:39 PM,3:06 PM,Delta,3.97,52,648.94,Business,Cancelled,Boeing 787,Cary Barta,Gregorio Stranaghan
+261,OTY,LIZ,11/12/2022,5/14/2022,8:33 PM,8:49 AM,United,5.22,474,544.38,First,Cancelled,Airbus A320,Garrott Fielden,Tamqrah MacGeaney
+4036,SHQ,YRR,6/1/2022,7/3/2022,4:25 PM,8:19 AM,American,9.7,10,608.63,Business,Delayed,Boeing 787,Stern Renshell,Allayne Gillott
+9266,REQ,SLW,6/20/2022,2/18/2022,12:26 AM,9:17 PM,American,2.87,7,836.91,Business,Cancelled,Airbus A320,Cornall Geikie,Shena Tumasian
+533,UAI,BDQ,1/23/2022,2/8/2022,5:42 PM,2:07 AM,American,4.62,303,630.01,First,On Time,Airbus A320,Temp Bogue,Andris Lax
+9559,OHT,XES,6/4/2022,3/15/2022,11:46 AM,12:18 PM,United,7.99,258,683.59,Business,Cancelled,Boeing 787,Megen Lesly,Artie Hauxwell
+7319,KGT,IQQ,11/28/2022,4/6/2022,7:38 AM,9:41 AM,United,9.67,434,69.99,Economy,On Time,Boeing 787,Trefor Nickerson,Germana Stuer
+2437,CDE,AUQ,9/10/2022,8/14/2022,11:36 PM,6:54 AM,United,2.85,309,357.78,Economy,On Time,Boeing 737,Clarke Matskiv,Cally Klais
+7215,LWH,MNR,1/18/2022,7/3/2022,11:16 PM,2:14 PM,Delta,7.71,451,815.59,Business,Cancelled,Airbus A320,Beatrisa Gabrieli,Jeniece Skea
+8553,EDW,FFT,8/26/2022,9/29/2022,3:06 AM,9:49 PM,American,5.82,50,445.81,Business,Delayed,Boeing 737,Tiffany Jutson,Lorna Kyffin
+5586,TVS,UBR,12/28/2022,5/29/2022,1:14 PM,2:46 AM,United,9.55,40,714.15,Economy,Cancelled,Boeing 737,Holli Tommasetti,Wendy Nicholls
+4854,AMZ,CFQ,8/19/2022,9/7/2022,3:52 PM,8:04 PM,American,6.82,260,454.04,Economy,Delayed,Boeing 737,Thaine Cartin,Michelina Laingmaid
+9431,NRD,LTG,7/30/2022,6/2/2022,11:23 PM,2:00 PM,Delta,8.81,122,324.83,Business,On Time,Boeing 737,Milton Mucklow,Adrianne Scheffler
+1827,BLZ,CUP,4/11/2022,4/7/2022,9:30 AM,9:55 PM,American,2.57,72,627.88,Economy,Cancelled,Boeing 737,Sheila Condie,Ezmeralda Redmond
+5700,GRM,BSD,4/4/2022,12/14/2022,6:32 PM,4:13 PM,American,1.64,456,267.55,Business,Cancelled,Boeing 787,Athene Kippax,Chance Fylan
+5003,TST,PBJ,6/24/2022,9/26/2022,10:35 AM,9:40 AM,Delta,5.07,121,341.62,Business,Delayed,Boeing 737,Jude Samart,Omero Benois
+3515,GCV,MWR,4/5/2022,7/14/2022,7:18 AM,3:48 PM,Delta,9.1,28,947.77,Business,On Time,Boeing 737,Leland MacGow,Eveleen Baines
+7034,AKX,KKR,3/3/2022,8/4/2022,5:11 PM,12:38 AM,Delta,2.42,206,556.38,First,On Time,Boeing 787,Beverlee Radleigh,Avery Squibe
+6408,MKU,MMV,8/14/2022,5/12/2022,11:58 AM,9:48 PM,American,8.45,473,799.46,Economy,Cancelled,Boeing 787,Cherlyn Klosser,Killie Rennick
